@@ -12,7 +12,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   collect:
@@ -32,17 +31,18 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       
-      - name: Run collection
+      - name: Collect warmup matches
         env:
           FD_API_KEY: ${{ secrets.FD_API_KEY }}
-        run: python scripts/github_collect.py
+        run: python scripts/show_matches.py
       
-      - name: Commit
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git config --local credential.helper store
-          echo "https://github.com:${{ secrets.GITHUB_TOKEN }}@github.com" > ~/.git-credentials
-          git add cache/
-          git diff --cached --quiet || git commit -m "Data update: $(date +'%Y-%m-%d %H:%M')"
-          git push
+      - name: Collect odds data
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python scripts/get_wc_odds.py
+      
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'cache/*.json'
+          commit_message: "Data update: $(date +'%Y-%m-%d %H:%M')"
