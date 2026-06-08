@@ -4,32 +4,25 @@
 name: Football Data Collection
 
 on:
-  # 每6小时运行一次
   schedule:
     - cron: '0 */6 * * *'
-  
-  # 手动触发
   workflow_dispatch:
-
-  # 代码更新时运行
   push:
     branches: [ main ]
 
 permissions:
   contents: write
+  pull-requests: write
 
 jobs:
   collect:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
-          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -44,9 +37,12 @@ jobs:
           FD_API_KEY: ${{ secrets.FD_API_KEY }}
         run: python scripts/github_collect.py
       
-      - name: Commit and push
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          file_pattern: 'cache/*.json'
-          commit_message: "Data update: $(date +'%Y-%m-%d %H:%M')"
-          skip_dirty_check: false
+      - name: Commit
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git config --local credential.helper store
+          echo "https://github.com:${{ secrets.GITHUB_TOKEN }}@github.com" > ~/.git-credentials
+          git add cache/
+          git diff --cached --quiet || git commit -m "Data update: $(date +'%Y-%m-%d %H:%M')"
+          git push
