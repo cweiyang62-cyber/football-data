@@ -1,0 +1,37 @@
+# 世界杯历史数据 (历届完整战绩)
+# 数据来源: Wikipedia / FIFA官方
+
+wc_history:
+  2022:
+    host: "卡塔尔"
+    winner: "阿根廷"
+    runner_up: "法国"
+    third_place: "克罗地亚"
+    fourth_place: "摩洛哥"
+    matches: 64
+    
+  2018:
+    host: "俄罗斯"
+    winner: "法国"
+    runner_up: "克罗地亚"
+    third_place: "比利时"
+    fourth_place: "英格兰"
+    matches: 64
+    
+  2014:
+    host: "巴西"
+    winner: "德国"
+    runner_up: "阿根廷"
+    third_place: "荷兰"
+    fourth_place: "巴西"
+    matches: 64
+    
+  2010:
+    host: "南非"
+    winner: "西班牙"
+    runner_up: "荷兰"
+    third_place: "德国"
+    fourth_place: "乌拉圭"
+    matches: 64
+
+# 待补充: 1930-2006年完整数据

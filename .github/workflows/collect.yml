@@ -1,0 +1,45 @@
+# GitHub Actions - 世界杯热身赛数据自动采集
+# 每6小时自动运行一次
+
+name: Football Data Collection
+
+on:
+  # 每6小时运行一次
+  schedule:
+    - cron: '0 */6 * * *'
+  
+  # 手动触发
+  workflow_dispatch:
+
+  # 代码更新时运行
+  push:
+    branches: [ main ]
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Run collection
+        env:
+          FD_API_KEY: ${{ secrets.FD_API_KEY }}
+        run: python scripts/github_collect.py
+      
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add cache/
+          git diff --staged --quiet || git commit -m "Data update: $(date +'%Y-%m-%d %H:%M')"
+          git push

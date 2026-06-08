@@ -1,0 +1,104 @@
+# 足球数据采集配置文件
+# 更新时间: 2026-06-08
+
+api:
+  football_data:
+    key: "c50e3649bded4ee09620aaf8c820a8ac"
+    base_url: "https://api.football-data.org/v4"
+    timeout: 30
+
+  api_football:
+    key: "270f70b7e6558bd77dc1fa7239fde118"
+    base_url: "https://v3.football.api-sports.io"
+    enabled: true
+
+storage:
+  cache_dir: "cache"
+  longterm_dir: "longterm"
+  analysis_dir: "analysis"
+  max_cache_age_hours: 24
+
+collections:
+  warmup_matches: 6
+  team_stats: 12
+  odds_data: 1
+
+wc_2026:
+  host: "美国/加拿大/墨西哥"
+  start_date: "2026-06-11"
+  
+  # ==================== 已确认的球队ID (共48队) ====================
+  teams:
+    # 欧洲 - Football-data
+    "荷兰": 8601
+    "法国": 205
+    "德国": 2001
+    "意大利": 206
+    "比利时": 196
+    "葡萄牙": 201
+    "克罗地亚": 804
+    "乌克兰": 790
+    "捷克": 798
+    "奥地利": 816
+    "匈牙利": 827
+    "斯洛文尼亚": 777
+    "瑞典": 792
+    "丹麦": 782
+    "瑞士": 788
+    
+    # 欧洲 - API-Football
+    "波兰": 24
+    "罗马尼亚": 774
+    "塞尔维亚": 14
+    "斯洛伐克": 773
+    "希腊": 1117
+    "土耳其": 777
+    "挪威": 1090
+    "芬兰": 1099
+    "冰岛": 18
+    "苏格兰": 1108
+    "威尔士": 767
+    "爱尔兰": 1119
+    
+    # 南美 - Football-data
+    "巴西": 764
+    "阿根廷": 722
+    "乌拉圭": 21
+    "哥伦比亚": 818
+    "厄瓜多尔": 791
+    "巴拉圭": 761
+    "秘鲁": 30
+    "智利": 2383
+    "委内瑞拉": 2379
+    
+    # 北美 - Football-data
+    "墨西哥": 769
+    "加拿大": 828
+    "美国": 2384
+    
+    # 亚洲 - Football-data
+    "沙特阿拉伯": 801
+    "澳大利亚": 779
+    # 亚洲 - API-Football
+    "伊朗": 22
+    "卡塔尔": 1569
+    "乌兹别克斯坦": 1568
+    "日本": 12
+    
+    # 非洲 - API-Football
+    "摩洛哥": 31
+    "埃及": 32
+    "尼日利亚": 19
+    "喀麦隆": 1530
+    "塞内加尔": 13
+    "加纳": 1504
+    "科特迪瓦": 1501
+    "阿尔及利亚": 1532
+
+  # ==================== 未找到ID的球队 ====================
+  teams_pending:
+    - "韩国"  # API-Football免费版限制，暂时无法查询
+
+  # ==================== 统计 ====================
+  teams_confirmed_count: 47
+  teams_pending_count: 1

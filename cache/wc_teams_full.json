@@ -1,0 +1,73 @@
+{
+  "采集时间": "2026-06-08T19:20:52.375837",
+  "总计球队": 45,
+  "球队数据": {
+    "荷兰": {
+      "team": "荷兰",
+      "api_id": 8601,
+      "collected_at": "2026-06-08T19:20:54.414392",
+      "recent_matches": []
+    },
+    "克罗地亚": {
+      "team": "克罗地亚",
+      "api_id": 804,
+      "collected_at": "2026-06-08T19:21:02.329107",
+      "recent_matches": []
+    },
+    "捷克": {
+      "team": "捷克",
+      "api_id": 798,
+      "collected_at": "2026-06-08T19:21:06.631684",
+      "recent_matches": []
+    },
+    "奥地利": {
+      "team": "奥地利",
+      "api_id": 816,
+      "collected_at": "2026-06-08T19:21:08.603752",
+      "recent_matches": []
+    },
+    "瑞典": {
+      "team": "瑞典",
+      "api_id": 792,
+      "collected_at": "2026-06-08T19:21:14.390295",
+      "recent_matches": []
+    },
+    "瑞士": {
+      "team": "瑞士",
+      "api_id": 788,
+      "collected_at": "2026-06-08T19:21:16.910118",
+      "recent_matches": []
+    },
+    "罗马尼亚": {
+      "team": "罗马尼亚",
+      "api_id": 774,
+      "collected_at": "2026-06-08T19:21:19.590530",
+      "recent_matches": []
+    },
+    "斯洛伐克": {
+      "team": "斯洛伐克",
+      "api_id": 773,
+      "collected_at": "2026-06-08T19:21:21.779348",
+      "recent_matches": []
+    },
+    "巴西": {
+      "team": "巴西",
+      "api_id": 764,
+      "collected_at": "2026-06-08T19:21:31.073937",
+      "recent_matches": []
+    },
+    "哥伦比亚": {
+      "team": "哥伦比亚",
+      "api_id": 818,
+      "collected_at": "2026-06-08T19:21:35.093099",
+      "recent_matches": []
+    },
+    "厄瓜多尔": {
+      "team": "厄瓜多尔",
+      "api_id": 791,
+      "collected_at": "2026-06-08T19:21:36.362642",
+      "recent_matches": []
+    }
+  },
+  "成功采集": 11
+}
