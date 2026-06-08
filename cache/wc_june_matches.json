@@ -1,786 +1,426 @@
 {
-  "采集时间": "2026-06-08T12:03:24.373335",
-  "总计": 78,
+  "采集时间": "2026-06-08T12:12:47.757948",
+  "总计": 35,
   "比赛": [
     {
       "date": "2026-06-11",
+      "time": "19:00",
       "home": "Mexico",
       "away": "South Africa",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-12",
+      "time": "02:00",
       "home": "South Korea",
       "away": "Czechia",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-12",
+      "time": "19:00",
       "home": "Canada",
       "away": "Bosnia-Herzegovina",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-13",
+      "time": "01:00",
       "home": "United States",
       "away": "Paraguay",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-13",
+      "time": "19:00",
       "home": "Qatar",
       "away": "Switzerland",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-13",
+      "time": "22:00",
       "home": "Brazil",
       "away": "Morocco",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-14",
+      "time": "01:00",
       "home": "Haiti",
       "away": "Scotland",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-14",
+      "time": "04:00",
       "home": "Australia",
       "away": "Turkey",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-14",
+      "time": "17:00",
       "home": "Germany",
       "away": "Curaçao",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-14",
+      "time": "20:00",
       "home": "Netherlands",
       "away": "Japan",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-14",
+      "time": "23:00",
       "home": "Ivory Coast",
       "away": "Ecuador",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-15",
+      "time": "02:00",
       "home": "Sweden",
       "away": "Tunisia",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-15",
+      "time": "16:00",
       "home": "Spain",
       "away": "Cape Verde Islands",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-15",
+      "time": "19:00",
       "home": "Belgium",
       "away": "Egypt",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-15",
+      "time": "22:00",
       "home": "Saudi Arabia",
       "away": "Uruguay",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-16",
+      "time": "01:00",
       "home": "Iran",
       "away": "New Zealand",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-16",
+      "time": "19:00",
       "home": "France",
       "away": "Senegal",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-16",
+      "time": "22:00",
       "home": "Iraq",
       "away": "Norway",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-17",
+      "time": "01:00",
       "home": "Argentina",
       "away": "Algeria",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-17",
+      "time": "04:00",
       "home": "Austria",
       "away": "Jordan",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-17",
+      "time": "17:00",
       "home": "Portugal",
       "away": "Congo DR",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-17",
+      "time": "20:00",
       "home": "England",
       "away": "Croatia",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-17",
+      "time": "23:00",
       "home": "Ghana",
       "away": "Panama",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-18",
+      "time": "02:00",
       "home": "Uzbekistan",
       "away": "Colombia",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-18",
+      "time": "16:00",
       "home": "Czechia",
       "away": "South Africa",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-18",
+      "time": "19:00",
       "home": "Switzerland",
       "away": "Bosnia-Herzegovina",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-18",
+      "time": "22:00",
       "home": "Canada",
       "away": "Qatar",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-19",
+      "time": "01:00",
       "home": "Mexico",
       "away": "South Korea",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-19",
+      "time": "19:00",
       "home": "United States",
       "away": "Australia",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-19",
+      "time": "22:00",
       "home": "Scotland",
       "away": "Morocco",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-20",
+      "time": "00:30",
       "home": "Brazil",
       "away": "Haiti",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-20",
+      "time": "03:00",
       "home": "Turkey",
       "away": "Paraguay",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-20",
+      "time": "17:00",
       "home": "Netherlands",
       "away": "Sweden",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-20",
+      "time": "20:00",
       "home": "Germany",
       "away": "Ivory Coast",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     },
     {
       "date": "2026-06-21",
+      "time": "00:00",
       "home": "Ecuador",
       "away": "Curaçao",
       "score": {
         "home": null,
         "away": null
       },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-21",
-      "home": "Tunisia",
-      "away": "Japan",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-21",
-      "home": "Spain",
-      "away": "Saudi Arabia",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-21",
-      "home": "Belgium",
-      "away": "Iran",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-21",
-      "home": "Uruguay",
-      "away": "Cape Verde Islands",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-22",
-      "home": "New Zealand",
-      "away": "Egypt",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-22",
-      "home": "Argentina",
-      "away": "Austria",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-22",
-      "home": "France",
-      "away": "Iraq",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-23",
-      "home": "Norway",
-      "away": "Senegal",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-23",
-      "home": "Jordan",
-      "away": "Algeria",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-23",
-      "home": "Portugal",
-      "away": "Uzbekistan",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-23",
-      "home": "England",
-      "away": "Ghana",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-23",
-      "home": "Panama",
-      "away": "Croatia",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-24",
-      "home": "Colombia",
-      "away": "Congo DR",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-24",
-      "home": "Switzerland",
-      "away": "Canada",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-24",
-      "home": "Bosnia-Herzegovina",
-      "away": "Qatar",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-24",
-      "home": "Morocco",
-      "away": "Haiti",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-24",
-      "home": "Scotland",
-      "away": "Brazil",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-25",
-      "home": "Czechia",
-      "away": "Mexico",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-25",
-      "home": "South Africa",
-      "away": "South Korea",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-25",
-      "home": "Ecuador",
-      "away": "Germany",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-25",
-      "home": "Curaçao",
-      "away": "Ivory Coast",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-25",
-      "home": "Tunisia",
-      "away": "Netherlands",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-25",
-      "home": "Japan",
-      "away": "Sweden",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-26",
-      "home": "Turkey",
-      "away": "United States",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-26",
-      "home": "Paraguay",
-      "away": "Australia",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-26",
-      "home": "Norway",
-      "away": "France",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-26",
-      "home": "Senegal",
-      "away": "Iraq",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-27",
-      "home": "Uruguay",
-      "away": "Spain",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-27",
-      "home": "Cape Verde Islands",
-      "away": "Saudi Arabia",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-27",
-      "home": "New Zealand",
-      "away": "Belgium",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-27",
-      "home": "Egypt",
-      "away": "Iran",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-27",
-      "home": "Panama",
-      "away": "England",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-27",
-      "home": "Croatia",
-      "away": "Ghana",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-27",
-      "home": "Colombia",
-      "away": "Portugal",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-27",
-      "home": "Congo DR",
-      "away": "Uzbekistan",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-28",
-      "home": "Jordan",
-      "away": "Argentina",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-28",
-      "home": "Algeria",
-      "away": "Austria",
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-28",
-      "home": null,
-      "away": null,
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-29",
-      "home": null,
-      "away": null,
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-29",
-      "home": null,
-      "away": null,
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-30",
-      "home": null,
-      "away": null,
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-30",
-      "home": null,
-      "away": null,
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
-    },
-    {
-      "date": "2026-06-30",
-      "home": null,
-      "away": null,
-      "score": {
-        "home": null,
-        "away": null
-      },
-      "status": "TIMED"
+      "status": "TIMED",
+      "competition": "FIFA World Cup"
     }
   ]
 }
