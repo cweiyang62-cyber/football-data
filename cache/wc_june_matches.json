@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-06-12T23:02:36.485790",
+  "采集时间": "2026-06-13T10:13:08.208035",
   "总计": 35,
   "比赛": [
     {
@@ -44,10 +44,10 @@
       "home": "United States",
       "away": "Paraguay",
       "score": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 1
       },
-      "status": "TIMED",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
@@ -131,7 +131,7 @@
         "home": null,
         "away": null
       },
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "competition": "FIFA World Cup"
     },
     {
