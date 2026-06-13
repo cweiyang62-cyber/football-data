@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-06-13T17:01:43.041339",
+  "采集时间": "2026-06-13T21:52:48.434285",
   "总计": 35,
   "比赛": [
     {
@@ -56,10 +56,10 @@
       "home": "Qatar",
       "away": "Switzerland",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
-      "status": "TIMED",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
@@ -131,7 +131,7 @@
         "home": null,
         "away": null
       },
-      "status": "TIMED",
+      "status": "SCHEDULED",
       "competition": "FIFA World Cup"
     },
     {
