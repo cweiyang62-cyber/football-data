@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-06-14T21:59:53.076113",
+  "采集时间": "2026-06-15T18:07:31.798110",
   "总计": 35,
   "比赛": [
     {
@@ -119,7 +119,7 @@
         "home": 2,
         "away": 2
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
@@ -128,10 +128,10 @@
       "home": "Ivory Coast",
       "away": "Ecuador",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 0
       },
-      "status": "TIMED",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
@@ -140,10 +140,10 @@
       "home": "Sweden",
       "away": "Tunisia",
       "score": {
-        "home": null,
-        "away": null
+        "home": 5,
+        "away": 1
       },
-      "status": "TIMED",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
@@ -152,10 +152,10 @@
       "home": "Spain",
       "away": "Cape Verde Islands",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
-      "status": "TIMED",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
