@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-06-17T13:02:12.791862",
+  "采集时间": "2026-06-17T23:08:37.025807",
   "总计": 35,
   "比赛": [
     {
@@ -248,10 +248,10 @@
       "home": "Portugal",
       "away": "Congo DR",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 1
       },
-      "status": "TIMED",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
@@ -260,10 +260,10 @@
       "home": "England",
       "away": "Croatia",
       "score": {
-        "home": null,
-        "away": null
+        "home": 4,
+        "away": 2
       },
-      "status": "TIMED",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
@@ -272,10 +272,10 @@
       "home": "Ghana",
       "away": "Panama",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "competition": "FIFA World Cup"
     },
     {
