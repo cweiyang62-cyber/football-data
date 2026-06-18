@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-06-17T23:08:37.025807",
+  "采集时间": "2026-06-18T12:32:31.849938",
   "总计": 35,
   "比赛": [
     {
@@ -272,10 +272,10 @@
       "home": "Ghana",
       "away": "Panama",
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
@@ -284,10 +284,10 @@
       "home": "Uzbekistan",
       "away": "Colombia",
       "score": {
-        "home": null,
-        "away": null
+        "home": 1,
+        "away": 3
       },
-      "status": "TIMED",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
