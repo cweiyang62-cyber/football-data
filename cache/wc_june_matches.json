@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-06-20T10:19:31.319034",
+  "采集时间": "2026-06-20T17:08:24.365661",
   "总计": 35,
   "比赛": [
     {
@@ -392,10 +392,10 @@
       "home": "Netherlands",
       "away": "Sweden",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 0
       },
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "competition": "FIFA World Cup"
     },
     {
