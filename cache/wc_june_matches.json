@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-06-19T21:52:28.930550",
+  "采集时间": "2026-06-20T10:19:31.319034",
   "总计": 35,
   "比赛": [
     {
@@ -356,10 +356,10 @@
       "home": "Scotland",
       "away": "Morocco",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
-      "status": "TIMED",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
@@ -368,10 +368,10 @@
       "home": "Brazil",
       "away": "Haiti",
       "score": {
-        "home": null,
-        "away": null
+        "home": 3,
+        "away": 0
       },
-      "status": "TIMED",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
@@ -380,10 +380,10 @@
       "home": "Turkey",
       "away": "Paraguay",
       "score": {
-        "home": null,
-        "away": null
+        "home": 0,
+        "away": 1
       },
-      "status": "TIMED",
+      "status": "FINISHED",
       "competition": "FIFA World Cup"
     },
     {
