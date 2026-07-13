@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-07-13T13:57:23.479727",
+  "采集时间": "2026-07-13T19:08:03.742114",
   "比赛数": 10,
   "赔率数据": [
     {
@@ -21,7 +21,7 @@
                 },
                 {
                   "name": "Spain",
-                  "price": 3.0
+                  "price": 2.9
                 },
                 {
                   "name": "Draw",
@@ -61,15 +61,15 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 2.36
+                  "price": 2.43
                 },
                 {
                   "name": "Spain",
-                  "price": 3.31
+                  "price": 3.25
                 },
                 {
                   "name": "Draw",
-                  "price": 3.24
+                  "price": 3.18
                 }
               ]
             }
@@ -83,11 +83,11 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 2.25
+                  "price": 2.3
                 },
                 {
                   "name": "Spain",
-                  "price": 2.9
+                  "price": 2.8
                 },
                 {
                   "name": "Draw",
@@ -105,11 +105,11 @@
               "outcomes": [
                 {
                   "name": "France",
-                  "price": 2.35
+                  "price": 2.43
                 },
                 {
                   "name": "Spain",
-                  "price": 3.4
+                  "price": 3.2
                 },
                 {
                   "name": "Draw",
@@ -241,125 +241,6 @@
       ]
     },
     {
-      "id": "91f2bf256fbc8ab686e6580715e5a08f",
-      "sport_key": "soccer_sweden_allsvenskan",
-      "commence_time": "2026-07-13T17:00:00Z",
-      "home_team": "Djurgardens IF",
-      "away_team": "Halmstads BK",
-      "bookmakers": [
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Djurgardens IF",
-                  "price": 1.22
-                },
-                {
-                  "name": "Halmstads BK",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Djurgardens IF",
-                  "price": 1.2
-                },
-                {
-                  "name": "Halmstads BK",
-                  "price": 12.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.55
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Djurgardens IF",
-                  "price": 1.17
-                },
-                {
-                  "name": "Halmstads BK",
-                  "price": 8.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "William Hill",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Djurgardens IF",
-                  "price": 1.22
-                },
-                {
-                  "name": "Halmstads BK",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Djurgardens IF",
-                  "price": 1.19
-                },
-                {
-                  "name": "Halmstads BK",
-                  "price": 9.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "3a693fa22bd295e1ff6d217dd3fb5ea1",
       "sport_key": "soccer_brazil_serie_b",
       "commence_time": "2026-07-13T22:00:00Z",
@@ -374,15 +255,15 @@
               "outcomes": [
                 {
                   "name": "América Mineiro",
-                  "price": 2.08
+                  "price": 2.15
                 },
                 {
                   "name": "Londrina",
-                  "price": 3.5
+                  "price": 3.45
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.05
                 }
               ]
             }
@@ -396,15 +277,15 @@
               "outcomes": [
                 {
                   "name": "América Mineiro",
-                  "price": 2.08
+                  "price": 2.15
                 },
                 {
                   "name": "Londrina",
-                  "price": 3.5
+                  "price": 3.45
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.05
                 }
               ]
             }
@@ -466,11 +347,11 @@
                 },
                 {
                   "name": "Londrina",
-                  "price": 3.68
+                  "price": 3.64
                 },
                 {
                   "name": "Draw",
-                  "price": 3.02
+                  "price": 3.04
                 }
               ]
             }
@@ -501,7 +382,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.25
                 }
               ]
             }
@@ -523,7 +404,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.25
                 }
               ]
             }
@@ -545,7 +426,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.1
                 }
               ]
             }
@@ -559,15 +440,15 @@
               "outcomes": [
                 {
                   "name": "Athletic Club (MG)",
-                  "price": 4.35
+                  "price": 4.45
                 },
                 {
                   "name": "Ceará",
-                  "price": 1.88
+                  "price": 1.85
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.1
                 }
               ]
             }
@@ -581,15 +462,15 @@
               "outcomes": [
                 {
                   "name": "Athletic Club (MG)",
-                  "price": 4.35
+                  "price": 4.45
                 },
                 {
                   "name": "Ceará",
-                  "price": 1.88
+                  "price": 1.85
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.1
                 }
               ]
             }
@@ -731,15 +612,15 @@
               "outcomes": [
                 {
                   "name": "FK Vardar",
-                  "price": 5.5
+                  "price": 5.2
                 },
                 {
                   "name": "KuPS Kuopio",
-                  "price": 1.51
+                  "price": 1.55
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
+                  "price": 4.1
                 }
               ]
             }
@@ -753,15 +634,15 @@
               "outcomes": [
                 {
                   "name": "FK Vardar",
-                  "price": 5.5
+                  "price": 5.2
                 },
                 {
                   "name": "KuPS Kuopio",
-                  "price": 1.51
+                  "price": 1.55
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
+                  "price": 4.1
                 }
               ]
             }
@@ -775,15 +656,15 @@
               "outcomes": [
                 {
                   "name": "FK Vardar",
-                  "price": 4.54
+                  "price": 5.3
                 },
                 {
                   "name": "KuPS Kuopio",
-                  "price": 1.65
+                  "price": 1.56
                 },
                 {
                   "name": "Draw",
-                  "price": 4.15
+                  "price": 4.2
                 }
               ]
             }
@@ -797,15 +678,15 @@
               "outcomes": [
                 {
                   "name": "FK Vardar",
-                  "price": 5.2
+                  "price": 4.9
                 },
                 {
                   "name": "KuPS Kuopio",
-                  "price": 1.43
+                  "price": 1.47
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 3.9
                 }
               ]
             }
@@ -819,15 +700,15 @@
               "outcomes": [
                 {
                   "name": "FK Vardar",
-                  "price": 5.5
+                  "price": 5.2
                 },
                 {
                   "name": "KuPS Kuopio",
-                  "price": 1.51
+                  "price": 1.55
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
+                  "price": 4.1
                 }
               ]
             }
@@ -850,7 +731,7 @@
               "outcomes": [
                 {
                   "name": "FC Flora",
-                  "price": 4.9
+                  "price": 5.0
                 },
                 {
                   "name": "FC Iberia 1999",
@@ -858,7 +739,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.5
+                  "price": 4.4
                 }
               ]
             }
@@ -894,15 +775,15 @@
               "outcomes": [
                 {
                   "name": "FC Flora",
-                  "price": 4.6
+                  "price": 4.65
                 },
                 {
                   "name": "FC Iberia 1999",
-                  "price": 1.47
+                  "price": 1.48
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 4.05
                 }
               ]
             }
@@ -916,7 +797,7 @@
               "outcomes": [
                 {
                   "name": "FC Flora",
-                  "price": 4.6
+                  "price": 4.67
                 },
                 {
                   "name": "FC Iberia 1999",
@@ -924,7 +805,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.4
+                  "price": 4.46
                 }
               ]
             }
@@ -938,7 +819,7 @@
               "outcomes": [
                 {
                   "name": "FC Flora",
-                  "price": 5.2
+                  "price": 5.0
                 },
                 {
                   "name": "FC Iberia 1999",
@@ -946,7 +827,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.7
+                  "price": 4.6
                 }
               ]
             }
@@ -1013,7 +894,7 @@
               "outcomes": [
                 {
                   "name": "Inter Club d'Escaldes",
-                  "price": 1.7
+                  "price": 1.71
                 },
                 {
                   "name": "Lincoln Red Imps FC",
@@ -1021,7 +902,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.1
+                  "price": 4.05
                 }
               ]
             }
@@ -1088,15 +969,15 @@
               "outcomes": [
                 {
                   "name": "ETO FC Győr",
-                  "price": 1.72
+                  "price": 1.69
                 },
                 {
                   "name": "Víkingur Reykjavík",
-                  "price": 3.8
+                  "price": 3.86
                 },
                 {
                   "name": "Draw",
-                  "price": 4.3
+                  "price": 4.37
                 }
               ]
             }
@@ -1110,7 +991,7 @@
               "outcomes": [
                 {
                   "name": "ETO FC Győr",
-                  "price": 1.76
+                  "price": 1.75
                 },
                 {
                   "name": "Víkingur Reykjavík",
@@ -1185,6 +1066,125 @@
                 {
                   "name": "Draw",
                   "price": 4.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a247233dce668f69c0c062d6ad7b122e",
+      "sport_key": "soccer_uefa_champs_league_qualification",
+      "commence_time": "2026-07-14T17:00:00Z",
+      "home_team": "Riga FC",
+      "away_team": "FC Ararat-Armenia",
+      "bookmakers": [
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Ararat-Armenia",
+                  "price": 4.4
+                },
+                {
+                  "name": "Riga FC",
+                  "price": 1.74
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Ararat-Armenia",
+                  "price": 4.2
+                },
+                {
+                  "name": "Riga FC",
+                  "price": 1.64
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Ararat-Armenia",
+                  "price": 4.89
+                },
+                {
+                  "name": "Riga FC",
+                  "price": 1.69
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Ararat-Armenia",
+                  "price": 4.4
+                },
+                {
+                  "name": "Riga FC",
+                  "price": 1.74
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BetOnline.ag",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Ararat-Armenia",
+                  "price": 4.68
+                },
+                {
+                  "name": "Riga FC",
+                  "price": 1.67
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.73
                 }
               ]
             }
