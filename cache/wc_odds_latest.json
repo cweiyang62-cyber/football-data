@@ -1,6 +1,6 @@
 {
-  "采集时间": "2026-07-16T13:13:11.905836",
-  "比赛数": 10,
+  "采集时间": "2026-07-16T18:52:21.132090",
+  "比赛数": 11,
   "赔率数据": [
     {
       "id": "7a49e7985534a5ff3428740d0b630fd7",
@@ -65,11 +65,11 @@
                 },
                 {
                   "name": "France",
-                  "price": 1.93
+                  "price": 1.94
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 3.85
                 }
               ]
             }
@@ -83,15 +83,15 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 3.75
+                  "price": 3.7
                 },
                 {
                   "name": "France",
-                  "price": 1.87
+                  "price": 1.88
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.65
                 }
               ]
             }
@@ -105,11 +105,11 @@
               "outcomes": [
                 {
                   "name": "England",
-                  "price": 3.85
+                  "price": 3.8
                 },
                 {
                   "name": "France",
-                  "price": 1.89
+                  "price": 1.91
                 },
                 {
                   "name": "Draw",
@@ -140,7 +140,7 @@
                 },
                 {
                   "name": "Spain",
-                  "price": 2.38
+                  "price": 2.36
                 },
                 {
                   "name": "Draw",
@@ -173,6 +173,28 @@
           ]
         },
         {
+          "name": "BetOnline.ag",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Argentina",
+                  "price": 3.65
+                },
+                {
+                  "name": "Spain",
+                  "price": 2.33
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.01
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "PMU (FR)",
           "markets": [
             {
@@ -180,11 +202,11 @@
               "outcomes": [
                 {
                   "name": "Argentina",
-                  "price": 3.55
+                  "price": 3.5
                 },
                 {
                   "name": "Spain",
-                  "price": 2.28
+                  "price": 2.25
                 },
                 {
                   "name": "Draw",
@@ -202,7 +224,7 @@
               "outcomes": [
                 {
                   "name": "Argentina",
-                  "price": 3.75
+                  "price": 3.7
                 },
                 {
                   "name": "Spain",
@@ -211,28 +233,6 @@
                 {
                   "name": "Draw",
                   "price": 3.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Argentina",
-                  "price": 3.6
-                },
-                {
-                  "name": "Spain",
-                  "price": 2.32
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.95
                 }
               ]
             }
@@ -248,110 +248,66 @@
       "away_team": "Aalesund",
       "bookmakers": [
         {
-          "name": "Marathon Bet",
+          "name": "Betsson",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Aalesund",
-                  "price": 4.3
+                  "price": 26.0
                 },
                 {
                   "name": "Vålerenga",
-                  "price": 1.66
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.25
+                  "price": 26.0
                 }
               ]
             }
           ]
         },
         {
-          "name": "Winamax (DE)",
+          "name": "Nordic Bet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Aalesund",
-                  "price": 4.0
+                  "price": 26.0
                 },
                 {
                   "name": "Vålerenga",
-                  "price": 1.66
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.1
+                  "price": 26.0
                 }
               ]
             }
           ]
         },
         {
-          "name": "GTbets",
+          "name": "Betclic (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Aalesund",
-                  "price": 4.39
+                  "price": 100.0
                 },
                 {
                   "name": "Vålerenga",
-                  "price": 1.71
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.03
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Aalesund",
-                  "price": 4.39
-                },
-                {
-                  "name": "Vålerenga",
-                  "price": 1.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.34
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Aalesund",
-                  "price": 4.1
-                },
-                {
-                  "name": "Vålerenga",
-                  "price": 1.63
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.95
+                  "price": 40.0
                 }
               ]
             }
@@ -374,15 +330,15 @@
               "outcomes": [
                 {
                   "name": "Botafogo",
-                  "price": 2.0
+                  "price": 2.08
                 },
                 {
                   "name": "Santos",
-                  "price": 3.45
+                  "price": 3.28
                 },
                 {
                   "name": "Draw",
-                  "price": 3.47
+                  "price": 3.4
                 }
               ]
             }
@@ -396,15 +352,15 @@
               "outcomes": [
                 {
                   "name": "Botafogo",
-                  "price": 1.94
+                  "price": 2.0
                 },
                 {
                   "name": "Santos",
-                  "price": 3.15
+                  "price": 3.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.25
                 }
               ]
             }
@@ -418,15 +374,15 @@
               "outcomes": [
                 {
                   "name": "Botafogo",
-                  "price": 2.0
+                  "price": 2.05
                 },
                 {
                   "name": "Santos",
-                  "price": 3.25
+                  "price": 3.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.4
                 }
               ]
             }
@@ -440,15 +396,15 @@
               "outcomes": [
                 {
                   "name": "Botafogo",
-                  "price": 2.03
+                  "price": 2.15
                 },
                 {
                   "name": "Santos",
-                  "price": 3.46
+                  "price": 3.28
                 },
                 {
                   "name": "Draw",
-                  "price": 3.44
+                  "price": 3.32
                 }
               ]
             }
@@ -462,15 +418,15 @@
               "outcomes": [
                 {
                   "name": "Botafogo",
-                  "price": 1.94
+                  "price": 2.0
                 },
                 {
                   "name": "Santos",
-                  "price": 3.3
+                  "price": 3.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.2
                 }
               ]
             }
@@ -493,11 +449,11 @@
               "outcomes": [
                 {
                   "name": "Vasco da Gama",
-                  "price": 3.05
+                  "price": 2.95
                 },
                 {
                   "name": "Vitoria",
-                  "price": 2.25
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
@@ -515,15 +471,15 @@
               "outcomes": [
                 {
                   "name": "Vasco da Gama",
-                  "price": 2.8
+                  "price": 2.7
                 },
                 {
                   "name": "Vitoria",
-                  "price": 2.15
+                  "price": 2.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.15
                 }
               ]
             }
@@ -537,11 +493,11 @@
               "outcomes": [
                 {
                   "name": "Vasco da Gama",
-                  "price": 2.9
+                  "price": 2.8
                 },
                 {
                   "name": "Vitoria",
-                  "price": 2.25
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
@@ -559,15 +515,15 @@
               "outcomes": [
                 {
                   "name": "Vasco da Gama",
-                  "price": 2.99
+                  "price": 2.94
                 },
                 {
                   "name": "Vitoria",
-                  "price": 2.34
+                  "price": 2.4
                 },
                 {
                   "name": "Draw",
-                  "price": 3.22
+                  "price": 3.18
                 }
               ]
             }
@@ -581,11 +537,11 @@
               "outcomes": [
                 {
                   "name": "Vasco da Gama",
-                  "price": 2.9
+                  "price": 2.8
                 },
                 {
                   "name": "Vitoria",
-                  "price": 2.2
+                  "price": 2.25
                 },
                 {
                   "name": "Draw",
@@ -612,7 +568,7 @@
               "outcomes": [
                 {
                   "name": "Clube de Regatas Brasil",
-                  "price": 1.88
+                  "price": 1.91
                 },
                 {
                   "name": "Nautico PE",
@@ -634,7 +590,7 @@
               "outcomes": [
                 {
                   "name": "Clube de Regatas Brasil",
-                  "price": 1.88
+                  "price": 1.91
                 },
                 {
                   "name": "Nautico PE",
@@ -656,15 +612,15 @@
               "outcomes": [
                 {
                   "name": "Clube de Regatas Brasil",
-                  "price": 1.82
+                  "price": 1.83
                 },
                 {
                   "name": "Nautico PE",
-                  "price": 3.7
+                  "price": 3.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.25
                 }
               ]
             }
@@ -731,15 +687,15 @@
               "outcomes": [
                 {
                   "name": "CF Montreal",
-                  "price": 2.3
+                  "price": 2.44
                 },
                 {
                   "name": "Toronto FC",
-                  "price": 3.15
+                  "price": 3.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.95
+                  "price": 3.75
                 }
               ]
             }
@@ -753,15 +709,15 @@
               "outcomes": [
                 {
                   "name": "CF Montreal",
-                  "price": 2.22
+                  "price": 2.42
                 },
                 {
                   "name": "Toronto FC",
-                  "price": 3.16
+                  "price": 2.88
                 },
                 {
                   "name": "Draw",
-                  "price": 3.79
+                  "price": 3.68
                 }
               ]
             }
@@ -775,15 +731,15 @@
               "outcomes": [
                 {
                   "name": "CF Montreal",
-                  "price": 2.13
+                  "price": 2.33
                 },
                 {
                   "name": "Toronto FC",
-                  "price": 3.04
+                  "price": 2.77
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.54
                 }
               ]
             }
@@ -797,15 +753,15 @@
               "outcomes": [
                 {
                   "name": "CF Montreal",
-                  "price": 2.15
+                  "price": 2.3
                 },
                 {
                   "name": "Toronto FC",
-                  "price": 2.9
+                  "price": 2.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.4
                 }
               ]
             }
@@ -819,15 +775,15 @@
               "outcomes": [
                 {
                   "name": "CF Montreal",
-                  "price": 2.15
+                  "price": 2.3
                 },
                 {
                   "name": "Toronto FC",
-                  "price": 2.9
+                  "price": 2.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.4
                 }
               ]
             }
@@ -850,11 +806,11 @@
               "outcomes": [
                 {
                   "name": "Chicago Fire",
-                  "price": 2.76
+                  "price": 2.5
                 },
                 {
                   "name": "Vancouver Whitecaps FC",
-                  "price": 2.28
+                  "price": 2.5
                 },
                 {
                   "name": "Draw",
@@ -872,11 +828,11 @@
               "outcomes": [
                 {
                   "name": "Chicago Fire",
-                  "price": 2.86
+                  "price": 2.68
                 },
                 {
                   "name": "Vancouver Whitecaps FC",
-                  "price": 2.42
+                  "price": 2.6
                 },
                 {
                   "name": "Draw",
@@ -894,11 +850,11 @@
               "outcomes": [
                 {
                   "name": "Chicago Fire",
-                  "price": 2.87
+                  "price": 2.6
                 },
                 {
                   "name": "Vancouver Whitecaps FC",
-                  "price": 2.37
+                  "price": 2.6
                 },
                 {
                   "name": "Draw",
@@ -916,11 +872,11 @@
               "outcomes": [
                 {
                   "name": "Chicago Fire",
-                  "price": 2.7
+                  "price": 2.5
                 },
                 {
                   "name": "Vancouver Whitecaps FC",
-                  "price": 2.3
+                  "price": 2.4
                 },
                 {
                   "name": "Draw",
@@ -938,11 +894,11 @@
               "outcomes": [
                 {
                   "name": "Chicago Fire",
-                  "price": 2.7
+                  "price": 2.5
                 },
                 {
                   "name": "Vancouver Whitecaps FC",
-                  "price": 2.3
+                  "price": 2.4
                 },
                 {
                   "name": "Draw",
@@ -969,15 +925,15 @@
               "outcomes": [
                 {
                   "name": "Sporting Kansas City",
-                  "price": 6.6
+                  "price": 6.8
                 },
                 {
                   "name": "St. Louis City SC",
-                  "price": 1.48
+                  "price": 1.49
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.4
                 }
               ]
             }
@@ -991,15 +947,15 @@
               "outcomes": [
                 {
                   "name": "Sporting Kansas City",
-                  "price": 6.29
+                  "price": 6.34
                 },
                 {
                   "name": "St. Louis City SC",
-                  "price": 1.49
+                  "price": 1.48
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
+                  "price": 5.09
                 }
               ]
             }
@@ -1013,15 +969,15 @@
               "outcomes": [
                 {
                   "name": "Sporting Kansas City",
-                  "price": 6.05
+                  "price": 6.1
                 },
                 {
                   "name": "St. Louis City SC",
-                  "price": 1.43
+                  "price": 1.42
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 4.9
                 }
               ]
             }
@@ -1039,7 +995,7 @@
                 },
                 {
                   "name": "St. Louis City SC",
-                  "price": 1.44
+                  "price": 1.4
                 },
                 {
                   "name": "Draw",
@@ -1061,7 +1017,7 @@
                 },
                 {
                   "name": "St. Louis City SC",
-                  "price": 1.44
+                  "price": 1.4
                 },
                 {
                   "name": "Draw",
@@ -1088,15 +1044,15 @@
               "outcomes": [
                 {
                   "name": "Atlante FC",
-                  "price": 3.84
+                  "price": 3.85
                 },
                 {
                   "name": "Necaxa",
-                  "price": 1.88
+                  "price": 1.87
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.58
                 }
               ]
             }
@@ -1110,7 +1066,7 @@
               "outcomes": [
                 {
                   "name": "Atlante FC",
-                  "price": 3.9
+                  "price": 3.8
                 },
                 {
                   "name": "Necaxa",
@@ -1118,7 +1074,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.6
                 }
               ]
             }
@@ -1136,7 +1092,7 @@
                 },
                 {
                   "name": "Necaxa",
-                  "price": 1.95
+                  "price": 1.96
                 },
                 {
                   "name": "Draw",
@@ -1154,11 +1110,11 @@
               "outcomes": [
                 {
                   "name": "Atlante FC",
-                  "price": 3.5
+                  "price": 3.6
                 },
                 {
                   "name": "Necaxa",
-                  "price": 1.85
+                  "price": 1.83
                 },
                 {
                   "name": "Draw",
@@ -1176,15 +1132,134 @@
               "outcomes": [
                 {
                   "name": "Atlante FC",
-                  "price": 3.5
+                  "price": 3.6
                 },
                 {
                   "name": "Necaxa",
-                  "price": 1.85
+                  "price": 1.83
                 },
                 {
                   "name": "Draw",
                   "price": 3.3
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dfe087523a4b8e3b166d53bb4eece217",
+      "sport_key": "soccer_usa_mls",
+      "commence_time": "2026-07-17T02:30:00Z",
+      "home_team": "Seattle Sounders FC",
+      "away_team": "Portland Timbers",
+      "bookmakers": [
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Portland Timbers",
+                  "price": 5.65
+                },
+                {
+                  "name": "Seattle Sounders FC",
+                  "price": 1.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.85
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Portland Timbers",
+                  "price": 6.2
+                },
+                {
+                  "name": "Seattle Sounders FC",
+                  "price": 1.52
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Portland Timbers",
+                  "price": 5.88
+                },
+                {
+                  "name": "Seattle Sounders FC",
+                  "price": 1.51
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.04
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "William Hill",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Portland Timbers",
+                  "price": 5.0
+                },
+                {
+                  "name": "Seattle Sounders FC",
+                  "price": 1.44
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Portland Timbers",
+                  "price": 5.0
+                },
+                {
+                  "name": "Seattle Sounders FC",
+                  "price": 1.44
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.6
                 }
               ]
             }
