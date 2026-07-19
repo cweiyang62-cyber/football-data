@@ -1,6 +1,6 @@
 {
-  "采集时间": "2026-07-19T01:22:02.839309",
-  "比赛数": 11,
+  "采集时间": "2026-07-19T07:54:50.238498",
+  "比赛数": 9,
   "赔率数据": [
     {
       "id": "fb30113e43d113f1ace48b8563ba1ee9",
@@ -17,7 +17,7 @@
               "outcomes": [
                 {
                   "name": "Argentina",
-                  "price": 3.8
+                  "price": 3.75
                 },
                 {
                   "name": "Spain",
@@ -61,15 +61,15 @@
               "outcomes": [
                 {
                   "name": "Argentina",
-                  "price": 3.73
+                  "price": 3.69
                 },
                 {
                   "name": "Spain",
-                  "price": 2.3
+                  "price": 2.31
                 },
                 {
                   "name": "Draw",
-                  "price": 3.06
+                  "price": 3.07
                 }
               ]
             }
@@ -122,363 +122,6 @@
       ]
     },
     {
-      "id": "a1484e11682661c82594016ffb915ade",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-07-19T01:05:00Z",
-      "home_team": "Monterrey",
-      "away_team": "Santos Laguna",
-      "bookmakers": [
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Monterrey",
-                  "price": 1.53
-                },
-                {
-                  "name": "Santos Laguna",
-                  "price": 6.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "William Hill",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Monterrey",
-                  "price": 1.4
-                },
-                {
-                  "name": "Santos Laguna",
-                  "price": 5.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Monterrey",
-                  "price": 1.36
-                },
-                {
-                  "name": "Santos Laguna",
-                  "price": 5.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Tipico",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Monterrey",
-                  "price": 1.4
-                },
-                {
-                  "name": "Santos Laguna",
-                  "price": 6.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Monterrey",
-                  "price": 1.5
-                },
-                {
-                  "name": "Santos Laguna",
-                  "price": 6.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "69611d5f8f262efb16cb03413037a0e5",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-07-19T01:07:00Z",
-      "home_team": "Guadalajara",
-      "away_team": "Toluca",
-      "bookmakers": [
-        {
-          "name": "Tipico",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Guadalajara",
-                  "price": 2.0
-                },
-                {
-                  "name": "Toluca",
-                  "price": 3.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Guadalajara",
-                  "price": 1.91
-                },
-                {
-                  "name": "Toluca",
-                  "price": 4.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Guadalajara",
-                  "price": 2.02
-                },
-                {
-                  "name": "Toluca",
-                  "price": 3.22
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Guadalajara",
-                  "price": 2.05
-                },
-                {
-                  "name": "Toluca",
-                  "price": 3.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Guadalajara",
-                  "price": 2.02
-                },
-                {
-                  "name": "Toluca",
-                  "price": 3.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c8e5989a3575c937d1e2dda00fa683ca",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-07-19T03:10:00Z",
-      "home_team": "Querétaro",
-      "away_team": "América",
-      "bookmakers": [
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América",
-                  "price": 2.02
-                },
-                {
-                  "name": "Querétaro",
-                  "price": 3.46
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América",
-                  "price": 2.14
-                },
-                {
-                  "name": "Querétaro",
-                  "price": 3.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "William Hill",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América",
-                  "price": 2.0
-                },
-                {
-                  "name": "Querétaro",
-                  "price": 3.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América",
-                  "price": 2.0
-                },
-                {
-                  "name": "Querétaro",
-                  "price": 3.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Marathon Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América",
-                  "price": 2.0
-                },
-                {
-                  "name": "Querétaro",
-                  "price": 3.45
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.45
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "853f2b2b2c9039cef0b61b6f3b8763ff",
       "sport_key": "soccer_korea_kleague1",
       "commence_time": "2026-07-19T10:30:00Z",
@@ -493,15 +136,15 @@
               "outcomes": [
                 {
                   "name": "Bucheon FC 1995",
-                  "price": 5.16
+                  "price": 5.38
                 },
                 {
                   "name": "FC Seoul",
-                  "price": 1.75
+                  "price": 1.71
                 },
                 {
                   "name": "Draw",
-                  "price": 3.68
+                  "price": 3.76
                 }
               ]
             }
@@ -515,15 +158,15 @@
               "outcomes": [
                 {
                   "name": "Bucheon FC 1995",
-                  "price": 4.65
+                  "price": 4.95
                 },
                 {
                   "name": "FC Seoul",
-                  "price": 1.72
+                  "price": 1.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.45
                 }
               ]
             }
@@ -537,15 +180,15 @@
               "outcomes": [
                 {
                   "name": "Bucheon FC 1995",
-                  "price": 4.0
+                  "price": 4.5
                 },
                 {
                   "name": "FC Seoul",
-                  "price": 1.6
+                  "price": 1.62
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.4
                 }
               ]
             }
@@ -559,15 +202,15 @@
               "outcomes": [
                 {
                   "name": "Bucheon FC 1995",
-                  "price": 4.65
+                  "price": 4.95
                 },
                 {
                   "name": "FC Seoul",
-                  "price": 1.72
+                  "price": 1.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.45
                 }
               ]
             }
@@ -581,15 +224,15 @@
               "outcomes": [
                 {
                   "name": "Bucheon FC 1995",
-                  "price": 4.2
+                  "price": 4.7
                 },
                 {
                   "name": "FC Seoul",
-                  "price": 1.64
+                  "price": 1.66
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.55
                 }
               ]
             }
@@ -616,11 +259,11 @@
                 },
                 {
                   "name": "Gwangju FC",
-                  "price": 5.75
+                  "price": 5.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.5
                 }
               ]
             }
@@ -634,7 +277,7 @@
               "outcomes": [
                 {
                   "name": "FC Anyang",
-                  "price": 1.54
+                  "price": 1.55
                 },
                 {
                   "name": "Gwangju FC",
@@ -656,7 +299,7 @@
               "outcomes": [
                 {
                   "name": "FC Anyang",
-                  "price": 1.54
+                  "price": 1.55
                 },
                 {
                   "name": "Gwangju FC",
@@ -678,7 +321,7 @@
               "outcomes": [
                 {
                   "name": "FC Anyang",
-                  "price": 1.5
+                  "price": 1.51
                 },
                 {
                   "name": "Gwangju FC",
@@ -686,7 +329,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.4
                 }
               ]
             }
@@ -700,15 +343,15 @@
               "outcomes": [
                 {
                   "name": "FC Anyang",
-                  "price": 1.55
+                  "price": 1.57
                 },
                 {
                   "name": "Gwangju FC",
-                  "price": 5.5
+                  "price": 5.25
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.63
                 }
               ]
             }
@@ -731,15 +374,15 @@
               "outcomes": [
                 {
                   "name": "IFK Norrkoping",
-                  "price": 1.5
+                  "price": 1.53
                 },
                 {
                   "name": "Sandvikens IF",
-                  "price": 5.0
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 3.9
                 }
               ]
             }
@@ -775,15 +418,15 @@
               "outcomes": [
                 {
                   "name": "IFK Norrkoping",
-                  "price": 1.54
+                  "price": 1.57
                 },
                 {
                   "name": "Sandvikens IF",
-                  "price": 5.17
+                  "price": 4.99
                 },
                 {
                   "name": "Draw",
-                  "price": 4.33
+                  "price": 4.25
                 }
               ]
             }
@@ -819,15 +462,15 @@
               "outcomes": [
                 {
                   "name": "IFK Norrkoping",
-                  "price": 1.5
+                  "price": 1.55
                 },
                 {
                   "name": "Sandvikens IF",
-                  "price": 5.0
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 3.9
                 }
               ]
             }
@@ -850,15 +493,15 @@
               "outcomes": [
                 {
                   "name": "IFK Värnamo",
-                  "price": 2.62
+                  "price": 2.59
                 },
                 {
                   "name": "Ljungskile SK",
-                  "price": 2.47
+                  "price": 2.51
                 },
                 {
                   "name": "Draw",
-                  "price": 3.42
+                  "price": 3.4
                 }
               ]
             }
@@ -872,15 +515,15 @@
               "outcomes": [
                 {
                   "name": "IFK Värnamo",
-                  "price": 2.68
+                  "price": 2.62
                 },
                 {
                   "name": "Ljungskile SK",
-                  "price": 2.45
+                  "price": 2.52
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.45
                 }
               ]
             }
@@ -894,15 +537,15 @@
               "outcomes": [
                 {
                   "name": "IFK Värnamo",
-                  "price": 2.68
+                  "price": 2.62
                 },
                 {
                   "name": "Ljungskile SK",
-                  "price": 2.45
+                  "price": 2.52
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.45
                 }
               ]
             }
@@ -1176,15 +819,15 @@
               "outcomes": [
                 {
                   "name": "BK Hacken",
-                  "price": 1.51
+                  "price": 1.5
                 },
                 {
                   "name": "Halmstads BK",
-                  "price": 4.65
+                  "price": 4.95
                 },
                 {
                   "name": "Draw",
-                  "price": 4.15
+                  "price": 4.3
                 }
               ]
             }
@@ -1295,7 +938,7 @@
               "outcomes": [
                 {
                   "name": "Degerfors IF",
-                  "price": 9.5
+                  "price": 10.0
                 },
                 {
                   "name": "Hammarby IF",
@@ -1303,7 +946,126 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 5.4
+                  "price": 5.7
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8f70fce021a03c23c6c8cd2d04d49238",
+      "sport_key": "soccer_sweden_allsvenskan",
+      "commence_time": "2026-07-19T14:30:00Z",
+      "home_team": "IF Elfsborg",
+      "away_team": "IK Sirius",
+      "bookmakers": [
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IF Elfsborg",
+                  "price": 3.5
+                },
+                {
+                  "name": "IK Sirius",
+                  "price": 1.87
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IF Elfsborg",
+                  "price": 3.55
+                },
+                {
+                  "name": "IK Sirius",
+                  "price": 1.88
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IF Elfsborg",
+                  "price": 3.85
+                },
+                {
+                  "name": "IK Sirius",
+                  "price": 1.97
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.85
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IF Elfsborg",
+                  "price": 3.3
+                },
+                {
+                  "name": "IK Sirius",
+                  "price": 1.77
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IF Elfsborg",
+                  "price": 3.65
+                },
+                {
+                  "name": "IK Sirius",
+                  "price": 1.91
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
                 }
               ]
             }
