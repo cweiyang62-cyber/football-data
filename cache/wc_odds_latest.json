@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-07-20T19:20:55.731069",
+  "采集时间": "2026-07-21T01:21:46.186283",
   "比赛数": 8,
   "赔率数据": [
     {
@@ -105,11 +105,11 @@
               "outcomes": [
                 {
                   "name": "Daejeon Citizen",
-                  "price": 3.6
+                  "price": 3.7
                 },
                 {
                   "name": "Jeonbuk Hyundai Motors",
-                  "price": 1.85
+                  "price": 1.87
                 },
                 {
                   "name": "Draw",
@@ -224,7 +224,7 @@
               "outcomes": [
                 {
                   "name": "Gangwon FC",
-                  "price": 2.0
+                  "price": 2.05
                 },
                 {
                   "name": "Jeju United FC",
@@ -232,7 +232,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.0
+                  "price": 3.1
                 }
               ]
             }
@@ -351,7 +351,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.2
                 }
               ]
             }
@@ -396,7 +396,7 @@
               "outcomes": [
                 {
                   "name": "FC Ararat-Armenia",
-                  "price": 2.15
+                  "price": 2.1
                 },
                 {
                   "name": "Shamrock Rovers",
@@ -404,7 +404,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.25
                 }
               ]
             }
@@ -444,11 +444,11 @@
                 },
                 {
                   "name": "Shamrock Rovers",
-                  "price": 3.1
+                  "price": 3.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.4
                 }
               ]
             }
@@ -493,15 +493,15 @@
               "outcomes": [
                 {
                   "name": "FC Iberia 1999",
-                  "price": 3.74
+                  "price": 3.56
                 },
                 {
                   "name": "ŠK Slovan Bratislava",
-                  "price": 1.87
+                  "price": 1.94
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.62
                 }
               ]
             }
@@ -515,15 +515,15 @@
               "outcomes": [
                 {
                   "name": "FC Iberia 1999",
-                  "price": 3.73
+                  "price": 3.56
                 },
                 {
                   "name": "ŠK Slovan Bratislava",
-                  "price": 1.89
+                  "price": 1.96
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.62
                 }
               ]
             }
@@ -537,11 +537,11 @@
               "outcomes": [
                 {
                   "name": "FC Iberia 1999",
-                  "price": 3.6
+                  "price": 3.3
                 },
                 {
                   "name": "ŠK Slovan Bratislava",
-                  "price": 1.9
+                  "price": 2.0
                 },
                 {
                   "name": "Draw",
@@ -559,15 +559,15 @@
               "outcomes": [
                 {
                   "name": "FC Iberia 1999",
-                  "price": 3.7
+                  "price": 3.4
                 },
                 {
                   "name": "ŠK Slovan Bratislava",
-                  "price": 1.85
+                  "price": 1.95
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.4
                 }
               ]
             }
@@ -581,15 +581,15 @@
               "outcomes": [
                 {
                   "name": "FC Iberia 1999",
-                  "price": 3.45
+                  "price": 3.2
                 },
                 {
                   "name": "ŠK Slovan Bratislava",
-                  "price": 1.73
+                  "price": 1.92
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 3.5
                 }
               ]
             }
@@ -612,7 +612,29 @@
               "outcomes": [
                 {
                   "name": "KuPS Kuopio",
-                  "price": 4.45
+                  "price": 4.65
+                },
+                {
+                  "name": "Sabah FK",
+                  "price": 1.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "KuPS Kuopio",
+                  "price": 5.2
                 },
                 {
                   "name": "Sabah FK",
@@ -627,28 +649,6 @@
           ]
         },
         {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "KuPS Kuopio",
-                  "price": 5.1
-                },
-                {
-                  "name": "Sabah FK",
-                  "price": 1.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.5
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Marathon Bet",
           "markets": [
             {
@@ -656,7 +656,7 @@
               "outcomes": [
                 {
                   "name": "KuPS Kuopio",
-                  "price": 4.8
+                  "price": 4.75
                 },
                 {
                   "name": "Sabah FK",
@@ -664,7 +664,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
+                  "price": 4.25
                 }
               ]
             }
@@ -700,11 +700,11 @@
               "outcomes": [
                 {
                   "name": "KuPS Kuopio",
-                  "price": 3.95
+                  "price": 4.25
                 },
                 {
                   "name": "Sabah FK",
-                  "price": 1.69
+                  "price": 1.64
                 },
                 {
                   "name": "Draw",
@@ -731,7 +731,7 @@
               "outcomes": [
                 {
                   "name": "Lincoln Red Imps FC",
-                  "price": 20.0
+                  "price": 23.0
                 },
                 {
                   "name": "Mjällby AIF",
@@ -739,7 +739,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 10.0
+                  "price": 9.4
                 }
               ]
             }
@@ -775,7 +775,7 @@
               "outcomes": [
                 {
                   "name": "Lincoln Red Imps FC",
-                  "price": 17.0
+                  "price": 15.0
                 },
                 {
                   "name": "Mjällby AIF",
@@ -797,15 +797,15 @@
               "outcomes": [
                 {
                   "name": "Lincoln Red Imps FC",
-                  "price": 19.5
+                  "price": 19.0
                 },
                 {
                   "name": "Mjällby AIF",
-                  "price": 1.12
+                  "price": 1.11
                 },
                 {
                   "name": "Draw",
-                  "price": 8.1
+                  "price": 8.3
                 }
               ]
             }
@@ -850,15 +850,15 @@
               "outcomes": [
                 {
                   "name": "AGF Aarhus",
-                  "price": 2.24
+                  "price": 2.32
                 },
                 {
                   "name": "Lech Poznań",
-                  "price": 3.75
+                  "price": 3.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 3.3
                 }
               ]
             }
@@ -894,15 +894,15 @@
               "outcomes": [
                 {
                   "name": "AGF Aarhus",
-                  "price": 2.14
+                  "price": 2.18
                 },
                 {
                   "name": "Lech Poznań",
-                  "price": 3.56
+                  "price": 3.48
                 },
                 {
                   "name": "Draw",
-                  "price": 3.12
+                  "price": 3.1
                 }
               ]
             }
@@ -938,15 +938,15 @@
               "outcomes": [
                 {
                   "name": "AGF Aarhus",
-                  "price": 2.12
+                  "price": 2.16
                 },
                 {
                   "name": "Lech Poznań",
-                  "price": 3.56
+                  "price": 3.48
                 },
                 {
                   "name": "Draw",
-                  "price": 3.12
+                  "price": 3.1
                 }
               ]
             }
