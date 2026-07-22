@@ -1,483 +1,7 @@
 {
-  "采集时间": "2026-07-22T01:20:15.316158",
-  "比赛数": 11,
+  "采集时间": "2026-07-22T08:04:36.728098",
+  "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "03868280fe8e1f360f9faa1d11407af7",
-      "sport_key": "soccer_conmebol_copa_sudamericana",
-      "commence_time": "2026-07-22T00:30:00Z",
-      "home_team": "UCV FC",
-      "away_team": "Santos",
-      "bookmakers": [
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Santos",
-                  "price": 1.19
-                },
-                {
-                  "name": "UCV FC",
-                  "price": 19.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Santos",
-                  "price": 1.16
-                },
-                {
-                  "name": "UCV FC",
-                  "price": 18.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Santos",
-                  "price": 1.14
-                },
-                {
-                  "name": "UCV FC",
-                  "price": 21.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Santos",
-                  "price": 1.16
-                },
-                {
-                  "name": "UCV FC",
-                  "price": 22.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Santos",
-                  "price": 1.21
-                },
-                {
-                  "name": "UCV FC",
-                  "price": 20.51
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.38
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c8f02f4eaf38dfd1c2b87fed2125ccf1",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-07-22T00:35:00Z",
-      "home_team": "Vila Nova",
-      "away_team": "Fortaleza",
-      "bookmakers": [
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fortaleza",
-                  "price": 34.0
-                },
-                {
-                  "name": "Vila Nova",
-                  "price": 1.01
-                },
-                {
-                  "name": "Draw",
-                  "price": 11.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fortaleza",
-                  "price": 35.0
-                },
-                {
-                  "name": "Vila Nova",
-                  "price": 1.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 12.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fortaleza",
-                  "price": 30.0
-                },
-                {
-                  "name": "Vila Nova",
-                  "price": 1.04
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fortaleza",
-                  "price": 30.0
-                },
-                {
-                  "name": "Vila Nova",
-                  "price": 1.04
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fortaleza",
-                  "price": 28.0
-                },
-                {
-                  "name": "Vila Nova",
-                  "price": 1.06
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9312c4bdfd8eefcabb2d3e92a571806f",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-07-22T01:00:00Z",
-      "home_team": "Cruz Azul",
-      "away_team": "Puebla",
-      "bookmakers": [
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cruz Azul",
-                  "price": 1.44
-                },
-                {
-                  "name": "Puebla",
-                  "price": 9.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.33
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cruz Azul",
-                  "price": 1.33
-                },
-                {
-                  "name": "Puebla",
-                  "price": 7.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.95
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cruz Azul",
-                  "price": 1.42
-                },
-                {
-                  "name": "Puebla",
-                  "price": 9.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cruz Azul",
-                  "price": 1.38
-                },
-                {
-                  "name": "Puebla",
-                  "price": 8.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cruz Azul",
-                  "price": 1.38
-                },
-                {
-                  "name": "Puebla",
-                  "price": 8.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.1
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "651098b236b65d4256d7367e239f2db7",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-07-22T03:05:00Z",
-      "home_team": "Toluca",
-      "away_team": "Pumas",
-      "bookmakers": [
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Pumas",
-                  "price": 5.23
-                },
-                {
-                  "name": "Toluca",
-                  "price": 1.56
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "William Hill",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Pumas",
-                  "price": 4.8
-                },
-                {
-                  "name": "Toluca",
-                  "price": 1.53
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Pumas",
-                  "price": 5.0
-                },
-                {
-                  "name": "Toluca",
-                  "price": 1.52
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Pumas",
-                  "price": 4.8
-                },
-                {
-                  "name": "Toluca",
-                  "price": 1.53
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Pumas",
-                  "price": 5.45
-                },
-                {
-                  "name": "Toluca",
-                  "price": 1.58
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.22
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "181e47b9017d6ce8f97f24600727bb5b",
       "sport_key": "soccer_korea_kleague1",
@@ -581,11 +105,11 @@
               "outcomes": [
                 {
                   "name": "Bucheon FC 1995",
-                  "price": 2.8
+                  "price": 2.9
                 },
                 {
                   "name": "FC Anyang",
-                  "price": 2.4
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
@@ -700,15 +224,15 @@
               "outcomes": [
                 {
                   "name": "FC Seoul",
-                  "price": 1.77
+                  "price": 1.75
                 },
                 {
                   "name": "Pohang Steelers",
-                  "price": 4.2
+                  "price": 4.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.2
                 }
               ]
             }
@@ -819,15 +343,15 @@
               "outcomes": [
                 {
                   "name": "Gwangju FC",
-                  "price": 4.3
+                  "price": 4.0
                 },
                 {
                   "name": "Sangju Sangmu FC",
-                  "price": 1.85
+                  "price": 1.95
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.4
                 }
               ]
             }
@@ -898,7 +422,7 @@
                 },
                 {
                   "name": "HamKam",
-                  "price": 16.0
+                  "price": 17.0
                 },
                 {
                   "name": "Draw",
@@ -938,15 +462,15 @@
               "outcomes": [
                 {
                   "name": "Bodø/Glimt",
-                  "price": 1.06
+                  "price": 1.07
                 },
                 {
                   "name": "HamKam",
-                  "price": 16.0
+                  "price": 18.0
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
+                  "price": 8.9
                 }
               ]
             }
@@ -969,15 +493,15 @@
               "outcomes": [
                 {
                   "name": "FC Kairat",
-                  "price": 5.0
+                  "price": 4.9
                 },
                 {
                   "name": "Omonoia FC",
-                  "price": 1.6
+                  "price": 1.62
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.75
                 }
               ]
             }
@@ -991,7 +515,7 @@
               "outcomes": [
                 {
                   "name": "FC Kairat",
-                  "price": 4.63
+                  "price": 4.54
                 },
                 {
                   "name": "Omonoia FC",
@@ -999,7 +523,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.78
+                  "price": 3.85
                 }
               ]
             }
@@ -1057,7 +581,7 @@
               "outcomes": [
                 {
                   "name": "FC Kairat",
-                  "price": 4.6
+                  "price": 4.5
                 },
                 {
                   "name": "Omonoia FC",
@@ -1065,7 +589,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.82
                 }
               ]
             }
@@ -1207,15 +731,15 @@
               "outcomes": [
                 {
                   "name": "PFC Levski Sofia",
-                  "price": 1.73
+                  "price": 1.88
                 },
                 {
                   "name": "Universitatea Craiova",
-                  "price": 5.2
+                  "price": 4.15
                 },
                 {
                   "name": "Draw",
-                  "price": 3.32
+                  "price": 3.35
                 }
               ]
             }
@@ -1229,11 +753,11 @@
               "outcomes": [
                 {
                   "name": "PFC Levski Sofia",
-                  "price": 1.93
+                  "price": 2.0
                 },
                 {
                   "name": "Universitatea Craiova",
-                  "price": 4.0
+                  "price": 3.75
                 },
                 {
                   "name": "Draw",
@@ -1251,15 +775,15 @@
               "outcomes": [
                 {
                   "name": "PFC Levski Sofia",
-                  "price": 1.74
+                  "price": 1.8
                 },
                 {
                   "name": "Universitatea Craiova",
-                  "price": 5.24
+                  "price": 4.68
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 3.38
                 }
               ]
             }
@@ -1273,15 +797,15 @@
               "outcomes": [
                 {
                   "name": "PFC Levski Sofia",
-                  "price": 1.85
+                  "price": 1.93
                 },
                 {
                   "name": "Universitatea Craiova",
-                  "price": 4.1
+                  "price": 3.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.2
                 }
               ]
             }
@@ -1295,15 +819,134 @@
               "outcomes": [
                 {
                   "name": "PFC Levski Sofia",
-                  "price": 1.91
+                  "price": 1.95
                 },
                 {
                   "name": "Universitatea Craiova",
-                  "price": 4.0
+                  "price": 3.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "57a59765e3e5c198db099aefaa1cf339",
+      "sport_key": "soccer_uefa_champs_league_qualification",
+      "commence_time": "2026-07-22T19:00:00Z",
+      "home_team": "KF Egnatia",
+      "away_team": "NK Celje",
+      "bookmakers": [
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "KF Egnatia",
+                  "price": 3.85
+                },
+                {
+                  "name": "NK Celje",
+                  "price": 1.92
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "KF Egnatia",
+                  "price": 3.87
+                },
+                {
+                  "name": "NK Celje",
+                  "price": 1.92
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.52
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "KF Egnatia",
+                  "price": 3.9
+                },
+                {
+                  "name": "NK Celje",
+                  "price": 1.82
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "KF Egnatia",
+                  "price": 3.84
+                },
+                {
+                  "name": "NK Celje",
+                  "price": 1.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "KF Egnatia",
+                  "price": 3.8
+                },
+                {
+                  "name": "NK Celje",
+                  "price": 1.91
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
                 }
               ]
             }
