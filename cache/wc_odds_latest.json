@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-07-28T01:19:36.936780",
+  "采集时间": "2026-07-28T08:10:42.834562",
   "比赛数": 8,
   "赔率数据": [
     {
@@ -10,28 +10,6 @@
       "away_team": "Sabah FK",
       "bookmakers": [
         {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "KuPS Kuopio",
-                  "price": 3.15
-                },
-                {
-                  "name": "Sabah FK",
-                  "price": 2.28
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Tipico",
           "markets": [
             {
@@ -39,15 +17,15 @@
               "outcomes": [
                 {
                   "name": "KuPS Kuopio",
-                  "price": 3.0
+                  "price": 2.85
                 },
                 {
                   "name": "Sabah FK",
-                  "price": 2.2
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.3
                 }
               ]
             }
@@ -61,11 +39,11 @@
               "outcomes": [
                 {
                   "name": "KuPS Kuopio",
-                  "price": 3.0
+                  "price": 2.75
                 },
                 {
                   "name": "Sabah FK",
-                  "price": 2.1
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
@@ -83,15 +61,15 @@
               "outcomes": [
                 {
                   "name": "KuPS Kuopio",
-                  "price": 3.4
+                  "price": 3.2
                 },
                 {
                   "name": "Sabah FK",
-                  "price": 2.02
+                  "price": 2.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.35
                 }
               ]
             }
@@ -105,15 +83,37 @@
               "outcomes": [
                 {
                   "name": "KuPS Kuopio",
-                  "price": 3.4
+                  "price": 3.2
                 },
                 {
                   "name": "Sabah FK",
-                  "price": 2.02
+                  "price": 2.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "KuPS Kuopio",
+                  "price": 3.2
+                },
+                {
+                  "name": "Sabah FK",
+                  "price": 2.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
                 }
               ]
             }
@@ -129,28 +129,6 @@
       "away_team": "Mjällby AIF",
       "bookmakers": [
         {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Lincoln Red Imps FC",
-                  "price": 6.0
-                },
-                {
-                  "name": "Mjällby AIF",
-                  "price": 1.56
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.15
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "1xBet",
           "markets": [
             {
@@ -158,15 +136,15 @@
               "outcomes": [
                 {
                   "name": "Lincoln Red Imps FC",
-                  "price": 6.0
+                  "price": 5.49
                 },
                 {
                   "name": "Mjällby AIF",
-                  "price": 1.47
+                  "price": 1.51
                 },
                 {
                   "name": "Draw",
-                  "price": 4.58
+                  "price": 4.54
                 }
               ]
             }
@@ -180,11 +158,11 @@
               "outcomes": [
                 {
                   "name": "Lincoln Red Imps FC",
-                  "price": 5.3
+                  "price": 5.25
                 },
                 {
                   "name": "Mjällby AIF",
-                  "price": 1.45
+                  "price": 1.47
                 },
                 {
                   "name": "Draw",
@@ -202,11 +180,11 @@
               "outcomes": [
                 {
                   "name": "Lincoln Red Imps FC",
-                  "price": 5.3
+                  "price": 5.25
                 },
                 {
                   "name": "Mjällby AIF",
-                  "price": 1.45
+                  "price": 1.47
                 },
                 {
                   "name": "Draw",
@@ -224,15 +202,37 @@
               "outcomes": [
                 {
                   "name": "Lincoln Red Imps FC",
-                  "price": 5.3
+                  "price": 5.25
                 },
                 {
                   "name": "Mjällby AIF",
-                  "price": 1.45
+                  "price": 1.47
                 },
                 {
                   "name": "Draw",
                   "price": 4.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Lincoln Red Imps FC",
+                  "price": 6.0
+                },
+                {
+                  "name": "Mjällby AIF",
+                  "price": 1.59
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.7
                 }
               ]
             }
@@ -497,7 +497,7 @@
                 },
                 {
                   "name": "FC Thun",
-                  "price": 7.2
+                  "price": 7.25
                 },
                 {
                   "name": "Draw",
@@ -515,15 +515,15 @@
               "outcomes": [
                 {
                   "name": "Dinamo Zagreb",
-                  "price": 1.37
+                  "price": 1.36
                 },
                 {
                   "name": "FC Thun",
-                  "price": 7.55
+                  "price": 7.65
                 },
                 {
                   "name": "Draw",
-                  "price": 4.94
+                  "price": 5.04
                 }
               ]
             }
@@ -616,11 +616,11 @@
                 },
                 {
                   "name": "NK Celje",
-                  "price": 1.35
+                  "price": 1.37
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 4.65
                 }
               ]
             }
@@ -634,15 +634,15 @@
               "outcomes": [
                 {
                   "name": "KF Egnatia",
-                  "price": 8.0
+                  "price": 6.75
                 },
                 {
                   "name": "NK Celje",
-                  "price": 1.3
+                  "price": 1.38
                 },
                 {
                   "name": "Draw",
-                  "price": 5.1
+                  "price": 4.8
                 }
               ]
             }
@@ -656,15 +656,15 @@
               "outcomes": [
                 {
                   "name": "KF Egnatia",
-                  "price": 6.46
+                  "price": 6.62
                 },
                 {
                   "name": "NK Celje",
-                  "price": 1.45
+                  "price": 1.43
                 },
                 {
                   "name": "Draw",
-                  "price": 4.83
+                  "price": 4.99
                 }
               ]
             }
@@ -678,15 +678,15 @@
               "outcomes": [
                 {
                   "name": "KF Egnatia",
-                  "price": 8.0
+                  "price": 6.75
                 },
                 {
                   "name": "NK Celje",
-                  "price": 1.3
+                  "price": 1.38
                 },
                 {
                   "name": "Draw",
-                  "price": 5.1
+                  "price": 4.8
                 }
               ]
             }
@@ -700,15 +700,15 @@
               "outcomes": [
                 {
                   "name": "KF Egnatia",
-                  "price": 8.0
+                  "price": 6.75
                 },
                 {
                   "name": "NK Celje",
-                  "price": 1.3
+                  "price": 1.38
                 },
                 {
                   "name": "Draw",
-                  "price": 5.1
+                  "price": 4.8
                 }
               ]
             }
@@ -724,28 +724,6 @@
       "away_team": "SK Sturm Graz",
       "bookmakers": [
         {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hearts",
-                  "price": 1.83
-                },
-                {
-                  "name": "SK Sturm Graz",
-                  "price": 3.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.0
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Tipico",
           "markets": [
             {
@@ -753,15 +731,15 @@
               "outcomes": [
                 {
                   "name": "Hearts",
-                  "price": 1.77
+                  "price": 1.8
                 },
                 {
                   "name": "SK Sturm Graz",
-                  "price": 3.8
+                  "price": 3.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 3.8
                 }
               ]
             }
@@ -775,15 +753,15 @@
               "outcomes": [
                 {
                   "name": "Hearts",
-                  "price": 1.74
+                  "price": 1.77
                 },
                 {
                   "name": "SK Sturm Graz",
-                  "price": 3.8
+                  "price": 3.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 4.0
                 }
               ]
             }
@@ -801,7 +779,7 @@
                 },
                 {
                   "name": "SK Sturm Graz",
-                  "price": 4.25
+                  "price": 4.2
                 },
                 {
                   "name": "Draw",
@@ -832,6 +810,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Hearts",
+                  "price": 1.65
+                },
+                {
+                  "name": "SK Sturm Graz",
+                  "price": 4.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.2
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -850,15 +850,15 @@
               "outcomes": [
                 {
                   "name": "FC Ararat-Armenia",
-                  "price": 4.2
+                  "price": 4.35
                 },
                 {
                   "name": "Shamrock Rovers",
-                  "price": 1.78
+                  "price": 1.72
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.7
                 }
               ]
             }
@@ -872,15 +872,15 @@
               "outcomes": [
                 {
                   "name": "FC Ararat-Armenia",
-                  "price": 4.0
+                  "price": 4.2
                 },
                 {
                   "name": "Shamrock Rovers",
-                  "price": 1.7
+                  "price": 1.63
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.55
                 }
               ]
             }
@@ -894,15 +894,15 @@
               "outcomes": [
                 {
                   "name": "FC Ararat-Armenia",
-                  "price": 4.2
+                  "price": 4.35
                 },
                 {
                   "name": "Shamrock Rovers",
-                  "price": 1.78
+                  "price": 1.72
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.7
                 }
               ]
             }
@@ -916,15 +916,15 @@
               "outcomes": [
                 {
                   "name": "FC Ararat-Armenia",
-                  "price": 3.8
+                  "price": 4.3
                 },
                 {
                   "name": "Shamrock Rovers",
-                  "price": 1.76
+                  "price": 1.66
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.75
                 }
               ]
             }
@@ -938,15 +938,15 @@
               "outcomes": [
                 {
                   "name": "FC Ararat-Armenia",
-                  "price": 4.2
+                  "price": 4.35
                 },
                 {
                   "name": "Shamrock Rovers",
-                  "price": 1.78
+                  "price": 1.72
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.7
                 }
               ]
             }
