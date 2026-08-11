@@ -1,245 +1,7 @@
 {
-  "采集时间": "2026-08-11T00:46:31.807993",
-  "比赛数": 10,
+  "采集时间": "2026-08-11T06:43:06.421911",
+  "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "cd4979b776825f6986008adbc4c29d19",
-      "sport_key": "soccer_chile_campeonato",
-      "commence_time": "2026-08-11T00:00:00Z",
-      "home_team": "Audax Italiano",
-      "away_team": "Ñublense",
-      "bookmakers": [
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Audax Italiano",
-                  "price": 2.8
-                },
-                {
-                  "name": "Ñublense",
-                  "price": 3.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Audax Italiano",
-                  "price": 2.75
-                },
-                {
-                  "name": "Ñublense",
-                  "price": 3.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Audax Italiano",
-                  "price": 2.85
-                },
-                {
-                  "name": "Ñublense",
-                  "price": 3.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Audax Italiano",
-                  "price": 3.0
-                },
-                {
-                  "name": "Ñublense",
-                  "price": 3.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.38
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Audax Italiano",
-                  "price": 2.79
-                },
-                {
-                  "name": "Ñublense",
-                  "price": 3.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.42
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "15e6f04b3f4adcf73e631fabaddedb3f",
-      "sport_key": "soccer_argentina_primera_division",
-      "commence_time": "2026-08-11T00:15:00Z",
-      "home_team": "Union Santa Fe",
-      "away_team": "Central Córdoba",
-      "bookmakers": [
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Central Córdoba",
-                  "price": 14.0
-                },
-                {
-                  "name": "Union Santa Fe",
-                  "price": 1.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Central Córdoba",
-                  "price": 14.0
-                },
-                {
-                  "name": "Union Santa Fe",
-                  "price": 1.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Central Córdoba",
-                  "price": 18.5
-                },
-                {
-                  "name": "Union Santa Fe",
-                  "price": 1.29
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Central Córdoba",
-                  "price": 13.5
-                },
-                {
-                  "name": "Union Santa Fe",
-                  "price": 1.21
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Central Córdoba",
-                  "price": 11.75
-                },
-                {
-                  "name": "Union Santa Fe",
-                  "price": 1.21
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.8
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "9495fba16433b26525c818b794813b74",
       "sport_key": "soccer_uefa_champs_league_qualification",
@@ -255,15 +17,15 @@
               "outcomes": [
                 {
                   "name": "FC Kairat",
-                  "price": 2.62
+                  "price": 2.77
                 },
                 {
                   "name": "PFC Levski Sofia",
-                  "price": 2.91
+                  "price": 2.88
                 },
                 {
                   "name": "Draw",
-                  "price": 3.32
+                  "price": 3.15
                 }
               ]
             }
@@ -277,15 +39,15 @@
               "outcomes": [
                 {
                   "name": "FC Kairat",
-                  "price": 2.58
+                  "price": 2.68
                 },
                 {
                   "name": "PFC Levski Sofia",
-                  "price": 2.88
+                  "price": 2.78
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.1
                 }
               ]
             }
@@ -299,15 +61,15 @@
               "outcomes": [
                 {
                   "name": "FC Kairat",
-                  "price": 2.58
+                  "price": 2.68
                 },
                 {
                   "name": "PFC Levski Sofia",
-                  "price": 2.88
+                  "price": 2.78
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.1
                 }
               ]
             }
@@ -321,15 +83,15 @@
               "outcomes": [
                 {
                   "name": "FC Kairat",
-                  "price": 2.45
+                  "price": 2.55
                 },
                 {
                   "name": "PFC Levski Sofia",
-                  "price": 2.85
+                  "price": 2.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.15
                 }
               ]
             }
@@ -343,15 +105,15 @@
               "outcomes": [
                 {
                   "name": "FC Kairat",
-                  "price": 2.51
+                  "price": 2.71
                 },
                 {
                   "name": "PFC Levski Sofia",
-                  "price": 2.79
+                  "price": 2.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.18
+                  "price": 3.0
                 }
               ]
             }
@@ -374,15 +136,15 @@
               "outcomes": [
                 {
                   "name": "AGF Aarhus",
-                  "price": 3.4
+                  "price": 3.3
                 },
                 {
                   "name": "Sabah FK",
-                  "price": 2.03
+                  "price": 2.02
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.75
                 }
               ]
             }
@@ -396,15 +158,15 @@
               "outcomes": [
                 {
                   "name": "AGF Aarhus",
-                  "price": 3.74
+                  "price": 3.78
                 },
                 {
                   "name": "Sabah FK",
-                  "price": 2.05
+                  "price": 2.03
                 },
                 {
                   "name": "Draw",
-                  "price": 3.62
+                  "price": 3.64
                 }
               ]
             }
@@ -493,15 +255,15 @@
               "outcomes": [
                 {
                   "name": "Bodø/Glimt",
-                  "price": 1.66
+                  "price": 1.67
                 },
                 {
                   "name": "Union Saint-Gilloise",
-                  "price": 4.62
+                  "price": 4.67
                 },
                 {
                   "name": "Draw",
-                  "price": 4.83
+                  "price": 4.67
                 }
               ]
             }
@@ -519,11 +281,11 @@
                 },
                 {
                   "name": "Union Saint-Gilloise",
-                  "price": 4.45
+                  "price": 4.7
                 },
                 {
                   "name": "Draw",
-                  "price": 4.35
+                  "price": 4.2
                 }
               ]
             }
@@ -541,11 +303,11 @@
                 },
                 {
                   "name": "Union Saint-Gilloise",
-                  "price": 4.3
+                  "price": 4.55
                 },
                 {
                   "name": "Draw",
-                  "price": 4.5
+                  "price": 4.6
                 }
               ]
             }
@@ -563,11 +325,11 @@
                 },
                 {
                   "name": "Union Saint-Gilloise",
-                  "price": 4.45
+                  "price": 4.7
                 },
                 {
                   "name": "Draw",
-                  "price": 4.35
+                  "price": 4.2
                 }
               ]
             }
@@ -612,11 +374,11 @@
               "outcomes": [
                 {
                   "name": "Dinamo Zagreb",
-                  "price": 1.35
+                  "price": 1.36
                 },
                 {
                   "name": "FK Kauno Žalgiris",
-                  "price": 6.8
+                  "price": 7.0
                 },
                 {
                   "name": "Draw",
@@ -634,7 +396,7 @@
               "outcomes": [
                 {
                   "name": "Dinamo Zagreb",
-                  "price": 1.37
+                  "price": 1.4
                 },
                 {
                   "name": "FK Kauno Žalgiris",
@@ -642,7 +404,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 4.4
                 }
               ]
             }
@@ -656,15 +418,15 @@
               "outcomes": [
                 {
                   "name": "Dinamo Zagreb",
-                  "price": 1.38
+                  "price": 1.42
                 },
                 {
                   "name": "FK Kauno Žalgiris",
-                  "price": 6.75
+                  "price": 6.5
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
+                  "price": 4.75
                 }
               ]
             }
@@ -678,15 +440,15 @@
               "outcomes": [
                 {
                   "name": "Dinamo Zagreb",
-                  "price": 1.41
+                  "price": 1.44
                 },
                 {
                   "name": "FK Kauno Žalgiris",
-                  "price": 7.4
+                  "price": 6.9
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 4.6
                 }
               ]
             }
@@ -700,15 +462,15 @@
               "outcomes": [
                 {
                   "name": "Dinamo Zagreb",
-                  "price": 1.41
+                  "price": 1.44
                 },
                 {
                   "name": "FK Kauno Žalgiris",
-                  "price": 7.4
+                  "price": 6.9
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 4.6
                 }
               ]
             }
@@ -731,11 +493,11 @@
               "outcomes": [
                 {
                   "name": "Helsingborgs IF",
-                  "price": 2.25
+                  "price": 2.3
                 },
                 {
                   "name": "IFK Värnamo",
-                  "price": 2.92
+                  "price": 2.82
                 },
                 {
                   "name": "Draw",
@@ -753,11 +515,11 @@
               "outcomes": [
                 {
                   "name": "Helsingborgs IF",
-                  "price": 2.25
+                  "price": 2.3
                 },
                 {
                   "name": "IFK Värnamo",
-                  "price": 2.92
+                  "price": 2.82
                 },
                 {
                   "name": "Draw",
@@ -775,11 +537,11 @@
               "outcomes": [
                 {
                   "name": "Helsingborgs IF",
-                  "price": 2.25
+                  "price": 2.23
                 },
                 {
                   "name": "IFK Värnamo",
-                  "price": 2.89
+                  "price": 2.92
                 },
                 {
                   "name": "Draw",
@@ -801,7 +563,7 @@
                 },
                 {
                   "name": "IFK Värnamo",
-                  "price": 2.75
+                  "price": 2.8
                 },
                 {
                   "name": "Draw",
@@ -823,7 +585,7 @@
                 },
                 {
                   "name": "IFK Värnamo",
-                  "price": 2.75
+                  "price": 2.8
                 },
                 {
                   "name": "Draw",
@@ -850,15 +612,15 @@
               "outcomes": [
                 {
                   "name": "NEC Nijmegen",
-                  "price": 2.69
+                  "price": 2.64
                 },
                 {
                   "name": "Olympiakos Piraeus",
-                  "price": 2.53
+                  "price": 2.55
                 },
                 {
                   "name": "Draw",
-                  "price": 3.28
+                  "price": 3.32
                 }
               ]
             }
@@ -872,15 +634,15 @@
               "outcomes": [
                 {
                   "name": "NEC Nijmegen",
-                  "price": 2.66
+                  "price": 2.73
                 },
                 {
                   "name": "Olympiakos Piraeus",
-                  "price": 2.53
+                  "price": 2.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 3.34
                 }
               ]
             }
@@ -902,7 +664,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.2
                 }
               ]
             }
@@ -938,7 +700,7 @@
               "outcomes": [
                 {
                   "name": "NEC Nijmegen",
-                  "price": 2.65
+                  "price": 2.63
                 },
                 {
                   "name": "Olympiakos Piraeus",
@@ -946,7 +708,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 3.3
                 }
               ]
             }
@@ -969,15 +731,15 @@
               "outcomes": [
                 {
                   "name": "Hapoel Be'er Sheva",
-                  "price": 12.2
+                  "price": 12.9
                 },
                 {
                   "name": "Red Star Belgrade",
-                  "price": 1.25
+                  "price": 1.23
                 },
                 {
                   "name": "Draw",
-                  "price": 6.86
+                  "price": 7.33
                 }
               ]
             }
@@ -995,11 +757,11 @@
                 },
                 {
                   "name": "Red Star Belgrade",
-                  "price": 1.27
+                  "price": 1.25
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.75
                 }
               ]
             }
@@ -1013,15 +775,15 @@
               "outcomes": [
                 {
                   "name": "Hapoel Be'er Sheva",
-                  "price": 10.75
+                  "price": 11.25
                 },
                 {
                   "name": "Red Star Belgrade",
-                  "price": 1.23
+                  "price": 1.21
                 },
                 {
                   "name": "Draw",
-                  "price": 6.05
+                  "price": 6.35
                 }
               ]
             }
@@ -1039,11 +801,11 @@
                 },
                 {
                   "name": "Red Star Belgrade",
-                  "price": 1.27
+                  "price": 1.25
                 },
                 {
                   "name": "Draw",
-                  "price": 5.3
+                  "price": 5.75
                 }
               ]
             }
@@ -1061,11 +823,11 @@
                 },
                 {
                   "name": "Red Star Belgrade",
-                  "price": 1.26
+                  "price": 1.24
                 },
                 {
                   "name": "Draw",
-                  "price": 5.75
+                  "price": 6.0
                 }
               ]
             }
@@ -1180,11 +942,11 @@
                 },
                 {
                   "name": "NK Celje",
-                  "price": 1.47
+                  "price": 1.45
                 },
                 {
                   "name": "Draw",
-                  "price": 4.3
+                  "price": 4.4
                 }
               ]
             }
