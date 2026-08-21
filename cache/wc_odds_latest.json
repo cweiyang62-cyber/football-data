@@ -1,417 +1,7 @@
 {
-  "采集时间": "2026-08-21T00:33:49.588114",
-  "比赛数": 12,
+  "采集时间": "2026-08-21T06:22:58.541285",
+  "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "acd8aa932b98f8af48f42e1d2e35c49b",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-08-20T22:30:00Z",
-      "home_team": "Athletic Club (MG)",
-      "away_team": "Clube de Regatas Brasil",
-      "bookmakers": [
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Athletic Club (MG)",
-                  "price": 26.0
-                },
-                {
-                  "name": "Clube de Regatas Brasil",
-                  "price": 1.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 26.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Athletic Club (MG)",
-                  "price": 26.0
-                },
-                {
-                  "name": "Clube de Regatas Brasil",
-                  "price": 1.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 26.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "df5b2d24c5c6d77108a96c5c43cd7027",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-08-20T23:30:00Z",
-      "home_team": "Grêmio Novorizontino",
-      "away_team": "América Mineiro",
-      "bookmakers": [
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América Mineiro",
-                  "price": 20.0
-                },
-                {
-                  "name": "Grêmio Novorizontino",
-                  "price": 1.14
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América Mineiro",
-                  "price": 20.0
-                },
-                {
-                  "name": "Grêmio Novorizontino",
-                  "price": 1.09
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América Mineiro",
-                  "price": 20.0
-                },
-                {
-                  "name": "Grêmio Novorizontino",
-                  "price": 1.09
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América Mineiro",
-                  "price": 24.0
-                },
-                {
-                  "name": "Grêmio Novorizontino",
-                  "price": 1.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América Mineiro",
-                  "price": 24.0
-                },
-                {
-                  "name": "Grêmio Novorizontino",
-                  "price": 1.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.8
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f818e96fefc448916f76f89f2281976e",
-      "sport_key": "soccer_conmebol_copa_sudamericana",
-      "commence_time": "2026-08-21T00:30:00Z",
-      "home_team": "Botafogo",
-      "away_team": "Club Cienciano",
-      "bookmakers": [
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo",
-                  "price": 1.16
-                },
-                {
-                  "name": "Club Cienciano",
-                  "price": 12.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.92
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo",
-                  "price": 1.11
-                },
-                {
-                  "name": "Club Cienciano",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Codere (IT)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo",
-                  "price": 1.14
-                },
-                {
-                  "name": "Club Cienciano",
-                  "price": 14.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo",
-                  "price": 1.16
-                },
-                {
-                  "name": "Club Cienciano",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo",
-                  "price": 1.23
-                },
-                {
-                  "name": "Club Cienciano",
-                  "price": 15.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.6
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "afac77c82c22f3d1654f178b1c8d4215",
-      "sport_key": "soccer_conmebol_copa_libertadores",
-      "commence_time": "2026-08-21T00:30:00Z",
-      "home_team": "Corinthians-SP",
-      "away_team": "Rosario Central",
-      "bookmakers": [
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Corinthians-SP",
-                  "price": 2.1
-                },
-                {
-                  "name": "Rosario Central",
-                  "price": 3.45
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Corinthians-SP",
-                  "price": 2.15
-                },
-                {
-                  "name": "Rosario Central",
-                  "price": 3.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Corinthians-SP",
-                  "price": 2.38
-                },
-                {
-                  "name": "Rosario Central",
-                  "price": 4.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Codere (IT)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Corinthians-SP",
-                  "price": 2.21
-                },
-                {
-                  "name": "Rosario Central",
-                  "price": 3.85
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Corinthians-SP",
-                  "price": 2.18
-                },
-                {
-                  "name": "Rosario Central",
-                  "price": 4.09
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.86
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "ed5b4f7a795b2350a66e07d48b5fe36a",
       "sport_key": "soccer_japan_j_league",
@@ -427,15 +17,15 @@
               "outcomes": [
                 {
                   "name": "Kashiwa Reysol",
-                  "price": 1.58
+                  "price": 1.5
                 },
                 {
                   "name": "V-Varen Nagasaki",
-                  "price": 5.75
+                  "price": 6.75
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
+                  "price": 4.3
                 }
               ]
             }
@@ -449,15 +39,15 @@
               "outcomes": [
                 {
                   "name": "Kashiwa Reysol",
-                  "price": 1.52
+                  "price": 1.46
                 },
                 {
                   "name": "V-Varen Nagasaki",
-                  "price": 5.5
+                  "price": 6.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 4.15
                 }
               ]
             }
@@ -471,15 +61,15 @@
               "outcomes": [
                 {
                   "name": "Kashiwa Reysol",
-                  "price": 1.51
+                  "price": 1.43
                 },
                 {
                   "name": "V-Varen Nagasaki",
-                  "price": 5.4
+                  "price": 6.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.95
+                  "price": 4.25
                 }
               ]
             }
@@ -493,15 +83,15 @@
               "outcomes": [
                 {
                   "name": "Kashiwa Reysol",
-                  "price": 1.55
+                  "price": 1.47
                 },
                 {
                   "name": "V-Varen Nagasaki",
-                  "price": 5.5
+                  "price": 6.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 4.15
                 }
               ]
             }
@@ -515,15 +105,15 @@
               "outcomes": [
                 {
                   "name": "Kashiwa Reysol",
-                  "price": 1.52
+                  "price": 1.5
                 },
                 {
                   "name": "V-Varen Nagasaki",
-                  "price": 5.4
+                  "price": 5.6
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 4.05
                 }
               ]
             }
@@ -550,11 +140,11 @@
                 },
                 {
                   "name": "JEF United Chiba",
-                  "price": 6.5
+                  "price": 6.25
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
+                  "price": 4.3
                 }
               ]
             }
@@ -568,11 +158,11 @@
               "outcomes": [
                 {
                   "name": "FC Tokyo",
-                  "price": 1.47
+                  "price": 1.48
                 },
                 {
                   "name": "JEF United Chiba",
-                  "price": 5.9
+                  "price": 5.6
                 },
                 {
                   "name": "Draw",
@@ -594,7 +184,7 @@
                 },
                 {
                   "name": "JEF United Chiba",
-                  "price": 5.9
+                  "price": 5.7
                 },
                 {
                   "name": "Draw",
@@ -612,11 +202,11 @@
               "outcomes": [
                 {
                   "name": "FC Tokyo",
-                  "price": 1.5
+                  "price": 1.52
                 },
                 {
                   "name": "JEF United Chiba",
-                  "price": 5.9
+                  "price": 5.7
                 },
                 {
                   "name": "Draw",
@@ -634,15 +224,15 @@
               "outcomes": [
                 {
                   "name": "FC Tokyo",
-                  "price": 1.48
+                  "price": 1.53
                 },
                 {
                   "name": "JEF United Chiba",
-                  "price": 5.9
+                  "price": 5.5
                 },
                 {
                   "name": "Draw",
-                  "price": 4.05
+                  "price": 3.9
                 }
               ]
             }
@@ -669,11 +259,11 @@
                 },
                 {
                   "name": "Waldhof Mannheim",
-                  "price": 3.2
+                  "price": 3.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 4.0
                 }
               ]
             }
@@ -784,15 +374,15 @@
               "outcomes": [
                 {
                   "name": "Al-Nassr",
-                  "price": 1.23
+                  "price": 1.24
                 },
                 {
                   "name": "Al-Riyadh",
-                  "price": 8.75
+                  "price": 9.5
                 },
                 {
                   "name": "Draw",
-                  "price": 5.9
+                  "price": 6.0
                 }
               ]
             }
@@ -810,11 +400,11 @@
                 },
                 {
                   "name": "Al-Riyadh",
-                  "price": 9.83
+                  "price": 10.03
                 },
                 {
                   "name": "Draw",
-                  "price": 6.16
+                  "price": 6.27
                 }
               ]
             }
@@ -832,11 +422,11 @@
                 },
                 {
                   "name": "Al-Riyadh",
-                  "price": 11.5
+                  "price": 12.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.6
+                  "price": 6.2
                 }
               ]
             }
@@ -854,11 +444,11 @@
                 },
                 {
                   "name": "Al-Riyadh",
-                  "price": 9.65
+                  "price": 9.55
                 },
                 {
                   "name": "Draw",
-                  "price": 6.21
+                  "price": 6.26
                 }
               ]
             }
@@ -887,6 +477,14 @@
           ]
         }
       ]
+    },
+    {
+      "id": "f9d58f6f8832f87a0bfacb454600d2e7",
+      "sport_key": "soccer_germany_dfb_pokal",
+      "commence_time": "2026-08-21T16:00:00Z",
+      "home_team": "DJK Teutonia St. Tönis",
+      "away_team": "Eintracht Frankfurt",
+      "bookmakers": []
     },
     {
       "id": "7feeca839169e79fb6ac12264de15d10",
@@ -1044,15 +642,15 @@
               "outcomes": [
                 {
                   "name": "Karlsruher SC",
-                  "price": 2.02
+                  "price": 1.98
                 },
                 {
                   "name": "SC Preußen Münster",
-                  "price": 3.4
+                  "price": 3.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.58
+                  "price": 3.55
                 }
               ]
             }
@@ -1066,11 +664,11 @@
               "outcomes": [
                 {
                   "name": "Karlsruher SC",
-                  "price": 1.97
+                  "price": 1.94
                 },
                 {
                   "name": "SC Preußen Münster",
-                  "price": 3.4
+                  "price": 3.5
                 },
                 {
                   "name": "Draw",
@@ -1088,15 +686,15 @@
               "outcomes": [
                 {
                   "name": "Karlsruher SC",
-                  "price": 1.94
+                  "price": 1.92
                 },
                 {
                   "name": "SC Preußen Münster",
-                  "price": 3.15
+                  "price": 3.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.5
                 }
               ]
             }
@@ -1110,15 +708,15 @@
               "outcomes": [
                 {
                   "name": "Karlsruher SC",
-                  "price": 2.0
+                  "price": 1.98
                 },
                 {
                   "name": "SC Preußen Münster",
-                  "price": 3.25
+                  "price": 3.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.65
                 }
               ]
             }
@@ -1207,15 +805,15 @@
               "outcomes": [
                 {
                   "name": "Al-Hazem",
-                  "price": 3.3
+                  "price": 3.4
                 },
                 {
                   "name": "Diriyah Club",
-                  "price": 2.12
+                  "price": 2.14
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.7
                 }
               ]
             }
@@ -1238,125 +836,6 @@
                 {
                   "name": "Draw",
                   "price": 3.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "85bff2abfed752c419181f51618a1109",
-      "sport_key": "soccer_germany_bundesliga_women",
-      "commence_time": "2026-08-21T16:20:00Z",
-      "home_team": "Union Berlin",
-      "away_team": "Bayern Munich",
-      "bookmakers": [
-        {
-          "name": "Tipico",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bayern Munich",
-                  "price": 1.13
-                },
-                {
-                  "name": "Union Berlin",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bayern Munich",
-                  "price": 1.12
-                },
-                {
-                  "name": "Union Berlin",
-                  "price": 12.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bayern Munich",
-                  "price": 1.16
-                },
-                {
-                  "name": "Union Berlin",
-                  "price": 10.72
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.21
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bayern Munich",
-                  "price": 1.15
-                },
-                {
-                  "name": "Union Berlin",
-                  "price": 10.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bayern Munich",
-                  "price": 1.17
-                },
-                {
-                  "name": "Union Berlin",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
                 }
               ]
             }
