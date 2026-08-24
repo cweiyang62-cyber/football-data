@@ -1,368 +1,11 @@
 {
-  "采集时间": "2026-08-24T12:21:15.718432",
-  "比赛数": 8,
+  "采集时间": "2026-08-24T18:21:17.231931",
+  "比赛数": 20,
   "赔率数据": [
-    {
-      "id": "29fbbde437cba7a9628929307c99d619",
-      "sport_key": "soccer_germany_dfb_pokal",
-      "commence_time": "2026-08-24T16:00:00Z",
-      "home_team": "FC Würzburger Kickers",
-      "away_team": "1. FC Köln",
-      "bookmakers": [
-        {
-          "name": "Tipico",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "1. FC Köln",
-                  "price": 1.3
-                },
-                {
-                  "name": "FC Würzburger Kickers",
-                  "price": 8.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "1. FC Köln",
-                  "price": 1.3
-                },
-                {
-                  "name": "FC Würzburger Kickers",
-                  "price": 7.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "1. FC Köln",
-                  "price": 1.27
-                },
-                {
-                  "name": "FC Würzburger Kickers",
-                  "price": 6.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "1. FC Köln",
-                  "price": 1.3
-                },
-                {
-                  "name": "FC Würzburger Kickers",
-                  "price": 8.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "1. FC Köln",
-                  "price": 1.27
-                },
-                {
-                  "name": "FC Würzburger Kickers",
-                  "price": 7.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d37694e21f1e287aa7242ac1ed872abc",
-      "sport_key": "soccer_germany_bundesliga_women",
-      "commence_time": "2026-08-24T16:00:00Z",
-      "home_team": "FSV Mainz 05",
-      "away_team": "Werder Bremen",
-      "bookmakers": [
-        {
-          "name": "Tipico",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FSV Mainz 05",
-                  "price": 6.2
-                },
-                {
-                  "name": "Werder Bremen",
-                  "price": 1.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FSV Mainz 05",
-                  "price": 4.35
-                },
-                {
-                  "name": "Werder Bremen",
-                  "price": 1.57
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FSV Mainz 05",
-                  "price": 4.35
-                },
-                {
-                  "name": "Werder Bremen",
-                  "price": 1.57
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FSV Mainz 05",
-                  "price": 4.35
-                },
-                {
-                  "name": "Werder Bremen",
-                  "price": 1.57
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FSV Mainz 05",
-                  "price": 5.97
-                },
-                {
-                  "name": "Werder Bremen",
-                  "price": 1.43
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.25
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cc557819bcfcd3c8fe84b9853b2a9d5b",
-      "sport_key": "soccer_germany_dfb_pokal",
-      "commence_time": "2026-08-24T16:00:00Z",
-      "home_team": "SC Verl",
-      "away_team": "Hamburger SV",
-      "bookmakers": [
-        {
-          "name": "Tipico",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hamburger SV",
-                  "price": 1.4
-                },
-                {
-                  "name": "SC Verl",
-                  "price": 6.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hamburger SV",
-                  "price": 1.4
-                },
-                {
-                  "name": "SC Verl",
-                  "price": 5.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hamburger SV",
-                  "price": 1.34
-                },
-                {
-                  "name": "SC Verl",
-                  "price": 5.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hamburger SV",
-                  "price": 1.37
-                },
-                {
-                  "name": "SC Verl",
-                  "price": 5.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hamburger SV",
-                  "price": 1.37
-                },
-                {
-                  "name": "SC Verl",
-                  "price": 5.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.25
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "9c38455237e91d888607e09268a54369",
       "sport_key": "soccer_germany_dfb_pokal",
-      "commence_time": "2026-08-24T16:00:00Z",
+      "commence_time": "2026-08-24T16:01:31Z",
       "home_team": "VSG Altglienicke",
       "away_team": "VfL Wolfsburg",
       "bookmakers": [
@@ -374,103 +17,15 @@
               "outcomes": [
                 {
                   "name": "VfL Wolfsburg",
-                  "price": 1.14
+                  "price": 1.9
                 },
                 {
                   "name": "VSG Altglienicke",
-                  "price": 14.0
+                  "price": 16.0
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "VfL Wolfsburg",
-                  "price": 1.14
-                },
-                {
-                  "name": "VSG Altglienicke",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Codere (IT)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "VfL Wolfsburg",
-                  "price": 1.14
-                },
-                {
-                  "name": "VSG Altglienicke",
-                  "price": 14.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "VfL Wolfsburg",
-                  "price": 1.1
-                },
-                {
-                  "name": "VSG Altglienicke",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "VfL Wolfsburg",
-                  "price": 1.13
-                },
-                {
-                  "name": "VSG Altglienicke",
-                  "price": 11.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.75
+                  "price": 2.0
                 }
               ]
             }
@@ -493,37 +48,15 @@
               "outcomes": [
                 {
                   "name": "Bologna",
-                  "price": 2.4
+                  "price": 46.0
                 },
                 {
                   "name": "Lazio",
-                  "price": 3.55
+                  "price": 1.26
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Marathon Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bologna",
-                  "price": 2.29
-                },
-                {
-                  "name": "Lazio",
-                  "price": 3.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
+                  "price": 5.3
                 }
               ]
             }
@@ -537,15 +70,15 @@
               "outcomes": [
                 {
                   "name": "Bologna",
-                  "price": 2.35
+                  "price": 19.74
                 },
                 {
                   "name": "Lazio",
-                  "price": 3.53
+                  "price": 1.33
                 },
                 {
                   "name": "Draw",
-                  "price": 3.13
+                  "price": 4.13
                 }
               ]
             }
@@ -559,15 +92,15 @@
               "outcomes": [
                 {
                   "name": "Bologna",
-                  "price": 2.25
+                  "price": 44.0
                 },
                 {
                   "name": "Lazio",
-                  "price": 3.25
+                  "price": 1.16
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 5.6
                 }
               ]
             }
@@ -581,15 +114,37 @@
               "outcomes": [
                 {
                   "name": "Bologna",
-                  "price": 2.2
+                  "price": 46.0
                 },
                 {
                   "name": "Lazio",
-                  "price": 3.2
+                  "price": 1.15
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bologna",
+                  "price": 38.0
+                },
+                {
+                  "name": "Lazio",
+                  "price": 1.14
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
                 }
               ]
             }
@@ -612,37 +167,15 @@
               "outcomes": [
                 {
                   "name": "Al-Qadsiah",
-                  "price": 1.54
+                  "price": 1.01
                 },
                 {
                   "name": "Neom",
-                  "price": 4.4
+                  "price": 225.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Al-Qadsiah",
-                  "price": 1.57
-                },
-                {
-                  "name": "Neom",
-                  "price": 5.21
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.4
+                  "price": 32.0
                 }
               ]
             }
@@ -656,15 +189,15 @@
               "outcomes": [
                 {
                   "name": "Al-Qadsiah",
-                  "price": 1.63
+                  "price": 1.02
                 },
                 {
                   "name": "Neom",
-                  "price": 5.4
+                  "price": 75.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 38.0
                 }
               ]
             }
@@ -678,37 +211,59 @@
               "outcomes": [
                 {
                   "name": "Al-Qadsiah",
-                  "price": 1.55
+                  "price": 1.0
                 },
                 {
                   "name": "Neom",
-                  "price": 4.95
+                  "price": 85.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.3
+                  "price": 19.75
                 }
               ]
             }
           ]
         },
         {
-          "name": "1xBet",
+          "name": "888sport",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Al-Qadsiah",
-                  "price": 1.56
+                  "price": 1.0
                 },
                 {
                   "name": "Neom",
-                  "price": 4.98
+                  "price": 101.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.41
+                  "price": 26.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Al-Qadsiah",
+                  "price": 1.01
+                },
+                {
+                  "name": "Neom",
+                  "price": 225.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 30.0
                 }
               ]
             }
@@ -731,15 +286,15 @@
               "outcomes": [
                 {
                   "name": "Andorra CF",
-                  "price": 2.14
+                  "price": 1.27
                 },
                 {
                   "name": "Celta Fortuna",
-                  "price": 3.45
+                  "price": 18.09
                 },
                 {
                   "name": "Draw",
-                  "price": 3.61
+                  "price": 4.75
                 }
               ]
             }
@@ -753,15 +308,15 @@
               "outcomes": [
                 {
                   "name": "Andorra CF",
-                  "price": 2.0
+                  "price": 1.22
                 },
                 {
                   "name": "Celta Fortuna",
-                  "price": 3.4
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 4.7
                 }
               ]
             }
@@ -775,59 +330,59 @@
               "outcomes": [
                 {
                   "name": "Andorra CF",
-                  "price": 2.08
+                  "price": 1.19
                 },
                 {
                   "name": "Celta Fortuna",
-                  "price": 3.3
+                  "price": 15.25
                 },
                 {
                   "name": "Draw",
-                  "price": 3.38
+                  "price": 4.4
                 }
               ]
             }
           ]
         },
         {
-          "name": "BetOnline.ag",
+          "name": "Winamax (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Andorra CF",
-                  "price": 2.14
+                  "price": 1.23
                 },
                 {
                   "name": "Celta Fortuna",
-                  "price": 3.3
+                  "price": 18.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 4.5
                 }
               ]
             }
           ]
         },
         {
-          "name": "Marathon Bet",
+          "name": "Betsson",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Andorra CF",
-                  "price": 2.08
+                  "price": 1.26
                 },
                 {
                   "name": "Celta Fortuna",
-                  "price": 3.34
+                  "price": 16.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.42
+                  "price": 4.4
                 }
               ]
             }
@@ -850,37 +405,15 @@
               "outcomes": [
                 {
                   "name": "Brondby IF",
-                  "price": 1.39
+                  "price": 1.09
                 },
                 {
                   "name": "Silkeborg IF",
-                  "price": 5.8
+                  "price": 34.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Codere (IT)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Brondby IF",
-                  "price": 1.43
-                },
-                {
-                  "name": "Silkeborg IF",
-                  "price": 6.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.9
+                  "price": 7.0
                 }
               ]
             }
@@ -894,37 +427,15 @@
               "outcomes": [
                 {
                   "name": "Brondby IF",
-                  "price": 1.38
+                  "price": 1.12
                 },
                 {
                   "name": "Silkeborg IF",
-                  "price": 5.6
+                  "price": 34.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Brondby IF",
-                  "price": 1.41
-                },
-                {
-                  "name": "Silkeborg IF",
-                  "price": 6.59
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.85
+                  "price": 6.75
                 }
               ]
             }
@@ -938,15 +449,1756 @@
               "outcomes": [
                 {
                   "name": "Brondby IF",
-                  "price": 1.42
+                  "price": 1.1
                 },
                 {
                   "name": "Silkeborg IF",
-                  "price": 6.2
+                  "price": 29.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.85
+                  "price": 6.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Brondby IF",
+                  "price": 1.09
+                },
+                {
+                  "name": "Silkeborg IF",
+                  "price": 23.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Brondby IF",
+                  "price": 1.09
+                },
+                {
+                  "name": "Silkeborg IF",
+                  "price": 26.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7c23f06ff1ec33227263fa2f0cec0224",
+      "sport_key": "soccer_sweden_allsvenskan",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "home_team": "Malmo FF",
+      "away_team": "Djurgardens IF",
+      "bookmakers": [
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Djurgardens IF",
+                  "price": 1.08
+                },
+                {
+                  "name": "Malmo FF",
+                  "price": 36.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Djurgardens IF",
+                  "price": 1.05
+                },
+                {
+                  "name": "Malmo FF",
+                  "price": 36.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Djurgardens IF",
+                  "price": 1.05
+                },
+                {
+                  "name": "Malmo FF",
+                  "price": 22.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Djurgardens IF",
+                  "price": 1.05
+                },
+                {
+                  "name": "Malmo FF",
+                  "price": 26.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 9.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Djurgardens IF",
+                  "price": 1.06
+                },
+                {
+                  "name": "Malmo FF",
+                  "price": 26.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fce3381d7d65dd1460842ad02e8ac39a",
+      "sport_key": "soccer_sweden_superettan",
+      "commence_time": "2026-08-24T17:00:00Z",
+      "home_team": "IFK Värnamo",
+      "away_team": "Landskrona BoIS",
+      "bookmakers": [
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Värnamo",
+                  "price": 3.6
+                },
+                {
+                  "name": "Landskrona BoIS",
+                  "price": 3.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.93
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Värnamo",
+                  "price": 3.45
+                },
+                {
+                  "name": "Landskrona BoIS",
+                  "price": 3.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.94
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Värnamo",
+                  "price": 3.4
+                },
+                {
+                  "name": "Landskrona BoIS",
+                  "price": 3.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Värnamo",
+                  "price": 3.9
+                },
+                {
+                  "name": "Landskrona BoIS",
+                  "price": 3.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Värnamo",
+                  "price": 4.1
+                },
+                {
+                  "name": "Landskrona BoIS",
+                  "price": 3.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.92
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8a8102dcf34b9433db6730e7c095b0bc",
+      "sport_key": "soccer_sweden_superettan",
+      "commence_time": "2026-08-24T17:02:00Z",
+      "home_team": "Östersunds FK",
+      "away_team": "Ljungskile SK",
+      "bookmakers": [
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Ljungskile SK",
+                  "price": 4.6
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 2.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.17
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Ljungskile SK",
+                  "price": 4.6
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 2.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.17
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Ljungskile SK",
+                  "price": 4.35
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 2.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.04
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Ljungskile SK",
+                  "price": 5.35
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 2.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Ljungskile SK",
+                  "price": 5.35
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 2.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.15
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f8fe9f697a6f3e784be0d4ce1d81c4a",
+      "sport_key": "soccer_sweden_superettan",
+      "commence_time": "2026-08-24T17:05:00Z",
+      "home_team": "IFK Norrkoping",
+      "away_team": "Falkenbergs FF",
+      "bookmakers": [
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Falkenbergs FF",
+                  "price": 76.0
+                },
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 1.02
+                },
+                {
+                  "name": "Draw",
+                  "price": 17.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Falkenbergs FF",
+                  "price": 60.0
+                },
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 1.01
+                },
+                {
+                  "name": "Draw",
+                  "price": 15.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Falkenbergs FF",
+                  "price": 60.0
+                },
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 1.01
+                },
+                {
+                  "name": "Draw",
+                  "price": 15.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Falkenbergs FF",
+                  "price": 140.0
+                },
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 1.03
+                },
+                {
+                  "name": "Draw",
+                  "price": 30.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Falkenbergs FF",
+                  "price": 81.0
+                },
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 1.01
+                },
+                {
+                  "name": "Draw",
+                  "price": 21.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b86f1854fe9f0915d4f9ee47f23a14bf",
+      "sport_key": "soccer_spain_la_liga",
+      "commence_time": "2026-08-24T17:30:00Z",
+      "home_team": "CA Osasuna",
+      "away_team": "Levante",
+      "bookmakers": [
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "CA Osasuna",
+                  "price": 2.4
+                },
+                {
+                  "name": "Levante",
+                  "price": 4.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "CA Osasuna",
+                  "price": 2.32
+                },
+                {
+                  "name": "Levante",
+                  "price": 4.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.42
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "CA Osasuna",
+                  "price": 2.2
+                },
+                {
+                  "name": "Levante",
+                  "price": 3.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "CA Osasuna",
+                  "price": 2.35
+                },
+                {
+                  "name": "Levante",
+                  "price": 4.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "CA Osasuna",
+                  "price": 2.54
+                },
+                {
+                  "name": "Levante",
+                  "price": 4.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.48
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "636a2be644bfac1352d17892553e0b9d",
+      "sport_key": "soccer_russia_premier_league",
+      "commence_time": "2026-08-24T17:30:00Z",
+      "home_team": "FC Baltika Kaliningrad",
+      "away_team": "Rubin Kazan",
+      "bookmakers": [
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Baltika Kaliningrad",
+                  "price": 5.27
+                },
+                {
+                  "name": "Rubin Kazan",
+                  "price": 1.92
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.9
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ef09030b79989fa034a64e158b88fb06",
+      "sport_key": "soccer_saudi_arabia_pro_league",
+      "commence_time": "2026-08-24T18:00:00Z",
+      "home_team": "Al-Ittihad",
+      "away_team": "Al-Hazem",
+      "bookmakers": [
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Al-Hazem",
+                  "price": 2.63
+                },
+                {
+                  "name": "Al-Ittihad",
+                  "price": 1.93
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Al-Hazem",
+                  "price": 2.75
+                },
+                {
+                  "name": "Al-Ittihad",
+                  "price": 2.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Al-Hazem",
+                  "price": 2.75
+                },
+                {
+                  "name": "Al-Ittihad",
+                  "price": 2.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Al-Hazem",
+                  "price": 3.3
+                },
+                {
+                  "name": "Al-Ittihad",
+                  "price": 2.34
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Al-Hazem",
+                  "price": 2.6
+                },
+                {
+                  "name": "Al-Ittihad",
+                  "price": 2.12
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d8b5a9a24c52efb3ac04f4ed1bb7a0ea",
+      "sport_key": "soccer_turkey_super_league",
+      "commence_time": "2026-08-24T18:30:00Z",
+      "home_team": "Kocaelispor",
+      "away_team": "Amed SK",
+      "bookmakers": [
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Amed SK",
+                  "price": 2.94
+                },
+                {
+                  "name": "Kocaelispor",
+                  "price": 2.43
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.04
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Amed SK",
+                  "price": 2.85
+                },
+                {
+                  "name": "Kocaelispor",
+                  "price": 2.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.05
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Amed SK",
+                  "price": 3.0
+                },
+                {
+                  "name": "Kocaelispor",
+                  "price": 2.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Amed SK",
+                  "price": 2.94
+                },
+                {
+                  "name": "Kocaelispor",
+                  "price": 2.43
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.04
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Amed SK",
+                  "price": 2.9
+                },
+                {
+                  "name": "Kocaelispor",
+                  "price": 2.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4164b325d120b7310921429a21496210",
+      "sport_key": "soccer_italy_serie_a",
+      "commence_time": "2026-08-24T18:45:00Z",
+      "home_team": "AS Roma",
+      "away_team": "Fiorentina",
+      "bookmakers": [
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AS Roma",
+                  "price": 1.66
+                },
+                {
+                  "name": "Fiorentina",
+                  "price": 4.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AS Roma",
+                  "price": 1.68
+                },
+                {
+                  "name": "Fiorentina",
+                  "price": 4.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.85
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AS Roma",
+                  "price": 1.67
+                },
+                {
+                  "name": "Fiorentina",
+                  "price": 5.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AS Roma",
+                  "price": 1.66
+                },
+                {
+                  "name": "Fiorentina",
+                  "price": 4.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AS Roma",
+                  "price": 1.64
+                },
+                {
+                  "name": "Fiorentina",
+                  "price": 5.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "859a848062bfe4b22c78a9b97572cbd2",
+      "sport_key": "soccer_france_ligue_two",
+      "commence_time": "2026-08-24T18:45:00Z",
+      "home_team": "Stade de Reims",
+      "away_team": "Annecy FC",
+      "bookmakers": [
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Annecy FC",
+                  "price": 4.3
+                },
+                {
+                  "name": "Stade de Reims",
+                  "price": 1.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.58
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Annecy FC",
+                  "price": 4.4
+                },
+                {
+                  "name": "Stade de Reims",
+                  "price": 1.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Annecy FC",
+                  "price": 4.0
+                },
+                {
+                  "name": "Stade de Reims",
+                  "price": 1.82
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Annecy FC",
+                  "price": 4.0
+                },
+                {
+                  "name": "Stade de Reims",
+                  "price": 1.82
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Annecy FC",
+                  "price": 4.0
+                },
+                {
+                  "name": "Stade de Reims",
+                  "price": 1.82
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d87989242dcd35124a18af738401c661",
+      "sport_key": "soccer_germany_dfb_pokal",
+      "commence_time": "2026-08-24T18:45:00Z",
+      "home_team": "Hallescher FC",
+      "away_team": "FC Schalke 04",
+      "bookmakers": [
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Schalke 04",
+                  "price": 1.22
+                },
+                {
+                  "name": "Hallescher FC",
+                  "price": 12.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Schalke 04",
+                  "price": 1.19
+                },
+                {
+                  "name": "Hallescher FC",
+                  "price": 8.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Schalke 04",
+                  "price": 1.21
+                },
+                {
+                  "name": "Hallescher FC",
+                  "price": 9.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Schalke 04",
+                  "price": 1.17
+                },
+                {
+                  "name": "Hallescher FC",
+                  "price": 8.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Schalke 04",
+                  "price": 1.23
+                },
+                {
+                  "name": "Hallescher FC",
+                  "price": 10.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e4a813bf4218cc527e6f8ef2351170d",
+      "sport_key": "soccer_epl",
+      "commence_time": "2026-08-24T19:00:00Z",
+      "home_team": "Fulham",
+      "away_team": "Chelsea",
+      "bookmakers": [
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Chelsea",
+                  "price": 2.09
+                },
+                {
+                  "name": "Fulham",
+                  "price": 3.74
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.54
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Chelsea",
+                  "price": 2.11
+                },
+                {
+                  "name": "Fulham",
+                  "price": 3.76
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.62
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Chelsea",
+                  "price": 2.04
+                },
+                {
+                  "name": "Fulham",
+                  "price": 3.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Chelsea",
+                  "price": 2.07
+                },
+                {
+                  "name": "Fulham",
+                  "price": 3.72
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.58
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Chelsea",
+                  "price": 1.95
+                },
+                {
+                  "name": "Fulham",
+                  "price": 3.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "124c81aa503ef859a5a685b1539ef990",
+      "sport_key": "soccer_portugal_primeira_liga",
+      "commence_time": "2026-08-24T19:15:00Z",
+      "home_team": "Gil Vicente",
+      "away_team": "Casa Pia",
+      "bookmakers": [
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Casa Pia",
+                  "price": 4.9
+                },
+                {
+                  "name": "Gil Vicente",
+                  "price": 1.62
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Casa Pia",
+                  "price": 5.25
+                },
+                {
+                  "name": "Gil Vicente",
+                  "price": 1.73
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Casa Pia",
+                  "price": 5.0
+                },
+                {
+                  "name": "Gil Vicente",
+                  "price": 1.64
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Casa Pia",
+                  "price": 5.25
+                },
+                {
+                  "name": "Gil Vicente",
+                  "price": 1.66
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Casa Pia",
+                  "price": 5.2
+                },
+                {
+                  "name": "Gil Vicente",
+                  "price": 1.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030285b126b6a2f7e022261006ed770e",
+      "sport_key": "soccer_spain_la_liga",
+      "commence_time": "2026-08-24T19:30:00Z",
+      "home_team": "Málaga",
+      "away_team": "Deportivo La Coruña",
+      "bookmakers": [
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Deportivo La Coruña",
+                  "price": 3.38
+                },
+                {
+                  "name": "Málaga",
+                  "price": 2.32
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Deportivo La Coruña",
+                  "price": 3.3
+                },
+                {
+                  "name": "Málaga",
+                  "price": 2.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Deportivo La Coruña",
+                  "price": 3.47
+                },
+                {
+                  "name": "Málaga",
+                  "price": 2.42
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Deportivo La Coruña",
+                  "price": 3.6
+                },
+                {
+                  "name": "Málaga",
+                  "price": 2.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.05
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Deportivo La Coruña",
+                  "price": 3.25
+                },
+                {
+                  "name": "Málaga",
+                  "price": 2.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.05
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "db2322cc0aca934a10ad5dea5898968a",
+      "sport_key": "soccer_spain_segunda_division",
+      "commence_time": "2026-08-24T19:30:00Z",
+      "home_team": "Granada CF",
+      "away_team": "Mallorca",
+      "bookmakers": [
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Granada CF",
+                  "price": 3.1
+                },
+                {
+                  "name": "Mallorca",
+                  "price": 2.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Granada CF",
+                  "price": 3.0
+                },
+                {
+                  "name": "Mallorca",
+                  "price": 2.42
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.92
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Granada CF",
+                  "price": 2.9
+                },
+                {
+                  "name": "Mallorca",
+                  "price": 2.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Granada CF",
+                  "price": 3.0
+                },
+                {
+                  "name": "Mallorca",
+                  "price": 2.42
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.92
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Granada CF",
+                  "price": 3.1
+                },
+                {
+                  "name": "Mallorca",
+                  "price": 2.51
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.1
                 }
               ]
             }
