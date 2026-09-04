@@ -1,1197 +1,7 @@
 {
-  "采集时间": "2026-09-03T20:13:01.088334",
-  "比赛数": 17,
+  "采集时间": "2026-09-04T01:40:31.159696",
+  "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "3bef8a2fbcc72278d5ffe261b51a7013",
-      "sport_key": "soccer_belgium_first_div",
-      "commence_time": "2026-09-03T18:30:00Z",
-      "home_team": "Anderlecht",
-      "away_team": "KV Kortrijk",
-      "bookmakers": [
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Anderlecht",
-                  "price": 1.05
-                },
-                {
-                  "name": "KV Kortrijk",
-                  "price": 56.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Anderlecht",
-                  "price": 1.07
-                },
-                {
-                  "name": "KV Kortrijk",
-                  "price": 76.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Tipico",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Anderlecht",
-                  "price": 1.01
-                },
-                {
-                  "name": "KV Kortrijk",
-                  "price": 120.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 11.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Anderlecht",
-                  "price": 1.06
-                },
-                {
-                  "name": "KV Kortrijk",
-                  "price": 100.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 10.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Anderlecht",
-                  "price": 1.03
-                },
-                {
-                  "name": "KV Kortrijk",
-                  "price": 56.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d8411659b0813eb121f814f1b22a1f3a",
-      "sport_key": "soccer_switzerland_superleague",
-      "commence_time": "2026-09-03T18:30:00Z",
-      "home_team": "FC Basel",
-      "away_team": "FC Sion",
-      "bookmakers": [
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Basel",
-                  "price": 75.0
-                },
-                {
-                  "name": "FC Sion",
-                  "price": 1.09
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Basel",
-                  "price": 50.0
-                },
-                {
-                  "name": "FC Sion",
-                  "price": 1.07
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Basel",
-                  "price": 50.0
-                },
-                {
-                  "name": "FC Sion",
-                  "price": 1.06
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Basel",
-                  "price": 75.0
-                },
-                {
-                  "name": "FC Sion",
-                  "price": 1.06
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Basel",
-                  "price": 66.0
-                },
-                {
-                  "name": "FC Sion",
-                  "price": 1.07
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6ebd4679b6f7274a69cb13f4acc485a8",
-      "sport_key": "soccer_switzerland_superleague",
-      "commence_time": "2026-09-03T18:30:00Z",
-      "home_team": "FC Lugano",
-      "away_team": "Servette",
-      "bookmakers": [
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Lugano",
-                  "price": 3.7
-                },
-                {
-                  "name": "Servette",
-                  "price": 6.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Lugano",
-                  "price": 3.65
-                },
-                {
-                  "name": "Servette",
-                  "price": 6.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.49
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Lugano",
-                  "price": 3.9
-                },
-                {
-                  "name": "Servette",
-                  "price": 6.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.47
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Lugano",
-                  "price": 3.9
-                },
-                {
-                  "name": "Servette",
-                  "price": 6.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Lugano",
-                  "price": 4.0
-                },
-                {
-                  "name": "Servette",
-                  "price": 7.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.44
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "18469929e94078e3adb4db4eb8a3731b",
-      "sport_key": "soccer_belgium_first_div",
-      "commence_time": "2026-09-03T18:30:00Z",
-      "home_team": "Gent",
-      "away_team": "Leuven",
-      "bookmakers": [
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Gent",
-                  "price": 1.14
-                },
-                {
-                  "name": "Leuven",
-                  "price": 42.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Gent",
-                  "price": 1.16
-                },
-                {
-                  "name": "Leuven",
-                  "price": 50.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Gent",
-                  "price": 1.12
-                },
-                {
-                  "name": "Leuven",
-                  "price": 38.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Gent",
-                  "price": 1.11
-                },
-                {
-                  "name": "Leuven",
-                  "price": 26.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Gent",
-                  "price": 1.19
-                },
-                {
-                  "name": "Leuven",
-                  "price": 28.58
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.7
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9c0a8cc0fa786e8c09ead28d7b7071ac",
-      "sport_key": "soccer_poland_ekstraklasa",
-      "commence_time": "2026-09-03T18:31:00Z",
-      "home_team": "Lech Poznań",
-      "away_team": "Jagiellonia Białystok",
-      "bookmakers": [
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Jagiellonia Białystok",
-                  "price": 6.0
-                },
-                {
-                  "name": "Lech Poznań",
-                  "price": 2.63
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.61
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Jagiellonia Białystok",
-                  "price": 6.25
-                },
-                {
-                  "name": "Lech Poznań",
-                  "price": 2.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.71
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Jagiellonia Białystok",
-                  "price": 5.75
-                },
-                {
-                  "name": "Lech Poznań",
-                  "price": 2.55
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.56
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Jagiellonia Białystok",
-                  "price": 5.8
-                },
-                {
-                  "name": "Lech Poznań",
-                  "price": 3.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.62
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Jagiellonia Białystok",
-                  "price": 6.25
-                },
-                {
-                  "name": "Lech Poznań",
-                  "price": 2.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.71
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9a31fb300796d3e97b63f1db49badedc",
-      "sport_key": "soccer_france_ligue_one",
-      "commence_time": "2026-09-03T18:45:00Z",
-      "home_team": "Toulouse",
-      "away_team": "Lille",
-      "bookmakers": [
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Lille",
-                  "price": 3.9
-                },
-                {
-                  "name": "Toulouse",
-                  "price": 3.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.86
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Lille",
-                  "price": 4.33
-                },
-                {
-                  "name": "Toulouse",
-                  "price": 3.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.91
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Lille",
-                  "price": 3.7
-                },
-                {
-                  "name": "Toulouse",
-                  "price": 3.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.78
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Suprabets",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Lille",
-                  "price": 3.6
-                },
-                {
-                  "name": "Toulouse",
-                  "price": 3.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Lille",
-                  "price": 3.8
-                },
-                {
-                  "name": "Toulouse",
-                  "price": 3.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.85
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f0f0bb59e178055dfbb6d3f35815dfa9",
-      "sport_key": "soccer_spl",
-      "commence_time": "2026-09-03T18:48:00Z",
-      "home_team": "Hibernian",
-      "away_team": "Hearts",
-      "bookmakers": [
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hearts",
-                  "price": 1.2
-                },
-                {
-                  "name": "Hibernian",
-                  "price": 25.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hearts",
-                  "price": 1.18
-                },
-                {
-                  "name": "Hibernian",
-                  "price": 21.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hearts",
-                  "price": 1.18
-                },
-                {
-                  "name": "Hibernian",
-                  "price": 24.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.85
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hearts",
-                  "price": 1.3
-                },
-                {
-                  "name": "Hibernian",
-                  "price": 15.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hearts",
-                  "price": 1.24
-                },
-                {
-                  "name": "Hibernian",
-                  "price": 14.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.95
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3ef04c7a226b3aa820aaa793d8170bdb",
-      "sport_key": "soccer_italy_coppa_italia",
-      "commence_time": "2026-09-03T19:00:00Z",
-      "home_team": "Cagliari",
-      "away_team": "Hellas Verona",
-      "bookmakers": [
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cagliari",
-                  "price": 6.34
-                },
-                {
-                  "name": "Hellas Verona",
-                  "price": 1.66
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.26
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cagliari",
-                  "price": 7.0
-                },
-                {
-                  "name": "Hellas Verona",
-                  "price": 1.52
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cagliari",
-                  "price": 7.0
-                },
-                {
-                  "name": "Hellas Verona",
-                  "price": 1.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.55
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cagliari",
-                  "price": 5.1
-                },
-                {
-                  "name": "Hellas Verona",
-                  "price": 1.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.85
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cagliari",
-                  "price": 6.5
-                },
-                {
-                  "name": "Hellas Verona",
-                  "price": 1.61
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5a4aaa142d12a350f302f2fb62fef0b3",
-      "sport_key": "soccer_spain_la_liga",
-      "commence_time": "2026-09-03T19:00:00Z",
-      "home_team": "Real Sociedad",
-      "away_team": "Celta Vigo",
-      "bookmakers": [
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Celta Vigo",
-                  "price": 6.2
-                },
-                {
-                  "name": "Real Sociedad",
-                  "price": 2.06
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Matchbook",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Celta Vigo",
-                  "price": 5.8
-                },
-                {
-                  "name": "Real Sociedad",
-                  "price": 2.14
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.66
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Celta Vigo",
-                  "price": 5.8
-                },
-                {
-                  "name": "Real Sociedad",
-                  "price": 1.92
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Celta Vigo",
-                  "price": 5.8
-                },
-                {
-                  "name": "Real Sociedad",
-                  "price": 1.92
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Celta Vigo",
-                  "price": 5.6
-                },
-                {
-                  "name": "Real Sociedad",
-                  "price": 1.93
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.53
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "df5b056656f007cfa49c3bf50dd41223",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-09-03T23:00:00Z",
-      "home_team": "Nautico PE",
-      "away_team": "Botafogo-SP",
-      "bookmakers": [
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 4.1
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 1.91
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 4.1
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 1.91
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 3.9
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 1.83
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 3.85
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 1.95
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 4.1
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 1.9
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "c1ada54cbb7fe22fcee9a1a8ac899070",
       "sport_key": "soccer_saudi_arabia_pro_league",
@@ -1295,15 +105,15 @@
               "outcomes": [
                 {
                   "name": "Abha Club",
-                  "price": 2.7
+                  "price": 2.8
                 },
                 {
                   "name": "Al-Ettifaq",
-                  "price": 2.15
+                  "price": 2.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 3.4
                 }
               ]
             }
@@ -1445,15 +255,15 @@
               "outcomes": [
                 {
                   "name": "Bayer Leverkusen",
-                  "price": 1.83
+                  "price": 1.77
                 },
                 {
                   "name": "TSG Hoffenheim",
-                  "price": 3.5
+                  "price": 4.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.4
                 }
               ]
             }
@@ -1564,7 +374,7 @@
               "outcomes": [
                 {
                   "name": "Hannover 96",
-                  "price": 1.69
+                  "price": 1.68
                 },
                 {
                   "name": "Karlsruher SC",
@@ -1572,7 +382,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 4.02
                 }
               ]
             }
@@ -1586,11 +396,11 @@
               "outcomes": [
                 {
                   "name": "Hannover 96",
-                  "price": 1.6
+                  "price": 1.62
                 },
                 {
                   "name": "Karlsruher SC",
-                  "price": 4.8
+                  "price": 4.6
                 },
                 {
                   "name": "Draw",
@@ -1683,15 +493,15 @@
               "outcomes": [
                 {
                   "name": "Aalesund",
-                  "price": 2.3
+                  "price": 2.2
                 },
                 {
                   "name": "IK Start",
-                  "price": 2.75
+                  "price": 2.88
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.7
                 }
               ]
             }
@@ -1705,15 +515,15 @@
               "outcomes": [
                 {
                   "name": "Aalesund",
-                  "price": 2.2
+                  "price": 2.1
                 },
                 {
                   "name": "IK Start",
-                  "price": 2.6
+                  "price": 2.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.5
                 }
               ]
             }
@@ -1727,15 +537,15 @@
               "outcomes": [
                 {
                   "name": "Aalesund",
-                  "price": 2.3
+                  "price": 2.2
                 },
                 {
                   "name": "IK Start",
-                  "price": 2.75
+                  "price": 2.88
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.7
                 }
               ]
             }
@@ -1749,15 +559,15 @@
               "outcomes": [
                 {
                   "name": "Aalesund",
-                  "price": 2.3
+                  "price": 2.2
                 },
                 {
                   "name": "IK Start",
-                  "price": 2.75
+                  "price": 2.88
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.7
                 }
               ]
             }
@@ -1802,15 +612,15 @@
               "outcomes": [
                 {
                   "name": "Alemannia Aachen",
-                  "price": 2.6
+                  "price": 2.7
                 },
                 {
                   "name": "FC Ingolstadt 04",
-                  "price": 2.4
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.8
                 }
               ]
             }
@@ -1846,15 +656,15 @@
               "outcomes": [
                 {
                   "name": "Alemannia Aachen",
-                  "price": 2.62
+                  "price": 2.66
                 },
                 {
                   "name": "FC Ingolstadt 04",
-                  "price": 2.46
+                  "price": 2.4
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.7
                 }
               ]
             }
@@ -1890,15 +700,15 @@
               "outcomes": [
                 {
                   "name": "Alemannia Aachen",
-                  "price": 2.61
+                  "price": 2.66
                 },
                 {
                   "name": "FC Ingolstadt 04",
-                  "price": 2.44
+                  "price": 2.39
                 },
                 {
                   "name": "Draw",
-                  "price": 3.81
+                  "price": 3.83
                 }
               ]
             }
@@ -1921,15 +731,15 @@
               "outcomes": [
                 {
                   "name": "Auxerre",
-                  "price": 5.7
+                  "price": 5.9
                 },
                 {
                   "name": "Lyon",
-                  "price": 1.49
+                  "price": 1.46
                 },
                 {
                   "name": "Draw",
-                  "price": 4.5
+                  "price": 4.7
                 }
               ]
             }
@@ -1943,15 +753,15 @@
               "outcomes": [
                 {
                   "name": "Auxerre",
-                  "price": 5.75
+                  "price": 6.25
                 },
                 {
                   "name": "Lyon",
-                  "price": 1.5
+                  "price": 1.46
                 },
                 {
                   "name": "Draw",
-                  "price": 4.45
+                  "price": 4.6
                 }
               ]
             }
@@ -1969,11 +779,11 @@
                 },
                 {
                   "name": "Lyon",
-                  "price": 1.53
+                  "price": 1.51
                 },
                 {
                   "name": "Draw",
-                  "price": 4.45
+                  "price": 4.6
                 }
               ]
             }
@@ -1987,15 +797,15 @@
               "outcomes": [
                 {
                   "name": "Auxerre",
-                  "price": 5.6
+                  "price": 5.8
                 },
                 {
                   "name": "Lyon",
-                  "price": 1.48
+                  "price": 1.45
                 },
                 {
                   "name": "Draw",
-                  "price": 4.5
+                  "price": 4.7
                 }
               ]
             }
@@ -2018,6 +828,125 @@
                 {
                   "name": "Draw",
                   "price": 4.39
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a30a4a9ebe7104fdd1bffdc9254dff6e",
+      "sport_key": "soccer_turkey_super_league",
+      "commence_time": "2026-09-04T17:00:00Z",
+      "home_team": "Basaksehir",
+      "away_team": "Galatasaray",
+      "bookmakers": [
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Basaksehir",
+                  "price": 5.0
+                },
+                {
+                  "name": "Galatasaray",
+                  "price": 1.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Basaksehir",
+                  "price": 4.71
+                },
+                {
+                  "name": "Galatasaray",
+                  "price": 1.59
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.17
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Basaksehir",
+                  "price": 4.3
+                },
+                {
+                  "name": "Galatasaray",
+                  "price": 1.54
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Basaksehir",
+                  "price": 4.5
+                },
+                {
+                  "name": "Galatasaray",
+                  "price": 1.54
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Basaksehir",
+                  "price": 4.8
+                },
+                {
+                  "name": "Galatasaray",
+                  "price": 1.62
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
                 }
               ]
             }
