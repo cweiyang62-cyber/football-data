@@ -1,1748 +1,7 @@
 {
-  "采集时间": "2026-09-10T01:46:50.702758",
-  "比赛数": 19,
+  "采集时间": "2026-09-10T10:09:11.467930",
+  "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "3915fb1555852ddb7990dccadde3ca4e",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-09T23:30:00Z",
-      "home_team": "Atlanta United FC",
-      "away_team": "Orlando City SC",
-      "bookmakers": [
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlanta United FC",
-                  "price": 140.0
-                },
-                {
-                  "name": "Orlando City SC",
-                  "price": 1.01
-                },
-                {
-                  "name": "Draw",
-                  "price": 32.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlanta United FC",
-                  "price": 90.0
-                },
-                {
-                  "name": "Orlando City SC",
-                  "price": 1.01
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlanta United FC",
-                  "price": 1000.0
-                },
-                {
-                  "name": "Orlando City SC",
-                  "price": 1.03
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.01
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlanta United FC",
-                  "price": 36.0
-                },
-                {
-                  "name": "Orlando City SC",
-                  "price": 1.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 21.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlanta United FC",
-                  "price": 46.0
-                },
-                {
-                  "name": "Orlando City SC",
-                  "price": 1.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 19.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e363663013dfb649e6d27c5214ce221b",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-09T23:30:00Z",
-      "home_team": "CF Montreal",
-      "away_team": "Charlotte FC",
-      "bookmakers": [
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "CF Montreal",
-                  "price": 120.0
-                },
-                {
-                  "name": "Charlotte FC",
-                  "price": 1.04
-                },
-                {
-                  "name": "Draw",
-                  "price": 11.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "CF Montreal",
-                  "price": 150.0
-                },
-                {
-                  "name": "Charlotte FC",
-                  "price": 1.03
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "CF Montreal",
-                  "price": 101.0
-                },
-                {
-                  "name": "Charlotte FC",
-                  "price": 1.06
-                },
-                {
-                  "name": "Draw",
-                  "price": 10.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "CF Montreal",
-                  "price": 200.0
-                },
-                {
-                  "name": "Charlotte FC",
-                  "price": 1.04
-                },
-                {
-                  "name": "Draw",
-                  "price": 14.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "MyBookie.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "CF Montreal",
-                  "price": 12.5
-                },
-                {
-                  "name": "Charlotte FC",
-                  "price": 1.03
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5762ede9a915d31a919665485e6de2cf",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-09T23:30:00Z",
-      "home_team": "D.C. United",
-      "away_team": "Columbus Crew SC",
-      "bookmakers": [
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Columbus Crew SC",
-                  "price": 130.0
-                },
-                {
-                  "name": "D.C. United",
-                  "price": 1.03
-                },
-                {
-                  "name": "Draw",
-                  "price": 11.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Columbus Crew SC",
-                  "price": 150.0
-                },
-                {
-                  "name": "D.C. United",
-                  "price": 1.04
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Columbus Crew SC",
-                  "price": 101.0
-                },
-                {
-                  "name": "D.C. United",
-                  "price": 1.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 11.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Columbus Crew SC",
-                  "price": 200.0
-                },
-                {
-                  "name": "D.C. United",
-                  "price": 1.04
-                },
-                {
-                  "name": "Draw",
-                  "price": 14.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "MyBookie.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Columbus Crew SC",
-                  "price": 12.5
-                },
-                {
-                  "name": "D.C. United",
-                  "price": 1.04
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4d6fddf9991f1d7f74911ad57eb31be4",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-09T23:45:00Z",
-      "home_team": "Philadelphia Union",
-      "away_team": "FC Cincinnati",
-      "bookmakers": [
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Cincinnati",
-                  "price": 250.0
-                },
-                {
-                  "name": "Philadelphia Union",
-                  "price": 1.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Cincinnati",
-                  "price": 26.0
-                },
-                {
-                  "name": "Philadelphia Union",
-                  "price": 1.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 26.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Cincinnati",
-                  "price": 26.0
-                },
-                {
-                  "name": "Philadelphia Union",
-                  "price": 1.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 26.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cfee88f28eccb2eb9ce2045968ec24ca",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-10T00:00:00Z",
-      "home_team": "New York City FC",
-      "away_team": "New England Revolution",
-      "bookmakers": [
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "New England Revolution",
-                  "price": 4.75
-                },
-                {
-                  "name": "New York City FC",
-                  "price": 3.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "New England Revolution",
-                  "price": 4.5
-                },
-                {
-                  "name": "New York City FC",
-                  "price": 3.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "New England Revolution",
-                  "price": 4.7
-                },
-                {
-                  "name": "New York City FC",
-                  "price": 3.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.74
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "New England Revolution",
-                  "price": 4.65
-                },
-                {
-                  "name": "New York City FC",
-                  "price": 3.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "MyBookie.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "New England Revolution",
-                  "price": 4.6
-                },
-                {
-                  "name": "New York City FC",
-                  "price": 2.95
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.75
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c901cdb51afae389e5ee149a9d78f1cf",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-09-10T00:29:00Z",
-      "home_team": "Atletico Goianiense",
-      "away_team": "Ceará",
-      "bookmakers": [
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atletico Goianiense",
-                  "price": 1.42
-                },
-                {
-                  "name": "Ceará",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atletico Goianiense",
-                  "price": 1.45
-                },
-                {
-                  "name": "Ceará",
-                  "price": 7.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atletico Goianiense",
-                  "price": 1.36
-                },
-                {
-                  "name": "Ceará",
-                  "price": 9.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atletico Goianiense",
-                  "price": 1.57
-                },
-                {
-                  "name": "Ceará",
-                  "price": 6.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atletico Goianiense",
-                  "price": 1.58
-                },
-                {
-                  "name": "Ceará",
-                  "price": 6.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bae26c959975f410a33900d7157112a2",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-10T00:30:00Z",
-      "home_team": "Austin FC",
-      "away_team": "Colorado Rapids",
-      "bookmakers": [
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Austin FC",
-                  "price": 5.4
-                },
-                {
-                  "name": "Colorado Rapids",
-                  "price": 1.56
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "MyBookie.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Austin FC",
-                  "price": 5.5
-                },
-                {
-                  "name": "Colorado Rapids",
-                  "price": 1.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Austin FC",
-                  "price": 5.75
-                },
-                {
-                  "name": "Colorado Rapids",
-                  "price": 1.56
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.22
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Austin FC",
-                  "price": 5.5
-                },
-                {
-                  "name": "Colorado Rapids",
-                  "price": 1.61
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Austin FC",
-                  "price": 6.3
-                },
-                {
-                  "name": "Colorado Rapids",
-                  "price": 1.58
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "88c9bd545a870f5e3a1eab5a56f78d69",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-10T00:30:00Z",
-      "home_team": "Chicago Fire",
-      "away_team": "Inter Miami CF",
-      "bookmakers": [
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Chicago Fire",
-                  "price": 1.7
-                },
-                {
-                  "name": "Inter Miami CF",
-                  "price": 4.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Chicago Fire",
-                  "price": 1.66
-                },
-                {
-                  "name": "Inter Miami CF",
-                  "price": 4.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.42
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Chicago Fire",
-                  "price": 1.66
-                },
-                {
-                  "name": "Inter Miami CF",
-                  "price": 4.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "MyBookie.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Chicago Fire",
-                  "price": 1.7
-                },
-                {
-                  "name": "Inter Miami CF",
-                  "price": 4.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Chicago Fire",
-                  "price": 1.75
-                },
-                {
-                  "name": "Inter Miami CF",
-                  "price": 4.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d14adade1ed343bcf71dfd853db7530c",
-      "sport_key": "soccer_conmebol_copa_libertadores",
-      "commence_time": "2026-09-10T00:30:00Z",
-      "home_team": "Estudiantes La Plata",
-      "away_team": "Corinthians-SP",
-      "bookmakers": [
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Corinthians-SP",
-                  "price": 5.5
-                },
-                {
-                  "name": "Estudiantes La Plata",
-                  "price": 3.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.73
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Corinthians-SP",
-                  "price": 4.7
-                },
-                {
-                  "name": "Estudiantes La Plata",
-                  "price": 3.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Corinthians-SP",
-                  "price": 4.8
-                },
-                {
-                  "name": "Estudiantes La Plata",
-                  "price": 3.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.66
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Corinthians-SP",
-                  "price": 4.3
-                },
-                {
-                  "name": "Estudiantes La Plata",
-                  "price": 3.58
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.71
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Corinthians-SP",
-                  "price": 5.25
-                },
-                {
-                  "name": "Estudiantes La Plata",
-                  "price": 3.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.61
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "502c9554f5b72a203c6982145b97c225",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-10T00:30:00Z",
-      "home_team": "Minnesota United FC",
-      "away_team": "FC Dallas",
-      "bookmakers": [
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Dallas",
-                  "price": 4.2
-                },
-                {
-                  "name": "Minnesota United FC",
-                  "price": 2.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.55
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Dallas",
-                  "price": 4.1
-                },
-                {
-                  "name": "Minnesota United FC",
-                  "price": 2.03
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.57
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Dallas",
-                  "price": 4.2
-                },
-                {
-                  "name": "Minnesota United FC",
-                  "price": 2.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.62
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Dallas",
-                  "price": 4.2
-                },
-                {
-                  "name": "Minnesota United FC",
-                  "price": 2.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "MyBookie.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Dallas",
-                  "price": 4.1
-                },
-                {
-                  "name": "Minnesota United FC",
-                  "price": 2.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.65
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7e091857be754051781267818cc2b567",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-10T00:30:00Z",
-      "home_team": "Houston Dynamo",
-      "away_team": "Real Salt Lake",
-      "bookmakers": [
-        {
-          "name": "MyBookie.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Houston Dynamo",
-                  "price": 2.1
-                },
-                {
-                  "name": "Real Salt Lake",
-                  "price": 4.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Houston Dynamo",
-                  "price": 2.0
-                },
-                {
-                  "name": "Real Salt Lake",
-                  "price": 4.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Houston Dynamo",
-                  "price": 2.05
-                },
-                {
-                  "name": "Real Salt Lake",
-                  "price": 4.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Houston Dynamo",
-                  "price": 1.98
-                },
-                {
-                  "name": "Real Salt Lake",
-                  "price": 4.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.42
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Houston Dynamo",
-                  "price": 2.24
-                },
-                {
-                  "name": "Real Salt Lake",
-                  "price": 5.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.66
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "17c1f231237e22cdc09d59beae955b88",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-10T02:30:00Z",
-      "home_team": "Vancouver Whitecaps FC",
-      "away_team": "LA Galaxy",
-      "bookmakers": [
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "LA Galaxy",
-                  "price": 7.0
-                },
-                {
-                  "name": "Vancouver Whitecaps FC",
-                  "price": 1.26
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "LA Galaxy",
-                  "price": 7.5
-                },
-                {
-                  "name": "Vancouver Whitecaps FC",
-                  "price": 1.26
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "LA Galaxy",
-                  "price": 8.5
-                },
-                {
-                  "name": "Vancouver Whitecaps FC",
-                  "price": 1.29
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "LA Galaxy",
-                  "price": 9.3
-                },
-                {
-                  "name": "Vancouver Whitecaps FC",
-                  "price": 1.31
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.29
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "LA Galaxy",
-                  "price": 6.75
-                },
-                {
-                  "name": "Vancouver Whitecaps FC",
-                  "price": 1.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.9
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7ac33428594fbd5055755695a8d53a91",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-10T02:30:00Z",
-      "home_team": "Los Angeles FC",
-      "away_team": "New York Red Bulls",
-      "bookmakers": [
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Los Angeles FC",
-                  "price": 1.4
-                },
-                {
-                  "name": "New York Red Bulls",
-                  "price": 6.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Los Angeles FC",
-                  "price": 1.4
-                },
-                {
-                  "name": "New York Red Bulls",
-                  "price": 6.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Los Angeles FC",
-                  "price": 1.42
-                },
-                {
-                  "name": "New York Red Bulls",
-                  "price": 6.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Los Angeles FC",
-                  "price": 1.36
-                },
-                {
-                  "name": "New York Red Bulls",
-                  "price": 6.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Los Angeles FC",
-                  "price": 1.34
-                },
-                {
-                  "name": "New York Red Bulls",
-                  "price": 5.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dea707116857bb8d11ac9c222169a00d",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-10T02:30:00Z",
-      "home_team": "Portland Timbers",
-      "away_team": "St. Louis City SC",
-      "bookmakers": [
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Portland Timbers",
-                  "price": 2.54
-                },
-                {
-                  "name": "St. Louis City SC",
-                  "price": 2.61
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.93
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Portland Timbers",
-                  "price": 2.4
-                },
-                {
-                  "name": "St. Louis City SC",
-                  "price": 2.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Marathon Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Portland Timbers",
-                  "price": 2.44
-                },
-                {
-                  "name": "St. Louis City SC",
-                  "price": 2.51
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.78
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "William Hill",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Portland Timbers",
-                  "price": 2.4
-                },
-                {
-                  "name": "St. Louis City SC",
-                  "price": 2.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Portland Timbers",
-                  "price": 2.3
-                },
-                {
-                  "name": "St. Louis City SC",
-                  "price": 2.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.75
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b5b339e8928c0c530d56af3023a7f109",
-      "sport_key": "soccer_usa_mls",
-      "commence_time": "2026-09-10T02:30:00Z",
-      "home_team": "San Diego FC",
-      "away_team": "San Jose Earthquakes",
-      "bookmakers": [
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "San Diego FC",
-                  "price": 1.68
-                },
-                {
-                  "name": "San Jose Earthquakes",
-                  "price": 3.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "San Diego FC",
-                  "price": 1.67
-                },
-                {
-                  "name": "San Jose Earthquakes",
-                  "price": 3.9
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "San Diego FC",
-                  "price": 1.7
-                },
-                {
-                  "name": "San Jose Earthquakes",
-                  "price": 4.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "San Diego FC",
-                  "price": 1.75
-                },
-                {
-                  "name": "San Jose Earthquakes",
-                  "price": 4.31
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.36
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Marathon Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "San Diego FC",
-                  "price": 1.69
-                },
-                {
-                  "name": "San Jose Earthquakes",
-                  "price": 4.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.2
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "548baa1054bef3f3c9f830d99280eefe",
       "sport_key": "soccer_uefa_champs_league",
@@ -1758,15 +17,15 @@
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 2.18
+                  "price": 2.12
                 },
                 {
                   "name": "Fenerbahce",
-                  "price": 3.42
+                  "price": 3.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.56
+                  "price": 3.64
                 }
               ]
             }
@@ -1780,15 +39,15 @@
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 2.22
+                  "price": 2.15
                 },
                 {
                   "name": "Fenerbahce",
-                  "price": 3.48
+                  "price": 3.56
                 },
                 {
                   "name": "Draw",
-                  "price": 3.62
+                  "price": 3.7
                 }
               ]
             }
@@ -1802,15 +61,15 @@
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 2.15
+                  "price": 2.12
                 },
                 {
                   "name": "Fenerbahce",
-                  "price": 3.45
+                  "price": 3.52
                 },
                 {
                   "name": "Draw",
-                  "price": 3.58
+                  "price": 3.66
                 }
               ]
             }
@@ -1824,15 +83,15 @@
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 2.2
+                  "price": 2.14
                 },
                 {
                   "name": "Fenerbahce",
-                  "price": 3.5
+                  "price": 3.55
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.65
                 }
               ]
             }
@@ -1846,7 +105,7 @@
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 2.23
+                  "price": 2.12
                 },
                 {
                   "name": "Fenerbahce",
@@ -1854,7 +113,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.41
+                  "price": 3.59
                 }
               ]
             }
@@ -1877,15 +136,15 @@
               "outcomes": [
                 {
                   "name": "PSV Eindhoven",
-                  "price": 1.47
+                  "price": 1.51
                 },
                 {
                   "name": "Shakhtar Donetsk",
-                  "price": 6.5
+                  "price": 6.05
                 },
                 {
                   "name": "Draw",
-                  "price": 5.05
+                  "price": 4.9
                 }
               ]
             }
@@ -1899,15 +158,15 @@
               "outcomes": [
                 {
                   "name": "PSV Eindhoven",
-                  "price": 1.49
+                  "price": 1.53
                 },
                 {
                   "name": "Shakhtar Donetsk",
-                  "price": 6.6
+                  "price": 6.14
                 },
                 {
                   "name": "Draw",
-                  "price": 5.13
+                  "price": 4.97
                 }
               ]
             }
@@ -1921,15 +180,15 @@
               "outcomes": [
                 {
                   "name": "PSV Eindhoven",
-                  "price": 1.46
+                  "price": 1.51
                 },
                 {
                   "name": "Shakhtar Donetsk",
-                  "price": 6.4
+                  "price": 6.13
                 },
                 {
                   "name": "Draw",
-                  "price": 5.12
+                  "price": 4.82
                 }
               ]
             }
@@ -1943,15 +202,15 @@
               "outcomes": [
                 {
                   "name": "PSV Eindhoven",
-                  "price": 1.45
+                  "price": 1.52
                 },
                 {
                   "name": "Shakhtar Donetsk",
-                  "price": 7.0
+                  "price": 6.25
                 },
                 {
                   "name": "Draw",
-                  "price": 5.15
+                  "price": 4.85
                 }
               ]
             }
@@ -1965,15 +224,15 @@
               "outcomes": [
                 {
                   "name": "PSV Eindhoven",
-                  "price": 1.44
+                  "price": 1.51
                 },
                 {
                   "name": "Shakhtar Donetsk",
-                  "price": 6.51
+                  "price": 5.85
                 },
                 {
                   "name": "Draw",
-                  "price": 5.04
+                  "price": 4.79
                 }
               ]
             }
@@ -2004,7 +263,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.8
                 }
               ]
             }
@@ -2026,7 +285,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 3.8
                 }
               ]
             }
@@ -2044,7 +303,7 @@
                 },
                 {
                   "name": "Östers IF",
-                  "price": 3.6
+                  "price": 3.65
                 },
                 {
                   "name": "Draw",
@@ -2062,15 +321,15 @@
               "outcomes": [
                 {
                   "name": "Falkenbergs FF",
-                  "price": 1.92
+                  "price": 1.9
                 },
                 {
                   "name": "Östers IF",
-                  "price": 3.45
+                  "price": 3.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.55
                 }
               ]
             }
@@ -2084,15 +343,15 @@
               "outcomes": [
                 {
                   "name": "Falkenbergs FF",
-                  "price": 1.92
+                  "price": 1.9
                 },
                 {
                   "name": "Östers IF",
-                  "price": 3.45
+                  "price": 3.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.55
                 }
               ]
             }
@@ -2159,11 +418,11 @@
               "outcomes": [
                 {
                   "name": "GIF Sundsvall",
-                  "price": 3.65
+                  "price": 3.55
                 },
                 {
                   "name": "Örebro SK",
-                  "price": 1.92
+                  "price": 1.95
                 },
                 {
                   "name": "Draw",
@@ -2203,15 +462,491 @@
               "outcomes": [
                 {
                   "name": "GIF Sundsvall",
-                  "price": 3.65
+                  "price": 3.55
                 },
                 {
                   "name": "Örebro SK",
+                  "price": 1.95
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0abe8bac2ea5c0fff8d124157501ddf",
+      "sport_key": "soccer_sweden_superettan",
+      "commence_time": "2026-09-10T17:00:00Z",
+      "home_team": "Varbergs BoIS",
+      "away_team": "IFK Norrkoping",
+      "bookmakers": [
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 2.02
+                },
+                {
+                  "name": "Varbergs BoIS",
+                  "price": 3.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 2.12
+                },
+                {
+                  "name": "Varbergs BoIS",
+                  "price": 3.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 2.12
+                },
+                {
+                  "name": "Varbergs BoIS",
+                  "price": 3.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 2.06
+                },
+                {
+                  "name": "Varbergs BoIS",
+                  "price": 3.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 2.02
+                },
+                {
+                  "name": "Varbergs BoIS",
+                  "price": 3.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "736461962f1305ad523fe87675454b99",
+      "sport_key": "soccer_sweden_superettan",
+      "commence_time": "2026-09-10T17:00:00Z",
+      "home_team": "Östersunds FK",
+      "away_team": "IK Brage",
+      "bookmakers": [
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IK Brage",
+                  "price": 3.6
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 1.87
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IK Brage",
+                  "price": 3.75
+                },
+                {
+                  "name": "Östersunds FK",
                   "price": 1.92
                 },
                 {
                   "name": "Draw",
                   "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IK Brage",
+                  "price": 3.8
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 1.93
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IK Brage",
+                  "price": 3.8
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 1.93
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IK Brage",
+                  "price": 3.75
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 1.92
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "734ca2dfe73ca7284020b5e0726db59a",
+      "sport_key": "soccer_greece_super_league",
+      "commence_time": "2026-09-10T18:15:00Z",
+      "home_team": "Panathinaikos",
+      "away_team": "AE Kifisia FC",
+      "bookmakers": [
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AE Kifisia FC",
+                  "price": 10.0
+                },
+                {
+                  "name": "Panathinaikos",
+                  "price": 1.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AE Kifisia FC",
+                  "price": 9.5
+                },
+                {
+                  "name": "Panathinaikos",
+                  "price": 1.22
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AE Kifisia FC",
+                  "price": 12.0
+                },
+                {
+                  "name": "Panathinaikos",
+                  "price": 1.27
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AE Kifisia FC",
+                  "price": 10.0
+                },
+                {
+                  "name": "Panathinaikos",
+                  "price": 1.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AE Kifisia FC",
+                  "price": 10.5
+                },
+                {
+                  "name": "Panathinaikos",
+                  "price": 1.24
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.55
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ce224016de80ab3f7101a6c7cde3a5c7",
+      "sport_key": "soccer_uefa_champs_league",
+      "commence_time": "2026-09-10T19:00:00Z",
+      "home_team": "Bayern Munich",
+      "away_team": "Bodø/Glimt",
+      "bookmakers": [
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.09
+                },
+                {
+                  "name": "Bodø/Glimt",
+                  "price": 25.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 13.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.1
+                },
+                {
+                  "name": "Bodø/Glimt",
+                  "price": 26.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 14.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.08
+                },
+                {
+                  "name": "Bodø/Glimt",
+                  "price": 25.01
+                },
+                {
+                  "name": "Draw",
+                  "price": 13.39
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.1
+                },
+                {
+                  "name": "Bodø/Glimt",
+                  "price": 25.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 13.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GTbets",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.1
+                },
+                {
+                  "name": "Bodø/Glimt",
+                  "price": 20.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 11.7
                 }
               ]
             }
