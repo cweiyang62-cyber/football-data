@@ -1,364 +1,7 @@
 {
-  "采集时间": "2026-09-16T02:00:30.185422",
-  "比赛数": 11,
+  "采集时间": "2026-09-16T10:23:33.101377",
+  "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "d15092d1819a1ed7f0d665049db6360c",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-09-16T00:00:00Z",
-      "home_team": "Clube de Regatas Brasil",
-      "away_team": "Sport Recife",
-      "bookmakers": [
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Clube de Regatas Brasil",
-                  "price": 1.0
-                },
-                {
-                  "name": "Sport Recife",
-                  "price": 126.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 15.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Clube de Regatas Brasil",
-                  "price": 1.0
-                },
-                {
-                  "name": "Sport Recife",
-                  "price": 126.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 15.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Clube de Regatas Brasil",
-                  "price": 1.01
-                },
-                {
-                  "name": "Sport Recife",
-                  "price": 50.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 11.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Clube de Regatas Brasil",
-                  "price": 1.08
-                },
-                {
-                  "name": "Sport Recife",
-                  "price": 67.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Tipico",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Clube de Regatas Brasil",
-                  "price": 1.02
-                },
-                {
-                  "name": "Sport Recife",
-                  "price": 400.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 15.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "498427791afc068d39dfccc935933f13",
-      "sport_key": "soccer_conmebol_copa_sudamericana",
-      "commence_time": "2026-09-16T00:30:00Z",
-      "home_team": "Sao Paulo",
-      "away_team": "Boca Juniors",
-      "bookmakers": [
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Boca Juniors",
-                  "price": 1.36
-                },
-                {
-                  "name": "Sao Paulo",
-                  "price": 14.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Boca Juniors",
-                  "price": 1.4
-                },
-                {
-                  "name": "Sao Paulo",
-                  "price": 10.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Boca Juniors",
-                  "price": 1.46
-                },
-                {
-                  "name": "Sao Paulo",
-                  "price": 16.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Boca Juniors",
-                  "price": 1.4
-                },
-                {
-                  "name": "Sao Paulo",
-                  "price": 14.11
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.52
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Boca Juniors",
-                  "price": 4.6
-                },
-                {
-                  "name": "Sao Paulo",
-                  "price": 3.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.78
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "bf1a6bdbfa7af022afd5fd6ba3354998",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-09-16T01:00:00Z",
-      "home_team": "Puebla",
-      "away_team": "Toluca",
-      "bookmakers": [
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Puebla",
-                  "price": 4.9
-                },
-                {
-                  "name": "Toluca",
-                  "price": 1.88
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Puebla",
-                  "price": 4.6
-                },
-                {
-                  "name": "Toluca",
-                  "price": 1.77
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.75
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Puebla",
-                  "price": 4.9
-                },
-                {
-                  "name": "Toluca",
-                  "price": 1.88
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Puebla",
-                  "price": 4.8
-                },
-                {
-                  "name": "Toluca",
-                  "price": 1.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Puebla",
-                  "price": 5.0
-                },
-                {
-                  "name": "Toluca",
-                  "price": 1.79
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.68
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "6e948769ff2d62918fad5472dfbd09d9",
       "sport_key": "soccer_russia_premier_league",
@@ -374,15 +17,15 @@
               "outcomes": [
                 {
                   "name": "FC Fakel Voronezh",
-                  "price": 8.84
+                  "price": 8.43
                 },
                 {
                   "name": "Spartak Moscow",
-                  "price": 1.35
+                  "price": 1.39
                 },
                 {
                   "name": "Draw",
-                  "price": 5.16
+                  "price": 5.05
                 }
               ]
             }
@@ -400,7 +43,7 @@
                 },
                 {
                   "name": "Spartak Moscow",
-                  "price": 1.31
+                  "price": 1.35
                 },
                 {
                   "name": "Draw",
@@ -418,15 +61,15 @@
               "outcomes": [
                 {
                   "name": "FC Fakel Voronezh",
-                  "price": 9.1
+                  "price": 8.3
                 },
                 {
                   "name": "Spartak Moscow",
-                  "price": 1.36
+                  "price": 1.39
                 },
                 {
                   "name": "Draw",
-                  "price": 5.1
+                  "price": 4.95
                 }
               ]
             }
@@ -444,11 +87,11 @@
                 },
                 {
                   "name": "Spartak Moscow",
-                  "price": 1.33
+                  "price": 1.35
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
+                  "price": 4.8
                 }
               ]
             }
@@ -462,15 +105,15 @@
               "outcomes": [
                 {
                   "name": "FC Fakel Voronezh",
-                  "price": 9.3
+                  "price": 8.5
                 },
                 {
                   "name": "Spartak Moscow",
-                  "price": 1.4
+                  "price": 1.43
                 },
                 {
                   "name": "Draw",
-                  "price": 5.23
+                  "price": 5.08
                 }
               ]
             }
@@ -493,15 +136,15 @@
               "outcomes": [
                 {
                   "name": "Rodina Moscow",
-                  "price": 3.15
+                  "price": 3.53
                 },
                 {
                   "name": "Rubin Kazan",
-                  "price": 2.43
+                  "price": 2.22
                 },
                 {
                   "name": "Draw",
-                  "price": 3.23
+                  "price": 3.34
                 }
               ]
             }
@@ -515,15 +158,15 @@
               "outcomes": [
                 {
                   "name": "Rodina Moscow",
-                  "price": 3.21
+                  "price": 3.55
                 },
                 {
                   "name": "Rubin Kazan",
-                  "price": 2.47
+                  "price": 2.26
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 3.44
                 }
               ]
             }
@@ -537,15 +180,15 @@
               "outcomes": [
                 {
                   "name": "Rodina Moscow",
-                  "price": 3.12
+                  "price": 3.46
                 },
                 {
                   "name": "Rubin Kazan",
-                  "price": 2.41
+                  "price": 2.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.26
+                  "price": 3.35
                 }
               ]
             }
@@ -559,37 +202,15 @@
               "outcomes": [
                 {
                   "name": "Rodina Moscow",
-                  "price": 2.8
-                },
-                {
-                  "name": "Rubin Kazan",
-                  "price": 2.35
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "BetOnline.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Rodina Moscow",
-                  "price": 3.1
-                },
-                {
-                  "name": "Rubin Kazan",
-                  "price": 2.4
-                },
-                {
-                  "name": "Draw",
                   "price": 3.05
+                },
+                {
+                  "name": "Rubin Kazan",
+                  "price": 2.24
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.15
                 }
               ]
             }
@@ -612,15 +233,15 @@
               "outcomes": [
                 {
                   "name": "Celta Vigo",
-                  "price": 1.99
+                  "price": 1.81
                 },
                 {
                   "name": "Omonoia FC",
-                  "price": 3.81
+                  "price": 4.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.27
+                  "price": 3.52
                 }
               ]
             }
@@ -634,15 +255,15 @@
               "outcomes": [
                 {
                   "name": "Celta Vigo",
-                  "price": 2.1
+                  "price": 1.92
                 },
                 {
                   "name": "Omonoia FC",
-                  "price": 4.1
+                  "price": 4.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.6
                 }
               ]
             }
@@ -656,15 +277,15 @@
               "outcomes": [
                 {
                   "name": "Celta Vigo",
-                  "price": 2.05
+                  "price": 1.88
                 },
                 {
                   "name": "Omonoia FC",
-                  "price": 3.8
+                  "price": 4.4
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 3.45
                 }
               ]
             }
@@ -678,15 +299,15 @@
               "outcomes": [
                 {
                   "name": "Celta Vigo",
-                  "price": 1.9
+                  "price": 1.78
                 },
                 {
                   "name": "Omonoia FC",
-                  "price": 3.8
+                  "price": 4.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.4
                 }
               ]
             }
@@ -700,15 +321,15 @@
               "outcomes": [
                 {
                   "name": "Celta Vigo",
-                  "price": 1.98
+                  "price": 1.8
                 },
                 {
                   "name": "Omonoia FC",
-                  "price": 3.75
+                  "price": 4.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.6
                 }
               ]
             }
@@ -731,11 +352,11 @@
               "outcomes": [
                 {
                   "name": "FC Ararat-Armenia",
-                  "price": 4.85
+                  "price": 5.1
                 },
                 {
                   "name": "Sparta Prague",
-                  "price": 1.62
+                  "price": 1.63
                 },
                 {
                   "name": "Draw",
@@ -757,7 +378,7 @@
                 },
                 {
                   "name": "Sparta Prague",
-                  "price": 1.69
+                  "price": 1.7
                 },
                 {
                   "name": "Draw",
@@ -775,7 +396,7 @@
               "outcomes": [
                 {
                   "name": "FC Ararat-Armenia",
-                  "price": 5.27
+                  "price": 5.22
                 },
                 {
                   "name": "Sparta Prague",
@@ -783,7 +404,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.16
+                  "price": 4.21
                 }
               ]
             }
@@ -797,15 +418,15 @@
               "outcomes": [
                 {
                   "name": "FC Ararat-Armenia",
-                  "price": 5.0
+                  "price": 4.9
                 },
                 {
                   "name": "Sparta Prague",
-                  "price": 1.65
+                  "price": 1.67
                 },
                 {
                   "name": "Draw",
-                  "price": 4.1
+                  "price": 4.0
                 }
               ]
             }
@@ -819,11 +440,11 @@
               "outcomes": [
                 {
                   "name": "FC Ararat-Armenia",
-                  "price": 4.8
+                  "price": 4.7
                 },
                 {
                   "name": "Sparta Prague",
-                  "price": 1.58
+                  "price": 1.6
                 },
                 {
                   "name": "Draw",
@@ -850,15 +471,15 @@
               "outcomes": [
                 {
                   "name": "1. FC Saarbrücken",
-                  "price": 2.45
+                  "price": 2.3
                 },
                 {
                   "name": "SC Preußen Münster",
-                  "price": 2.7
+                  "price": 2.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.6
                 }
               ]
             }
@@ -1035,11 +656,11 @@
               "outcomes": [
                 {
                   "name": "AIK",
-                  "price": 2.05
+                  "price": 2.1
                 },
                 {
                   "name": "Mjällby AIF",
-                  "price": 2.9
+                  "price": 2.75
                 },
                 {
                   "name": "Draw",
@@ -1103,28 +724,6 @@
           ]
         },
         {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlético Madrid",
-                  "price": 1.38
-                },
-                {
-                  "name": "CA Osasuna",
-                  "price": 8.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.55
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Codere (IT)",
           "markets": [
             {
@@ -1132,15 +731,15 @@
               "outcomes": [
                 {
                   "name": "Atlético Madrid",
-                  "price": 1.37
+                  "price": 1.39
                 },
                 {
                   "name": "CA Osasuna",
-                  "price": 8.2
+                  "price": 8.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
+                  "price": 4.9
                 }
               ]
             }
@@ -1158,11 +757,11 @@
                 },
                 {
                   "name": "CA Osasuna",
-                  "price": 8.9
+                  "price": 9.25
                 },
                 {
                   "name": "Draw",
-                  "price": 4.98
+                  "price": 4.88
                 }
               ]
             }
@@ -1176,15 +775,37 @@
               "outcomes": [
                 {
                   "name": "Atlético Madrid",
-                  "price": 1.4
+                  "price": 1.36
                 },
                 {
                   "name": "CA Osasuna",
-                  "price": 7.5
+                  "price": 8.0
                 },
                 {
                   "name": "Draw",
                   "price": 4.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Atlético Madrid",
+                  "price": 1.42
+                },
+                {
+                  "name": "CA Osasuna",
+                  "price": 10.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.0
                 }
               ]
             }
@@ -1207,15 +828,15 @@
               "outcomes": [
                 {
                   "name": "Deportivo La Coruña",
-                  "price": 2.63
+                  "price": 2.65
                 },
                 {
                   "name": "Sevilla",
-                  "price": 3.1
+                  "price": 3.12
                 },
                 {
                   "name": "Draw",
-                  "price": 3.21
+                  "price": 3.15
                 }
               ]
             }
@@ -1229,11 +850,11 @@
               "outcomes": [
                 {
                   "name": "Deportivo La Coruña",
-                  "price": 2.35
+                  "price": 2.4
                 },
                 {
                   "name": "Sevilla",
-                  "price": 2.9
+                  "price": 2.85
                 },
                 {
                   "name": "Draw",
@@ -1251,11 +872,11 @@
               "outcomes": [
                 {
                   "name": "Deportivo La Coruña",
-                  "price": 2.55
+                  "price": 2.6
                 },
                 {
                   "name": "Sevilla",
-                  "price": 3.0
+                  "price": 2.9
                 },
                 {
                   "name": "Draw",
@@ -1273,15 +894,15 @@
               "outcomes": [
                 {
                   "name": "Deportivo La Coruña",
-                  "price": 2.45
+                  "price": 2.5
                 },
                 {
                   "name": "Sevilla",
-                  "price": 2.8
+                  "price": 2.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.05
+                  "price": 2.9
                 }
               ]
             }
@@ -1295,15 +916,15 @@
               "outcomes": [
                 {
                   "name": "Deportivo La Coruña",
-                  "price": 2.5
+                  "price": 2.55
                 },
                 {
                   "name": "Sevilla",
-                  "price": 2.85
+                  "price": 2.95
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 2.95
                 }
               ]
             }
