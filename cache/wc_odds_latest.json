@@ -1,483 +1,7 @@
 {
-  "采集时间": "2026-09-21T02:00:46.863078",
-  "比赛数": 11,
+  "采集时间": "2026-09-21T11:15:41.941909",
+  "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "2461ed94401a86ce9ac9e0c98e54ab03",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-09-21T00:00:00Z",
-      "home_team": "Toluca",
-      "away_team": "Santos Laguna",
-      "bookmakers": [
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Santos Laguna",
-                  "price": 13.0
-                },
-                {
-                  "name": "Toluca",
-                  "price": 13.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.09
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Santos Laguna",
-                  "price": 12.5
-                },
-                {
-                  "name": "Toluca",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.04
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Santos Laguna",
-                  "price": 7.5
-                },
-                {
-                  "name": "Toluca",
-                  "price": 6.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Santos Laguna",
-                  "price": 14.0
-                },
-                {
-                  "name": "Toluca",
-                  "price": 14.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.08
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Santos Laguna",
-                  "price": 10.25
-                },
-                {
-                  "name": "Toluca",
-                  "price": 9.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.12
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f6d54d20aab823169cd55d37a7b81db5",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-09-21T00:02:00Z",
-      "home_team": "Pachuca",
-      "away_team": "Tijuana",
-      "bookmakers": [
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Pachuca",
-                  "price": 6.4
-                },
-                {
-                  "name": "Tijuana",
-                  "price": 13.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.19
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Pachuca",
-                  "price": 6.0
-                },
-                {
-                  "name": "Tijuana",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.13
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Pachuca",
-                  "price": 5.6
-                },
-                {
-                  "name": "Tijuana",
-                  "price": 11.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.07
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Pachuca",
-                  "price": 6.4
-                },
-                {
-                  "name": "Tijuana",
-                  "price": 13.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.19
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Pachuca",
-                  "price": 8.5
-                },
-                {
-                  "name": "Tijuana",
-                  "price": 13.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.09
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2e680c0afaec33e5d292ab2418167f2e",
-      "sport_key": "soccer_argentina_primera_division",
-      "commence_time": "2026-09-21T00:30:00Z",
-      "home_team": "Velez Sarsfield BA",
-      "away_team": "CA Tigre BA",
-      "bookmakers": [
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "CA Tigre BA",
-                  "price": 23.0
-                },
-                {
-                  "name": "Velez Sarsfield BA",
-                  "price": 1.13
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "CA Tigre BA",
-                  "price": 36.0
-                },
-                {
-                  "name": "Velez Sarsfield BA",
-                  "price": 1.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "CA Tigre BA",
-                  "price": 36.0
-                },
-                {
-                  "name": "Velez Sarsfield BA",
-                  "price": 1.17
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "CA Tigre BA",
-                  "price": 30.0
-                },
-                {
-                  "name": "Velez Sarsfield BA",
-                  "price": 1.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "CA Tigre BA",
-                  "price": 30.0
-                },
-                {
-                  "name": "Velez Sarsfield BA",
-                  "price": 1.14
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.35
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cba9f88f7be5bcf22183a329e2c43cd9",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-09-21T02:10:00Z",
-      "home_team": "Querétaro",
-      "away_team": "León",
-      "bookmakers": [
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "León",
-                  "price": 2.48
-                },
-                {
-                  "name": "Querétaro",
-                  "price": 2.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "León",
-                  "price": 2.38
-                },
-                {
-                  "name": "Querétaro",
-                  "price": 2.33
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "León",
-                  "price": 2.55
-                },
-                {
-                  "name": "Querétaro",
-                  "price": 2.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "León",
-                  "price": 2.55
-                },
-                {
-                  "name": "Querétaro",
-                  "price": 2.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "León",
-                  "price": 2.22
-                },
-                {
-                  "name": "Querétaro",
-                  "price": 2.67
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "6ed404cf006c408c34c6bb6dd560c04c",
       "sport_key": "soccer_germany_bundesliga_women",
@@ -497,11 +21,11 @@
                 },
                 {
                   "name": "Werder Bremen",
-                  "price": 1.83
+                  "price": 1.88
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.55
                 }
               ]
             }
@@ -519,11 +43,11 @@
                 },
                 {
                   "name": "Werder Bremen",
-                  "price": 1.83
+                  "price": 1.88
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.55
                 }
               ]
             }
@@ -541,11 +65,11 @@
                 },
                 {
                   "name": "Werder Bremen",
-                  "price": 1.83
+                  "price": 1.88
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.55
                 }
               ]
             }
@@ -616,11 +140,11 @@
                 },
                 {
                   "name": "Atlético Tucuman",
-                  "price": 2.32
+                  "price": 2.33
                 },
                 {
                   "name": "Draw",
-                  "price": 2.82
+                  "price": 2.8
                 }
               ]
             }
@@ -638,7 +162,7 @@
                 },
                 {
                   "name": "Atlético Tucuman",
-                  "price": 2.35
+                  "price": 2.4
                 },
                 {
                   "name": "Draw",
@@ -660,33 +184,33 @@
                 },
                 {
                   "name": "Atlético Tucuman",
-                  "price": 2.3
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
-                  "price": 2.8
+                  "price": 2.85
                 }
               ]
             }
           ]
         },
         {
-          "name": "1xBet",
+          "name": "Codere (IT)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Aldosivi Mar del Plata",
-                  "price": 3.19
+                  "price": 3.15
                 },
                 {
                   "name": "Atlético Tucuman",
-                  "price": 2.49
+                  "price": 2.5
                 },
                 {
                   "name": "Draw",
-                  "price": 2.96
+                  "price": 2.95
                 }
               ]
             }
@@ -702,6 +226,28 @@
       "away_team": "Independiente Rivadavia",
       "bookmakers": [
         {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Barracas Central",
+                  "price": 3.25
+                },
+                {
+                  "name": "Independiente Rivadavia",
+                  "price": 2.39
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.0
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Winamax (FR)",
           "markets": [
             {
@@ -713,7 +259,7 @@
                 },
                 {
                   "name": "Independiente Rivadavia",
-                  "price": 2.2
+                  "price": 2.25
                 },
                 {
                   "name": "Draw",
@@ -735,11 +281,11 @@
                 },
                 {
                   "name": "Independiente Rivadavia",
-                  "price": 2.25
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
-                  "price": 2.95
+                  "price": 3.0
                 }
               ]
             }
@@ -775,37 +321,15 @@
               "outcomes": [
                 {
                   "name": "Barracas Central",
-                  "price": 3.1
+                  "price": 3.08
                 },
                 {
                   "name": "Independiente Rivadavia",
-                  "price": 2.22
+                  "price": 2.23
                 },
                 {
                   "name": "Draw",
-                  "price": 2.88
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Barracas Central",
-                  "price": 3.32
-                },
-                {
-                  "name": "Independiente Rivadavia",
-                  "price": 2.39
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.0
+                  "price": 2.87
                 }
               ]
             }
@@ -828,15 +352,15 @@
               "outcomes": [
                 {
                   "name": "Criciuma",
-                  "price": 1.61
+                  "price": 1.67
                 },
                 {
                   "name": "Operario PR",
-                  "price": 4.8
+                  "price": 4.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.2
                 }
               ]
             }
@@ -850,7 +374,7 @@
               "outcomes": [
                 {
                   "name": "Criciuma",
-                  "price": 1.67
+                  "price": 1.74
                 },
                 {
                   "name": "Operario PR",
@@ -858,7 +382,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.35
                 }
               ]
             }
@@ -872,7 +396,7 @@
               "outcomes": [
                 {
                   "name": "Criciuma",
-                  "price": 1.67
+                  "price": 1.74
                 },
                 {
                   "name": "Operario PR",
@@ -880,7 +404,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.35
                 }
               ]
             }
@@ -894,15 +418,15 @@
               "outcomes": [
                 {
                   "name": "Criciuma",
-                  "price": 1.72
+                  "price": 1.86
                 },
                 {
                   "name": "Operario PR",
-                  "price": 5.2
+                  "price": 4.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.3
                 }
               ]
             }
@@ -916,15 +440,15 @@
               "outcomes": [
                 {
                   "name": "Criciuma",
-                  "price": 1.68
+                  "price": 1.88
                 },
                 {
                   "name": "Operario PR",
-                  "price": 5.1
+                  "price": 4.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.15
                 }
               ]
             }
@@ -947,7 +471,7 @@
               "outcomes": [
                 {
                   "name": "Estudiantes",
-                  "price": 3.3
+                  "price": 3.35
                 },
                 {
                   "name": "Lanus",
@@ -978,6 +502,28 @@
                 {
                   "name": "Draw",
                   "price": 3.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Estudiantes",
+                  "price": 3.6
+                },
+                {
+                  "name": "Lanus",
+                  "price": 2.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.05
                 }
               ]
             }
@@ -1026,28 +572,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Estudiantes",
-                  "price": 3.78
-                },
-                {
-                  "name": "Lanus",
-                  "price": 2.17
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.06
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -1066,15 +590,15 @@
               "outcomes": [
                 {
                   "name": "Cuiabá",
-                  "price": 2.02
+                  "price": 2.06
                 },
                 {
                   "name": "Nautico PE",
-                  "price": 3.75
+                  "price": 3.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 3.2
                 }
               ]
             }
@@ -1088,15 +612,15 @@
               "outcomes": [
                 {
                   "name": "Cuiabá",
-                  "price": 2.02
+                  "price": 2.06
                 },
                 {
                   "name": "Nautico PE",
-                  "price": 3.75
+                  "price": 3.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 3.2
                 }
               ]
             }
@@ -1110,15 +634,15 @@
               "outcomes": [
                 {
                   "name": "Cuiabá",
-                  "price": 1.93
+                  "price": 1.97
                 },
                 {
                   "name": "Nautico PE",
-                  "price": 3.55
+                  "price": 3.45
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.05
                 }
               ]
             }
@@ -1132,11 +656,11 @@
               "outcomes": [
                 {
                   "name": "Cuiabá",
-                  "price": 2.05
+                  "price": 2.2
                 },
                 {
                   "name": "Nautico PE",
-                  "price": 3.6
+                  "price": 3.25
                 },
                 {
                   "name": "Draw",
@@ -1154,15 +678,15 @@
               "outcomes": [
                 {
                   "name": "Cuiabá",
-                  "price": 2.06
+                  "price": 2.22
                 },
                 {
                   "name": "Nautico PE",
-                  "price": 3.75
+                  "price": 3.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.15
                 }
               ]
             }
@@ -1185,15 +709,15 @@
               "outcomes": [
                 {
                   "name": "BK Hacken",
-                  "price": 2.64
+                  "price": 2.77
                 },
                 {
                   "name": "Inter Milan",
-                  "price": 2.4
+                  "price": 2.25
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.33
                 }
               ]
             }
@@ -1207,15 +731,15 @@
               "outcomes": [
                 {
                   "name": "BK Hacken",
-                  "price": 2.62
+                  "price": 2.88
                 },
                 {
                   "name": "Inter Milan",
-                  "price": 2.1
+                  "price": 2.24
                 },
                 {
                   "name": "Draw",
-                  "price": 2.06
+                  "price": 3.5
                 }
               ]
             }
@@ -1229,11 +753,11 @@
               "outcomes": [
                 {
                   "name": "BK Hacken",
-                  "price": 2.75
+                  "price": 2.85
                 },
                 {
                   "name": "Inter Milan",
-                  "price": 2.3
+                  "price": 2.22
                 },
                 {
                   "name": "Draw",
@@ -1251,11 +775,11 @@
               "outcomes": [
                 {
                   "name": "BK Hacken",
-                  "price": 2.75
+                  "price": 2.85
                 },
                 {
                   "name": "Inter Milan",
-                  "price": 2.3
+                  "price": 2.22
                 },
                 {
                   "name": "Draw",
@@ -1273,15 +797,134 @@
               "outcomes": [
                 {
                   "name": "BK Hacken",
-                  "price": 2.5
+                  "price": 2.9
                 },
                 {
                   "name": "Inter Milan",
-                  "price": 2.15
+                  "price": 2.1
                 },
                 {
                   "name": "Draw",
-                  "price": 3.2
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15ca23c3e73a7b48f076c2d195eb198c",
+      "sport_key": "soccer_uefa_champs_league_women",
+      "commence_time": "2026-09-22T16:45:00Z",
+      "home_team": "Bayern Munich",
+      "away_team": "Manchester City",
+      "bookmakers": [
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 2.02
+                },
+                {
+                  "name": "Manchester City",
+                  "price": 3.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.9
+                },
+                {
+                  "name": "Manchester City",
+                  "price": 3.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.9
+                },
+                {
+                  "name": "Manchester City",
+                  "price": 3.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.79
+                },
+                {
+                  "name": "Manchester City",
+                  "price": 3.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.91
+                },
+                {
+                  "name": "Manchester City",
+                  "price": 3.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
                 }
               ]
             }
