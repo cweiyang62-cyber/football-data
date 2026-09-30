@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-09-30T02:41:51.139249",
+  "采集时间": "2026-09-30T11:28:29.846717",
   "比赛数": 8,
   "赔率数据": [
     {
@@ -17,15 +17,15 @@
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 26.0
+                  "price": 34.0
                 },
                 {
                   "name": "Barcelona",
-                  "price": 1.09
+                  "price": 1.08
                 },
                 {
                   "name": "Draw",
-                  "price": 16.0
+                  "price": 18.5
                 }
               ]
             }
@@ -39,15 +39,15 @@
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 17.33
+                  "price": 22.3
                 },
                 {
                   "name": "Barcelona",
-                  "price": 1.07
+                  "price": 1.04
                 },
                 {
                   "name": "Draw",
-                  "price": 11.4
+                  "price": 13.88
                 }
               ]
             }
@@ -61,15 +61,15 @@
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 21.0
+                  "price": 36.0
                 },
                 {
                   "name": "Barcelona",
-                  "price": 1.06
+                  "price": 1.05
                 },
                 {
                   "name": "Draw",
-                  "price": 10.0
+                  "price": 11.0
                 }
               ]
             }
@@ -87,11 +87,11 @@
                 },
                 {
                   "name": "Barcelona",
-                  "price": 1.03
+                  "price": 1.02
                 },
                 {
                   "name": "Draw",
-                  "price": 7.9
+                  "price": 8.3
                 }
               ]
             }
@@ -105,15 +105,15 @@
               "outcomes": [
                 {
                   "name": "AS Roma",
-                  "price": 21.0
+                  "price": 34.0
                 },
                 {
                   "name": "Barcelona",
-                  "price": 1.07
+                  "price": 1.05
                 },
                 {
                   "name": "Draw",
-                  "price": 9.5
+                  "price": 11.0
                 }
               ]
             }
@@ -136,15 +136,15 @@
               "outcomes": [
                 {
                   "name": "Arsenal",
-                  "price": 1.38
+                  "price": 1.32
                 },
                 {
                   "name": "Paris FC",
-                  "price": 6.8
+                  "price": 7.4
                 },
                 {
                   "name": "Draw",
-                  "price": 4.3
+                  "price": 4.8
                 }
               ]
             }
@@ -162,11 +162,11 @@
                 },
                 {
                   "name": "Paris FC",
-                  "price": 8.6
+                  "price": 8.8
                 },
                 {
                   "name": "Draw",
-                  "price": 5.2
+                  "price": 5.6
                 }
               ]
             }
@@ -180,15 +180,37 @@
               "outcomes": [
                 {
                   "name": "Arsenal",
-                  "price": 1.36
+                  "price": 1.33
                 },
                 {
                   "name": "Paris FC",
-                  "price": 7.8
+                  "price": 8.2
                 },
                 {
                   "name": "Draw",
-                  "price": 4.66
+                  "price": 4.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Arsenal",
+                  "price": 1.32
+                },
+                {
+                  "name": "Paris FC",
+                  "price": 7.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.8
                 }
               ]
             }
@@ -202,37 +224,15 @@
               "outcomes": [
                 {
                   "name": "Arsenal",
-                  "price": 1.36
+                  "price": 1.3
                 },
                 {
                   "name": "Paris FC",
-                  "price": 6.5
+                  "price": 7.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Arsenal",
-                  "price": 1.28
-                },
-                {
-                  "name": "Paris FC",
-                  "price": 8.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
+                  "price": 4.75
                 }
               ]
             }
@@ -255,7 +255,7 @@
               "outcomes": [
                 {
                   "name": "BK Hacken",
-                  "price": 2.28
+                  "price": 2.3
                 },
                 {
                   "name": "Juventus",
@@ -277,15 +277,15 @@
               "outcomes": [
                 {
                   "name": "BK Hacken",
-                  "price": 2.42
+                  "price": 2.52
                 },
                 {
                   "name": "Juventus",
-                  "price": 2.8
+                  "price": 2.82
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.9
                 }
               ]
             }
@@ -299,15 +299,37 @@
               "outcomes": [
                 {
                   "name": "BK Hacken",
-                  "price": 2.34
+                  "price": 2.39
                 },
                 {
                   "name": "Juventus",
-                  "price": 2.67
+                  "price": 2.57
                 },
                 {
                   "name": "Draw",
-                  "price": 3.63
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "BK Hacken",
+                  "price": 2.3
+                },
+                {
+                  "name": "Juventus",
+                  "price": 2.72
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
                 }
               ]
             }
@@ -325,33 +347,11 @@
                 },
                 {
                   "name": "Juventus",
-                  "price": 2.5
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "BK Hacken",
-                  "price": 2.25
-                },
-                {
-                  "name": "Juventus",
-                  "price": 2.62
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.42
+                  "price": 3.4
                 }
               ]
             }
@@ -374,15 +374,15 @@
               "outcomes": [
                 {
                   "name": "Bayern Munich",
-                  "price": 1.23
+                  "price": 1.26
                 },
                 {
                   "name": "Benfica",
-                  "price": 8.6
+                  "price": 8.2
                 },
                 {
                   "name": "Draw",
-                  "price": 5.7
+                  "price": 5.35
                 }
               ]
             }
@@ -396,7 +396,7 @@
               "outcomes": [
                 {
                   "name": "Bayern Munich",
-                  "price": 1.26
+                  "price": 1.29
                 },
                 {
                   "name": "Benfica",
@@ -404,7 +404,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 6.8
+                  "price": 6.4
                 }
               ]
             }
@@ -418,15 +418,37 @@
               "outcomes": [
                 {
                   "name": "Bayern Munich",
-                  "price": 1.22
+                  "price": 1.29
                 },
                 {
                   "name": "Benfica",
-                  "price": 9.53
+                  "price": 8.33
                 },
                 {
                   "name": "Draw",
-                  "price": 6.4
+                  "price": 5.59
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bayern Munich",
+                  "price": 1.26
+                },
+                {
+                  "name": "Benfica",
+                  "price": 8.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.35
                 }
               ]
             }
@@ -440,37 +462,15 @@
               "outcomes": [
                 {
                   "name": "Bayern Munich",
-                  "price": 1.22
+                  "price": 1.25
                 },
                 {
                   "name": "Benfica",
-                  "price": 9.0
+                  "price": 8.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bayern Munich",
-                  "price": 1.14
-                },
-                {
-                  "name": "Benfica",
-                  "price": 8.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.7
+                  "price": 5.0
                 }
               ]
             }
@@ -493,15 +493,15 @@
               "outcomes": [
                 {
                   "name": "Chelsea",
-                  "price": 6.4
+                  "price": 5.9
                 },
                 {
                   "name": "Lyon",
-                  "price": 1.36
+                  "price": 1.42
                 },
                 {
                   "name": "Draw",
-                  "price": 4.7
+                  "price": 4.3
                 }
               ]
             }
@@ -515,11 +515,11 @@
               "outcomes": [
                 {
                   "name": "Chelsea",
-                  "price": 7.4
+                  "price": 7.0
                 },
                 {
                   "name": "Lyon",
-                  "price": 1.42
+                  "price": 1.46
                 },
                 {
                   "name": "Draw",
@@ -537,15 +537,37 @@
               "outcomes": [
                 {
                   "name": "Chelsea",
-                  "price": 6.82
+                  "price": 6.38
                 },
                 {
                   "name": "Lyon",
-                  "price": 1.38
+                  "price": 1.41
                 },
                 {
                   "name": "Draw",
-                  "price": 4.87
+                  "price": 4.76
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Chelsea",
+                  "price": 5.9
+                },
+                {
+                  "name": "Lyon",
+                  "price": 1.42
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
                 }
               ]
             }
@@ -559,37 +581,15 @@
               "outcomes": [
                 {
                   "name": "Chelsea",
-                  "price": 6.5
+                  "price": 6.0
                 },
                 {
                   "name": "Lyon",
-                  "price": 1.36
+                  "price": 1.4
                 },
                 {
                   "name": "Draw",
-                  "price": 4.33
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Chelsea",
-                  "price": 7.0
-                },
-                {
-                  "name": "Lyon",
-                  "price": 1.32
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
+                  "price": 4.2
                 }
               ]
             }
@@ -612,15 +612,15 @@
               "outcomes": [
                 {
                   "name": "New York Red Bulls",
-                  "price": 3.38
+                  "price": 3.42
                 },
                 {
                   "name": "St. Louis City SC",
-                  "price": 1.89
+                  "price": 1.86
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 4.1
                 }
               ]
             }
@@ -634,7 +634,7 @@
               "outcomes": [
                 {
                   "name": "New York Red Bulls",
-                  "price": 3.2
+                  "price": 3.25
                 },
                 {
                   "name": "St. Louis City SC",
@@ -642,7 +642,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.1
+                  "price": 4.0
                 }
               ]
             }
@@ -678,7 +678,7 @@
               "outcomes": [
                 {
                   "name": "New York Red Bulls",
-                  "price": 3.4
+                  "price": 3.5
                 },
                 {
                   "name": "St. Louis City SC",
@@ -700,7 +700,7 @@
               "outcomes": [
                 {
                   "name": "New York Red Bulls",
-                  "price": 3.15
+                  "price": 3.2
                 },
                 {
                   "name": "St. Louis City SC",
@@ -708,7 +708,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 3.95
                 }
               ]
             }
@@ -731,7 +731,7 @@
               "outcomes": [
                 {
                   "name": "Azerbaijan",
-                  "price": 1.17
+                  "price": 1.16
                 },
                 {
                   "name": "Liechtenstein",
@@ -739,29 +739,29 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.65
+                  "price": 7.95
                 }
               ]
             }
           ]
         },
         {
-          "name": "Betfair",
+          "name": "Betsson",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Azerbaijan",
-                  "price": 1.18
+                  "price": 1.15
                 },
                 {
                   "name": "Liechtenstein",
-                  "price": 22.0
+                  "price": 24.0
                 },
                 {
                   "name": "Draw",
-                  "price": 8.4
+                  "price": 5.7
                 }
               ]
             }
@@ -775,7 +775,7 @@
               "outcomes": [
                 {
                   "name": "Azerbaijan",
-                  "price": 1.14
+                  "price": 1.12
                 },
                 {
                   "name": "Liechtenstein",
@@ -783,7 +783,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
+                  "price": 7.4
                 }
               ]
             }
@@ -797,15 +797,15 @@
               "outcomes": [
                 {
                   "name": "Azerbaijan",
-                  "price": 1.1
+                  "price": 1.11
                 },
                 {
                   "name": "Liechtenstein",
-                  "price": 16.0
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.75
+                  "price": 6.5
                 }
               ]
             }
@@ -823,7 +823,7 @@
                 },
                 {
                   "name": "Liechtenstein",
-                  "price": 22.0
+                  "price": 24.0
                 },
                 {
                   "name": "Draw",
@@ -854,11 +854,11 @@
                 },
                 {
                   "name": "Inter Milan",
-                  "price": 1.73
+                  "price": 1.69
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.75
                 }
               ]
             }
@@ -872,15 +872,15 @@
               "outcomes": [
                 {
                   "name": "Austria Wien",
-                  "price": 3.86
+                  "price": 3.91
                 },
                 {
                   "name": "Inter Milan",
-                  "price": 1.69
+                  "price": 1.68
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 3.92
                 }
               ]
             }
@@ -894,15 +894,15 @@
               "outcomes": [
                 {
                   "name": "Austria Wien",
-                  "price": 3.8
+                  "price": 3.85
                 },
                 {
                   "name": "Inter Milan",
-                  "price": 1.59
+                  "price": 1.56
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.55
                 }
               ]
             }
@@ -916,15 +916,15 @@
               "outcomes": [
                 {
                   "name": "Austria Wien",
-                  "price": 4.0
+                  "price": 4.1
                 },
                 {
                   "name": "Inter Milan",
-                  "price": 1.66
+                  "price": 1.63
                 },
                 {
                   "name": "Draw",
-                  "price": 3.7
+                  "price": 3.8
                 }
               ]
             }
