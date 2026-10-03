@@ -1,245 +1,7 @@
 {
-  "采集时间": "2026-10-03T02:36:54.589854",
-  "比赛数": 10,
+  "采集时间": "2026-10-03T10:44:09.613795",
+  "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "a2d74fa3b2e3d3d3f8cada446c2108b4",
-      "sport_key": "soccer_argentina_primera_division",
-      "commence_time": "2026-10-03T00:30:00Z",
-      "home_team": "Independiente Rivadavia",
-      "away_team": "Gimnasia La Plata",
-      "bookmakers": [
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Gimnasia La Plata",
-                  "price": 20.0
-                },
-                {
-                  "name": "Independiente Rivadavia",
-                  "price": 13.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.07
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Gimnasia La Plata",
-                  "price": 23.0
-                },
-                {
-                  "name": "Independiente Rivadavia",
-                  "price": 16.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.04
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Gimnasia La Plata",
-                  "price": 10.25
-                },
-                {
-                  "name": "Independiente Rivadavia",
-                  "price": 7.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.11
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Gimnasia La Plata",
-                  "price": 36.0
-                },
-                {
-                  "name": "Independiente Rivadavia",
-                  "price": 67.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.01
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Gimnasia La Plata",
-                  "price": 1.01
-                },
-                {
-                  "name": "Independiente Rivadavia",
-                  "price": 1.01
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.01
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8bf10103e8eea18dc1511825ec1240ab",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-10-03T00:35:00Z",
-      "home_team": "Fortaleza",
-      "away_team": "Nautico PE",
-      "bookmakers": [
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fortaleza",
-                  "price": 13.0
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 16.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.02
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fortaleza",
-                  "price": 19.0
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 36.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.02
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fortaleza",
-                  "price": 12.0
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 18.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.02
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fortaleza",
-                  "price": 13.0
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 26.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.04
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fortaleza",
-                  "price": 13.0
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 26.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 1.04
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "898497eabfc5d6f5594b2e9f887548d4",
       "sport_key": "soccer_england_league2",
@@ -277,11 +39,11 @@
               "outcomes": [
                 {
                   "name": "Chesterfield FC",
-                  "price": 1.7
+                  "price": 1.65
                 },
                 {
                   "name": "Tranmere Rovers",
-                  "price": 4.4
+                  "price": 4.75
                 },
                 {
                   "name": "Draw",
@@ -303,11 +65,11 @@
                 },
                 {
                   "name": "Tranmere Rovers",
-                  "price": 4.49
+                  "price": 4.46
                 },
                 {
                   "name": "Draw",
-                  "price": 4.22
+                  "price": 4.25
                 }
               ]
             }
@@ -321,15 +83,15 @@
               "outcomes": [
                 {
                   "name": "Chesterfield FC",
-                  "price": 1.7
+                  "price": 1.66
                 },
                 {
                   "name": "Tranmere Rovers",
-                  "price": 4.4
+                  "price": 4.58
                 },
                 {
                   "name": "Draw",
-                  "price": 4.26
+                  "price": 4.38
                 }
               ]
             }
@@ -347,11 +109,11 @@
                 },
                 {
                   "name": "Tranmere Rovers",
-                  "price": 4.4
+                  "price": 4.33
                 },
                 {
                   "name": "Draw",
-                  "price": 3.96
+                  "price": 4.0
                 }
               ]
             }
@@ -374,11 +136,11 @@
               "outcomes": [
                 {
                   "name": "Albacete",
-                  "price": 2.55
+                  "price": 2.45
                 },
                 {
                   "name": "SD Eibar",
-                  "price": 2.43
+                  "price": 2.5
                 },
                 {
                   "name": "Draw",
@@ -396,15 +158,15 @@
               "outcomes": [
                 {
                   "name": "Albacete",
-                  "price": 2.75
+                  "price": 2.45
                 },
                 {
                   "name": "SD Eibar",
-                  "price": 2.38
+                  "price": 2.62
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 3.35
                 }
               ]
             }
@@ -418,11 +180,11 @@
               "outcomes": [
                 {
                   "name": "Albacete",
-                  "price": 2.7
+                  "price": 2.55
                 },
                 {
                   "name": "SD Eibar",
-                  "price": 2.55
+                  "price": 2.65
                 },
                 {
                   "name": "Draw",
@@ -440,15 +202,15 @@
               "outcomes": [
                 {
                   "name": "Albacete",
-                  "price": 2.75
+                  "price": 2.45
                 },
                 {
                   "name": "SD Eibar",
-                  "price": 2.38
+                  "price": 2.62
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 3.35
                 }
               ]
             }
@@ -462,11 +224,11 @@
               "outcomes": [
                 {
                   "name": "Albacete",
-                  "price": 2.7
+                  "price": 2.55
                 },
                 {
                   "name": "SD Eibar",
-                  "price": 2.55
+                  "price": 2.65
                 },
                 {
                   "name": "Draw",
@@ -493,7 +255,7 @@
               "outcomes": [
                 {
                   "name": "FSV Mainz 05",
-                  "price": 5.5
+                  "price": 5.8
                 },
                 {
                   "name": "RB Leipzig",
@@ -501,7 +263,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.7
+                  "price": 4.5
                 }
               ]
             }
@@ -515,15 +277,15 @@
               "outcomes": [
                 {
                   "name": "FSV Mainz 05",
-                  "price": 6.1
+                  "price": 5.95
                 },
                 {
                   "name": "RB Leipzig",
-                  "price": 1.45
+                  "price": 1.46
                 },
                 {
                   "name": "Draw",
-                  "price": 5.14
+                  "price": 5.08
                 }
               ]
             }
@@ -537,15 +299,15 @@
               "outcomes": [
                 {
                   "name": "FSV Mainz 05",
-                  "price": 5.57
+                  "price": 5.32
                 },
                 {
                   "name": "RB Leipzig",
-                  "price": 1.44
+                  "price": 1.5
                 },
                 {
                   "name": "Draw",
-                  "price": 4.54
+                  "price": 4.48
                 }
               ]
             }
@@ -612,7 +374,7 @@
               "outcomes": [
                 {
                   "name": "Albania",
-                  "price": 2.95
+                  "price": 3.15
                 },
                 {
                   "name": "Finland",
@@ -620,7 +382,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.05
                 }
               ]
             }
@@ -634,11 +396,11 @@
               "outcomes": [
                 {
                   "name": "Albania",
-                  "price": 3.05
+                  "price": 3.1
                 },
                 {
                   "name": "Finland",
-                  "price": 2.32
+                  "price": 2.33
                 },
                 {
                   "name": "Draw",
@@ -656,15 +418,15 @@
               "outcomes": [
                 {
                   "name": "Albania",
-                  "price": 3.0
+                  "price": 3.2
                 },
                 {
                   "name": "Finland",
-                  "price": 2.25
+                  "price": 2.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.1
                 }
               ]
             }
@@ -682,7 +444,7 @@
                 },
                 {
                   "name": "Finland",
-                  "price": 2.4
+                  "price": 2.43
                 },
                 {
                   "name": "Draw",
@@ -700,15 +462,15 @@
               "outcomes": [
                 {
                   "name": "Albania",
-                  "price": 3.06
+                  "price": 3.14
                 },
                 {
                   "name": "Finland",
-                  "price": 2.32
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 2.98
                 }
               ]
             }
@@ -731,15 +493,15 @@
               "outcomes": [
                 {
                   "name": "1. FC Köln",
-                  "price": 1.6
+                  "price": 1.51
                 },
                 {
                   "name": "SC Freiburg",
-                  "price": 4.25
+                  "price": 4.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.9
                 }
               ]
             }
@@ -753,15 +515,15 @@
               "outcomes": [
                 {
                   "name": "1. FC Köln",
-                  "price": 1.6
+                  "price": 1.51
                 },
                 {
                   "name": "SC Freiburg",
-                  "price": 4.25
+                  "price": 4.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.9
                 }
               ]
             }
@@ -775,15 +537,15 @@
               "outcomes": [
                 {
                   "name": "1. FC Köln",
-                  "price": 1.6
+                  "price": 1.51
                 },
                 {
                   "name": "SC Freiburg",
-                  "price": 4.25
+                  "price": 4.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.9
                 }
               ]
             }
@@ -819,11 +581,11 @@
               "outcomes": [
                 {
                   "name": "1. FC Köln",
-                  "price": 1.64
+                  "price": 1.65
                 },
                 {
                   "name": "SC Freiburg",
-                  "price": 4.67
+                  "price": 4.66
                 },
                 {
                   "name": "Draw",
@@ -850,15 +612,15 @@
               "outcomes": [
                 {
                   "name": "Accrington Stanley",
-                  "price": 2.3
+                  "price": 2.45
                 },
                 {
                   "name": "Cheltenham Town",
-                  "price": 2.85
+                  "price": 2.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.6
                 }
               ]
             }
@@ -872,15 +634,15 @@
               "outcomes": [
                 {
                   "name": "Accrington Stanley",
-                  "price": 2.37
+                  "price": 2.56
                 },
                 {
                   "name": "Cheltenham Town",
-                  "price": 2.86
+                  "price": 2.63
                 },
                 {
                   "name": "Draw",
-                  "price": 3.62
+                  "price": 3.61
                 }
               ]
             }
@@ -894,15 +656,15 @@
               "outcomes": [
                 {
                   "name": "Accrington Stanley",
-                  "price": 2.26
+                  "price": 2.41
                 },
                 {
                   "name": "Cheltenham Town",
-                  "price": 2.8
+                  "price": 2.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 3.3
                 }
               ]
             }
@@ -916,11 +678,11 @@
               "outcomes": [
                 {
                   "name": "Accrington Stanley",
-                  "price": 2.25
+                  "price": 2.43
                 },
                 {
                   "name": "Cheltenham Town",
-                  "price": 2.86
+                  "price": 2.62
                 },
                 {
                   "name": "Draw",
@@ -938,15 +700,15 @@
               "outcomes": [
                 {
                   "name": "Accrington Stanley",
-                  "price": 2.26
+                  "price": 2.46
                 },
                 {
                   "name": "Cheltenham Town",
-                  "price": 2.87
+                  "price": 2.61
                 },
                 {
                   "name": "Draw",
-                  "price": 3.87
+                  "price": 3.81
                 }
               ]
             }
@@ -969,15 +731,15 @@
               "outcomes": [
                 {
                   "name": "Avai",
-                  "price": 2.48
+                  "price": 2.45
                 },
                 {
                   "name": "Ceará",
-                  "price": 2.88
+                  "price": 2.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.05
                 }
               ]
             }
@@ -991,15 +753,15 @@
               "outcomes": [
                 {
                   "name": "Avai",
-                  "price": 2.48
+                  "price": 2.45
                 },
                 {
                   "name": "Ceará",
-                  "price": 2.88
+                  "price": 2.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.05
                 }
               ]
             }
@@ -1021,7 +783,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 2.95
+                  "price": 2.9
                 }
               ]
             }
@@ -1035,15 +797,15 @@
               "outcomes": [
                 {
                   "name": "Avai",
-                  "price": 2.55
+                  "price": 2.68
                 },
                 {
                   "name": "Ceará",
-                  "price": 2.75
+                  "price": 3.05
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 2.95
                 }
               ]
             }
@@ -1057,15 +819,15 @@
               "outcomes": [
                 {
                   "name": "Avai",
-                  "price": 2.6
+                  "price": 2.58
                 },
                 {
                   "name": "Ceará",
-                  "price": 2.9
+                  "price": 3.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.0
+                  "price": 2.94
                 }
               ]
             }
@@ -1088,11 +850,11 @@
               "outcomes": [
                 {
                   "name": "Bradford City",
-                  "price": 3.1
+                  "price": 3.4
                 },
                 {
                   "name": "Reading",
-                  "price": 2.28
+                  "price": 2.12
                 },
                 {
                   "name": "Draw",
@@ -1110,11 +872,11 @@
               "outcomes": [
                 {
                   "name": "Bradford City",
-                  "price": 3.1
+                  "price": 3.4
                 },
                 {
                   "name": "Reading",
-                  "price": 2.28
+                  "price": 2.12
                 },
                 {
                   "name": "Draw",
@@ -1132,11 +894,11 @@
               "outcomes": [
                 {
                   "name": "Bradford City",
-                  "price": 3.0
+                  "price": 3.25
                 },
                 {
                   "name": "Reading",
-                  "price": 2.2
+                  "price": 2.05
                 },
                 {
                   "name": "Draw",
@@ -1154,11 +916,11 @@
               "outcomes": [
                 {
                   "name": "Bradford City",
-                  "price": 3.15
+                  "price": 3.5
                 },
                 {
                   "name": "Reading",
-                  "price": 2.17
+                  "price": 2.05
                 },
                 {
                   "name": "Draw",
@@ -1176,11 +938,11 @@
               "outcomes": [
                 {
                   "name": "Bradford City",
-                  "price": 3.1
+                  "price": 3.25
                 },
                 {
                   "name": "Reading",
-                  "price": 2.11
+                  "price": 2.04
                 },
                 {
                   "name": "Draw",
