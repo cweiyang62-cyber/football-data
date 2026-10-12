@@ -1,126 +1,7 @@
 {
-  "采集时间": "2026-10-12T02:56:59.089827",
+  "采集时间": "2026-10-12T13:42:01.333248",
   "比赛数": 9,
   "赔率数据": [
-    {
-      "id": "496f7bb4b48b08f7a1ac448b056acb21",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-10-12T01:15:00Z",
-      "home_team": "Pumas",
-      "away_team": "Cruz Azul",
-      "bookmakers": [
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cruz Azul",
-                  "price": 4.5
-                },
-                {
-                  "name": "Pumas",
-                  "price": 1.98
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Marathon Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cruz Azul",
-                  "price": 4.6
-                },
-                {
-                  "name": "Pumas",
-                  "price": 2.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.59
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cruz Azul",
-                  "price": 4.6
-                },
-                {
-                  "name": "Pumas",
-                  "price": 2.02
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cruz Azul",
-                  "price": 4.6
-                },
-                {
-                  "name": "Pumas",
-                  "price": 2.02
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Tipico",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cruz Azul",
-                  "price": 5.0
-                },
-                {
-                  "name": "Pumas",
-                  "price": 1.95
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.6
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "8fd7558e7ee137b7c2df589a99585840",
       "sport_key": "soccer_spain_segunda_division",
@@ -129,28 +10,6 @@
       "away_team": "Albacete",
       "bookmakers": [
         {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Albacete",
-                  "price": 3.5
-                },
-                {
-                  "name": "Real Valladolid CF",
-                  "price": 1.77
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Nordic Bet",
           "markets": [
             {
@@ -158,15 +17,15 @@
               "outcomes": [
                 {
                   "name": "Albacete",
-                  "price": 3.65
+                  "price": 26.0
                 },
                 {
                   "name": "Real Valladolid CF",
-                  "price": 1.95
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 26.0
                 }
               ]
             }
@@ -180,15 +39,15 @@
               "outcomes": [
                 {
                   "name": "Albacete",
-                  "price": 3.65
+                  "price": 26.0
                 },
                 {
                   "name": "Real Valladolid CF",
-                  "price": 1.95
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 26.0
                 }
               ]
             }
@@ -202,37 +61,15 @@
               "outcomes": [
                 {
                   "name": "Albacete",
-                  "price": 3.68
+                  "price": 100.0
                 },
                 {
                   "name": "Real Valladolid CF",
-                  "price": 1.91
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Albacete",
-                  "price": 3.45
-                },
-                {
-                  "name": "Real Valladolid CF",
-                  "price": 1.9
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
+                  "price": 40.0
                 }
               ]
             }
@@ -255,15 +92,15 @@
               "outcomes": [
                 {
                   "name": "Burgos CF",
-                  "price": 2.1
+                  "price": 2.25
                 },
                 {
                   "name": "Granada CF",
-                  "price": 2.8
+                  "price": 2.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.0
+                  "price": 2.85
                 }
               ]
             }
@@ -277,15 +114,15 @@
               "outcomes": [
                 {
                   "name": "Burgos CF",
-                  "price": 2.35
+                  "price": 2.55
                 },
                 {
                   "name": "Granada CF",
-                  "price": 2.95
+                  "price": 2.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.05
+                  "price": 3.0
                 }
               ]
             }
@@ -299,15 +136,15 @@
               "outcomes": [
                 {
                   "name": "Burgos CF",
-                  "price": 2.35
+                  "price": 2.55
                 },
                 {
                   "name": "Granada CF",
-                  "price": 2.95
+                  "price": 2.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.05
+                  "price": 3.0
                 }
               ]
             }
@@ -321,15 +158,15 @@
               "outcomes": [
                 {
                   "name": "Burgos CF",
-                  "price": 2.27
+                  "price": 2.45
                 },
                 {
                   "name": "Granada CF",
-                  "price": 2.95
+                  "price": 2.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.13
+                  "price": 3.05
                 }
               ]
             }
@@ -343,15 +180,15 @@
               "outcomes": [
                 {
                   "name": "Burgos CF",
-                  "price": 2.25
+                  "price": 2.45
                 },
                 {
                   "name": "Granada CF",
-                  "price": 2.8
+                  "price": 2.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.0
                 }
               ]
             }
@@ -462,15 +299,15 @@
               "outcomes": [
                 {
                   "name": "IF Gnistan",
-                  "price": 2.65
+                  "price": 2.45
                 },
                 {
                   "name": "VPS Vaasa",
-                  "price": 2.1
+                  "price": 2.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.2
                 }
               ]
             }
@@ -493,11 +330,11 @@
               "outcomes": [
                 {
                   "name": "Kalamata FC",
-                  "price": 12.0
+                  "price": 11.0
                 },
                 {
                   "name": "PAOK Thessaloniki",
-                  "price": 1.18
+                  "price": 1.2
                 },
                 {
                   "name": "Draw",
@@ -519,11 +356,11 @@
                 },
                 {
                   "name": "PAOK Thessaloniki",
-                  "price": 1.16
+                  "price": 1.17
                 },
                 {
                   "name": "Draw",
-                  "price": 6.5
+                  "price": 6.25
                 }
               ]
             }
@@ -541,11 +378,11 @@
                 },
                 {
                   "name": "PAOK Thessaloniki",
-                  "price": 1.17
+                  "price": 1.18
                 },
                 {
                   "name": "Draw",
-                  "price": 6.75
+                  "price": 6.5
                 }
               ]
             }
@@ -559,11 +396,11 @@
               "outcomes": [
                 {
                   "name": "Kalamata FC",
-                  "price": 12.0
+                  "price": 11.0
                 },
                 {
                   "name": "PAOK Thessaloniki",
-                  "price": 1.18
+                  "price": 1.2
                 },
                 {
                   "name": "Draw",
@@ -581,7 +418,7 @@
               "outcomes": [
                 {
                   "name": "Kalamata FC",
-                  "price": 13.0
+                  "price": 14.0
                 },
                 {
                   "name": "PAOK Thessaloniki",
@@ -589,7 +426,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
+                  "price": 6.8
                 }
               ]
             }
@@ -612,15 +449,15 @@
               "outcomes": [
                 {
                   "name": "AC Oulu",
-                  "price": 3.75
+                  "price": 4.0
                 },
                 {
                   "name": "HJK Helsinki",
-                  "price": 1.63
+                  "price": 1.57
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.5
                 }
               ]
             }
@@ -634,15 +471,15 @@
               "outcomes": [
                 {
                   "name": "AC Oulu",
-                  "price": 4.1
+                  "price": 4.3
                 },
                 {
                   "name": "HJK Helsinki",
-                  "price": 1.78
+                  "price": 1.67
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.7
                 }
               ]
             }
@@ -656,15 +493,15 @@
               "outcomes": [
                 {
                   "name": "AC Oulu",
-                  "price": 3.85
+                  "price": 4.2
                 },
                 {
                   "name": "HJK Helsinki",
-                  "price": 1.7
+                  "price": 1.64
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.65
                 }
               ]
             }
@@ -678,15 +515,15 @@
               "outcomes": [
                 {
                   "name": "AC Oulu",
-                  "price": 4.1
+                  "price": 4.3
                 },
                 {
                   "name": "HJK Helsinki",
-                  "price": 1.78
+                  "price": 1.67
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.7
                 }
               ]
             }
@@ -700,11 +537,11 @@
               "outcomes": [
                 {
                   "name": "AC Oulu",
-                  "price": 4.0
+                  "price": 4.2
                 },
                 {
                   "name": "HJK Helsinki",
-                  "price": 1.57
+                  "price": 1.54
                 },
                 {
                   "name": "Draw",
@@ -731,15 +568,15 @@
               "outcomes": [
                 {
                   "name": "Motor Lublin",
-                  "price": 2.96
+                  "price": 2.89
                 },
                 {
                   "name": "Radomiak Radom",
-                  "price": 2.49
+                  "price": 2.54
                 },
                 {
                   "name": "Draw",
-                  "price": 3.28
+                  "price": 3.34
                 }
               ]
             }
@@ -753,15 +590,15 @@
               "outcomes": [
                 {
                   "name": "Motor Lublin",
-                  "price": 2.65
+                  "price": 2.72
                 },
                 {
                   "name": "Radomiak Radom",
-                  "price": 2.32
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.4
                 }
               ]
             }
@@ -775,7 +612,7 @@
               "outcomes": [
                 {
                   "name": "Motor Lublin",
-                  "price": 2.6
+                  "price": 2.65
                 },
                 {
                   "name": "Radomiak Radom",
@@ -783,7 +620,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.35
                 }
               ]
             }
@@ -797,15 +634,15 @@
               "outcomes": [
                 {
                   "name": "Motor Lublin",
-                  "price": 2.66
+                  "price": 2.62
                 },
                 {
                   "name": "Radomiak Radom",
-                  "price": 2.28
+                  "price": 2.33
                 },
                 {
                   "name": "Draw",
-                  "price": 3.68
+                  "price": 3.62
                 }
               ]
             }
@@ -819,15 +656,15 @@
               "outcomes": [
                 {
                   "name": "Motor Lublin",
-                  "price": 2.65
+                  "price": 2.72
                 },
                 {
                   "name": "Radomiak Radom",
-                  "price": 2.32
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.4
                 }
               ]
             }
@@ -854,7 +691,7 @@
                 },
                 {
                   "name": "Venezia",
-                  "price": 5.3
+                  "price": 5.2
                 },
                 {
                   "name": "Draw",
@@ -872,15 +709,15 @@
               "outcomes": [
                 {
                   "name": "Atalanta BC",
-                  "price": 1.56
+                  "price": 1.54
                 },
                 {
                   "name": "Venezia",
-                  "price": 5.75
+                  "price": 5.8
                 },
                 {
                   "name": "Draw",
-                  "price": 4.5
+                  "price": 4.7
                 }
               ]
             }
@@ -894,7 +731,7 @@
               "outcomes": [
                 {
                   "name": "Atalanta BC",
-                  "price": 1.56
+                  "price": 1.57
                 },
                 {
                   "name": "Venezia",
@@ -902,7 +739,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.5
+                  "price": 4.6
                 }
               ]
             }
@@ -920,7 +757,7 @@
                 },
                 {
                   "name": "Venezia",
-                  "price": 5.3
+                  "price": 5.2
                 },
                 {
                   "name": "Draw",
@@ -938,15 +775,15 @@
               "outcomes": [
                 {
                   "name": "Atalanta BC",
-                  "price": 1.54
+                  "price": 1.56
                 },
                 {
                   "name": "Venezia",
-                  "price": 6.32
+                  "price": 5.87
                 },
                 {
                   "name": "Draw",
-                  "price": 4.35
+                  "price": 4.47
                 }
               ]
             }
@@ -969,15 +806,15 @@
               "outcomes": [
                 {
                   "name": "Oviedo",
-                  "price": 2.0
+                  "price": 2.2
                 },
                 {
                   "name": "SD Eibar",
-                  "price": 3.0
+                  "price": 2.75
                 },
                 {
                   "name": "Draw",
-                  "price": 2.95
+                  "price": 2.85
                 }
               ]
             }
@@ -991,15 +828,15 @@
               "outcomes": [
                 {
                   "name": "Oviedo",
-                  "price": 2.17
+                  "price": 2.28
                 },
                 {
                   "name": "SD Eibar",
-                  "price": 3.07
+                  "price": 2.98
                 },
                 {
                   "name": "Draw",
-                  "price": 3.02
+                  "price": 3.07
                 }
               ]
             }
@@ -1013,15 +850,15 @@
               "outcomes": [
                 {
                   "name": "Oviedo",
-                  "price": 2.25
+                  "price": 2.35
                 },
                 {
                   "name": "SD Eibar",
-                  "price": 3.15
+                  "price": 2.95
                 },
                 {
                   "name": "Draw",
-                  "price": 3.05
+                  "price": 3.0
                 }
               ]
             }
@@ -1035,15 +872,15 @@
               "outcomes": [
                 {
                   "name": "Oviedo",
-                  "price": 2.25
+                  "price": 2.35
                 },
                 {
                   "name": "SD Eibar",
-                  "price": 3.15
+                  "price": 2.95
                 },
                 {
                   "name": "Draw",
-                  "price": 3.05
+                  "price": 3.0
                 }
               ]
             }
@@ -1057,15 +894,134 @@
               "outcomes": [
                 {
                   "name": "Oviedo",
-                  "price": 2.15
+                  "price": 2.25
                 },
                 {
                   "name": "SD Eibar",
-                  "price": 3.0
+                  "price": 2.9
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "966d2e2d25447561201d5c4c2efdb8f1",
+      "sport_key": "soccer_denmark_superliga",
+      "commence_time": "2026-10-12T17:00:00Z",
+      "home_team": "AGF Aarhus",
+      "away_team": "SonderjyskE",
+      "bookmakers": [
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AGF Aarhus",
+                  "price": 1.47
+                },
+                {
+                  "name": "SonderjyskE",
+                  "price": 4.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AGF Aarhus",
+                  "price": 1.53
+                },
+                {
+                  "name": "SonderjyskE",
+                  "price": 5.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AGF Aarhus",
+                  "price": 1.41
+                },
+                {
+                  "name": "SonderjyskE",
+                  "price": 5.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AGF Aarhus",
+                  "price": 1.49
+                },
+                {
+                  "name": "SonderjyskE",
+                  "price": 5.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "AGF Aarhus",
+                  "price": 1.47
+                },
+                {
+                  "name": "SonderjyskE",
+                  "price": 5.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
                 }
               ]
             }
