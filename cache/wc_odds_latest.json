@@ -1,580 +1,7 @@
 {
-  "采集时间": "2026-10-12T23:53:06.941871",
-  "比赛数": 11,
+  "采集时间": "2026-10-13T04:12:09.594390",
+  "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "bd18eb3a33d08705db751fa26a809769",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-10-12T22:00:00Z",
-      "home_team": "Grêmio Novorizontino",
-      "away_team": "Ponte Preta",
-      "bookmakers": [
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Grêmio Novorizontino",
-                  "price": 1.0
-                },
-                {
-                  "name": "Ponte Preta",
-                  "price": 26.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 26.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Grêmio Novorizontino",
-                  "price": 1.0
-                },
-                {
-                  "name": "Ponte Preta",
-                  "price": 26.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 26.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Grêmio Novorizontino",
-                  "price": 1.0
-                },
-                {
-                  "name": "Ponte Preta",
-                  "price": 151.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 56.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Grêmio Novorizontino",
-                  "price": 1.01
-                },
-                {
-                  "name": "Ponte Preta",
-                  "price": 180.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 50.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2d643e9113e7d929c27231e97e84f798",
-      "sport_key": "soccer_brazil_campeonato",
-      "commence_time": "2026-10-12T22:30:00Z",
-      "home_team": "Chapecoense",
-      "away_team": "Atletico Paranaense",
-      "bookmakers": [
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atletico Paranaense",
-                  "price": 1.0
-                },
-                {
-                  "name": "Chapecoense",
-                  "price": 45.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 26.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atletico Paranaense",
-                  "price": 1.01
-                },
-                {
-                  "name": "Chapecoense",
-                  "price": 110.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 36.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atletico Paranaense",
-                  "price": 1.01
-                },
-                {
-                  "name": "Chapecoense",
-                  "price": 110.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 38.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atletico Paranaense",
-                  "price": 1.0
-                },
-                {
-                  "name": "Chapecoense",
-                  "price": 126.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 46.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atletico Paranaense",
-                  "price": 1.0
-                },
-                {
-                  "name": "Chapecoense",
-                  "price": 80.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 35.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "652b53b341c7cbde5f5d355a73be6f34",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-10-12T22:33:00Z",
-      "home_team": "Criciuma",
-      "away_team": "América Mineiro",
-      "bookmakers": [
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América Mineiro",
-                  "price": 29.0
-                },
-                {
-                  "name": "Criciuma",
-                  "price": 1.04
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América Mineiro",
-                  "price": 30.0
-                },
-                {
-                  "name": "Criciuma",
-                  "price": 1.09
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América Mineiro",
-                  "price": 29.0
-                },
-                {
-                  "name": "Criciuma",
-                  "price": 1.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 7.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América Mineiro",
-                  "price": 36.0
-                },
-                {
-                  "name": "Criciuma",
-                  "price": 1.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "América Mineiro",
-                  "price": 36.0
-                },
-                {
-                  "name": "Criciuma",
-                  "price": 1.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.2
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "37ba9962f9c2f9ab9b7e09045f76d7ad",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-10-13T00:00:00Z",
-      "home_team": "Botafogo-SP",
-      "away_team": "Ceará",
-      "bookmakers": [
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 2.12
-                },
-                {
-                  "name": "Ceará",
-                  "price": 3.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 2.2
-                },
-                {
-                  "name": "Ceará",
-                  "price": 3.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 2.2
-                },
-                {
-                  "name": "Ceará",
-                  "price": 3.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 2.22
-                },
-                {
-                  "name": "Ceará",
-                  "price": 3.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.95
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 2.22
-                },
-                {
-                  "name": "Ceará",
-                  "price": 3.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.95
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8e559505d4499c2eea587a6193e38bd8",
-      "sport_key": "soccer_brazil_campeonato",
-      "commence_time": "2026-10-13T00:00:00Z",
-      "home_team": "Bragantino-SP",
-      "away_team": "Cruzeiro",
-      "bookmakers": [
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bragantino-SP",
-                  "price": 2.06
-                },
-                {
-                  "name": "Cruzeiro",
-                  "price": 3.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bragantino-SP",
-                  "price": 2.12
-                },
-                {
-                  "name": "Cruzeiro",
-                  "price": 3.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bragantino-SP",
-                  "price": 2.12
-                },
-                {
-                  "name": "Cruzeiro",
-                  "price": 3.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bragantino-SP",
-                  "price": 2.05
-                },
-                {
-                  "name": "Cruzeiro",
-                  "price": 2.95
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bragantino-SP",
-                  "price": 2.0
-                },
-                {
-                  "name": "Cruzeiro",
-                  "price": 2.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "2b0a946cac613732fcbf57ce931490a1",
       "sport_key": "soccer_uefa_champs_league",
@@ -656,15 +83,15 @@
               "outcomes": [
                 {
                   "name": "RC Lens",
-                  "price": 2.55
+                  "price": 2.57
                 },
                 {
                   "name": "Sporting Lisbon",
-                  "price": 2.65
+                  "price": 2.64
                 },
                 {
                   "name": "Draw",
-                  "price": 3.79
+                  "price": 3.78
                 }
               ]
             }
@@ -678,15 +105,15 @@
               "outcomes": [
                 {
                   "name": "RC Lens",
-                  "price": 2.4
+                  "price": 2.47
                 },
                 {
                   "name": "Sporting Lisbon",
-                  "price": 2.57
+                  "price": 2.52
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.75
                 }
               ]
             }
@@ -801,7 +228,7 @@
                 },
                 {
                   "name": "Slavia Praha",
-                  "price": 2.1
+                  "price": 2.12
                 },
                 {
                   "name": "Draw",
@@ -1132,7 +559,7 @@
               "outcomes": [
                 {
                   "name": "GIF Sundsvall",
-                  "price": 11.08
+                  "price": 11.19
                 },
                 {
                   "name": "IFK Norrkoping",
@@ -1140,7 +567,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 6.79
+                  "price": 6.65
                 }
               ]
             }
@@ -1158,11 +585,11 @@
                 },
                 {
                   "name": "IFK Norrkoping",
-                  "price": 1.2
+                  "price": 1.19
                 },
                 {
                   "name": "Draw",
-                  "price": 6.6
+                  "price": 6.4
                 }
               ]
             }
@@ -1273,15 +700,253 @@
               "outcomes": [
                 {
                   "name": "Hansa Rostock",
-                  "price": 1.65
+                  "price": 1.62
                 },
                 {
                   "name": "SV Meppen",
-                  "price": 4.2
+                  "price": 4.3
                 },
                 {
                   "name": "Draw",
                   "price": 4.05
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18dae9dfb79955fdd409efe9cfd20b1b",
+      "sport_key": "soccer_germany_liga3",
+      "commence_time": "2026-10-13T17:00:00Z",
+      "home_team": "Rot-Weiss Essen",
+      "away_team": "SC Fortuna Köln",
+      "bookmakers": [
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Rot-Weiss Essen",
+                  "price": 1.47
+                },
+                {
+                  "name": "SC Fortuna Köln",
+                  "price": 5.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Rot-Weiss Essen",
+                  "price": 1.43
+                },
+                {
+                  "name": "SC Fortuna Köln",
+                  "price": 5.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Rot-Weiss Essen",
+                  "price": 1.49
+                },
+                {
+                  "name": "SC Fortuna Köln",
+                  "price": 5.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Rot-Weiss Essen",
+                  "price": 1.49
+                },
+                {
+                  "name": "SC Fortuna Köln",
+                  "price": 5.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Rot-Weiss Essen",
+                  "price": 1.5
+                },
+                {
+                  "name": "SC Fortuna Köln",
+                  "price": 5.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "86c6553214ae96b3dfd9ad28717e7cf2",
+      "sport_key": "soccer_germany_liga3",
+      "commence_time": "2026-10-13T17:00:00Z",
+      "home_team": "VfB Stuttgart II",
+      "away_team": "TSG Hoffenheim II",
+      "bookmakers": [
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "TSG Hoffenheim II",
+                  "price": 2.05
+                },
+                {
+                  "name": "VfB Stuttgart II",
+                  "price": 3.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "TSG Hoffenheim II",
+                  "price": 2.12
+                },
+                {
+                  "name": "VfB Stuttgart II",
+                  "price": 2.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "TSG Hoffenheim II",
+                  "price": 2.2
+                },
+                {
+                  "name": "VfB Stuttgart II",
+                  "price": 2.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "TSG Hoffenheim II",
+                  "price": 2.05
+                },
+                {
+                  "name": "VfB Stuttgart II",
+                  "price": 2.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BetOnline.ag",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "TSG Hoffenheim II",
+                  "price": 2.08
+                },
+                {
+                  "name": "VfB Stuttgart II",
+                  "price": 3.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
                 }
               ]
             }
