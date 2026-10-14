@@ -1,126 +1,7 @@
 {
-  "采集时间": "2026-10-13T22:01:14.078600",
-  "比赛数": 8,
+  "采集时间": "2026-10-14T02:24:55.823300",
+  "比赛数": 9,
   "赔率数据": [
-    {
-      "id": "94e639ba80f59810a42910e559c8f38f",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-10-13T22:30:00Z",
-      "home_team": "Athletic Club (MG)",
-      "away_team": "Londrina",
-      "bookmakers": [
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Athletic Club (MG)",
-                  "price": 1.91
-                },
-                {
-                  "name": "Londrina",
-                  "price": 3.55
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Athletic Club (MG)",
-                  "price": 1.97
-                },
-                {
-                  "name": "Londrina",
-                  "price": 3.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Athletic Club (MG)",
-                  "price": 1.97
-                },
-                {
-                  "name": "Londrina",
-                  "price": 3.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Athletic Club (MG)",
-                  "price": 1.95
-                },
-                {
-                  "name": "Londrina",
-                  "price": 3.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Athletic Club (MG)",
-                  "price": 1.95
-                },
-                {
-                  "name": "Londrina",
-                  "price": 3.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "91a0993b451be4a3a88dd1f1a5af88d3",
       "sport_key": "soccer_conmebol_copa_sudamericana",
@@ -136,81 +17,15 @@
               "outcomes": [
                 {
                   "name": "Boca Juniors",
-                  "price": 1.85
+                  "price": 47.0
                 },
                 {
                   "name": "Vasco da Gama",
-                  "price": 4.65
+                  "price": 1.14
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Codere (IT)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Boca Juniors",
-                  "price": 1.87
-                },
-                {
-                  "name": "Vasco da Gama",
-                  "price": 4.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Boca Juniors",
-                  "price": 1.92
-                },
-                {
-                  "name": "Vasco da Gama",
-                  "price": 5.21
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.26
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Boca Juniors",
-                  "price": 1.72
-                },
-                {
-                  "name": "Vasco da Gama",
-                  "price": 4.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
+                  "price": 5.35
                 }
               ]
             }
@@ -224,15 +39,81 @@
               "outcomes": [
                 {
                   "name": "Boca Juniors",
-                  "price": 1.94
+                  "price": 60.0
                 },
                 {
                   "name": "Vasco da Gama",
-                  "price": 5.2
+                  "price": 1.22
                 },
                 {
                   "name": "Draw",
-                  "price": 3.25
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Boca Juniors",
+                  "price": 46.0
+                },
+                {
+                  "name": "Vasco da Gama",
+                  "price": 1.03
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Boca Juniors",
+                  "price": 71.0
+                },
+                {
+                  "name": "Vasco da Gama",
+                  "price": 1.06
+                },
+                {
+                  "name": "Draw",
+                  "price": 7.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Boca Juniors",
+                  "price": 141.0
+                },
+                {
+                  "name": "Vasco da Gama",
+                  "price": 1.08
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.5
                 }
               ]
             }
@@ -247,28 +128,6 @@
       "home_team": "Feyenoord",
       "away_team": "Como",
       "bookmakers": [
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Como",
-                  "price": 1.93
-                },
-                {
-                  "name": "Feyenoord",
-                  "price": 3.69
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.41
-                }
-              ]
-            }
-          ]
-        },
         {
           "name": "Marathon Bet",
           "markets": [
@@ -299,7 +158,7 @@
               "outcomes": [
                 {
                   "name": "Como",
-                  "price": 1.99
+                  "price": 1.98
                 },
                 {
                   "name": "Feyenoord",
@@ -307,7 +166,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
+                  "price": 4.3
                 }
               ]
             }
@@ -325,11 +184,11 @@
                 },
                 {
                   "name": "Feyenoord",
-                  "price": 3.57
+                  "price": 3.56
                 },
                 {
                   "name": "Draw",
-                  "price": 4.3
+                  "price": 4.29
                 }
               ]
             }
@@ -352,6 +211,28 @@
                 {
                   "name": "Draw",
                   "price": 4.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Como",
+                  "price": 1.93
+                },
+                {
+                  "name": "Feyenoord",
+                  "price": 3.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.1
                 }
               ]
             }
@@ -389,28 +270,6 @@
           ]
         },
         {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "LASK",
-                  "price": 9.1
-                },
-                {
-                  "name": "Liverpool",
-                  "price": 1.34
-                },
-                {
-                  "name": "Draw",
-                  "price": 6.24
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Betfair",
           "markets": [
             {
@@ -418,15 +277,15 @@
               "outcomes": [
                 {
                   "name": "LASK",
-                  "price": 10.5
+                  "price": 10.0
                 },
                 {
                   "name": "Liverpool",
-                  "price": 1.33
+                  "price": 1.35
                 },
                 {
                   "name": "Draw",
-                  "price": 6.4
+                  "price": 6.2
                 }
               ]
             }
@@ -440,7 +299,7 @@
               "outcomes": [
                 {
                   "name": "LASK",
-                  "price": 9.28
+                  "price": 9.3
                 },
                 {
                   "name": "Liverpool",
@@ -448,7 +307,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 6.15
+                  "price": 6.13
                 }
               ]
             }
@@ -462,7 +321,7 @@
               "outcomes": [
                 {
                   "name": "LASK",
-                  "price": 8.5
+                  "price": 9.0
                 },
                 {
                   "name": "Liverpool",
@@ -470,7 +329,29 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 6.1
+                  "price": 6.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "LASK",
+                  "price": 9.0
+                },
+                {
+                  "name": "Liverpool",
+                  "price": 1.23
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.0
                 }
               ]
             }
@@ -731,15 +612,15 @@
               "outcomes": [
                 {
                   "name": "FC Viktoria Köln 1904",
-                  "price": 1.55
+                  "price": 1.52
                 },
                 {
                   "name": "SG Sonnenhof Großaspach",
-                  "price": 4.8
+                  "price": 5.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 4.7
                 }
               ]
             }
@@ -947,6 +828,244 @@
                 {
                   "name": "Draw",
                   "price": 3.5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64621774e1c6ac66d9de778716414437",
+      "sport_key": "soccer_germany_liga3",
+      "commence_time": "2026-10-14T17:00:00Z",
+      "home_team": "SC Verl",
+      "away_team": "Jahn Regensburg",
+      "bookmakers": [
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jahn Regensburg",
+                  "price": 2.9
+                },
+                {
+                  "name": "SC Verl",
+                  "price": 2.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jahn Regensburg",
+                  "price": 2.85
+                },
+                {
+                  "name": "SC Verl",
+                  "price": 2.14
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jahn Regensburg",
+                  "price": 2.75
+                },
+                {
+                  "name": "SC Verl",
+                  "price": 2.06
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jahn Regensburg",
+                  "price": 2.85
+                },
+                {
+                  "name": "SC Verl",
+                  "price": 2.14
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jahn Regensburg",
+                  "price": 2.8
+                },
+                {
+                  "name": "SC Verl",
+                  "price": 2.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "35d7cc4a96b152b4a31b0b151cb70feb",
+      "sport_key": "soccer_efl_champ",
+      "commence_time": "2026-10-14T18:45:00Z",
+      "home_team": "Queens Park Rangers",
+      "away_team": "Derby County",
+      "bookmakers": [
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Derby County",
+                  "price": 4.75
+                },
+                {
+                  "name": "Queens Park Rangers",
+                  "price": 1.67
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Derby County",
+                  "price": 5.0
+                },
+                {
+                  "name": "Queens Park Rangers",
+                  "price": 1.72
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Derby County",
+                  "price": 4.5
+                },
+                {
+                  "name": "Queens Park Rangers",
+                  "price": 1.62
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Derby County",
+                  "price": 4.75
+                },
+                {
+                  "name": "Queens Park Rangers",
+                  "price": 1.67
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Derby County",
+                  "price": 4.6
+                },
+                {
+                  "name": "Queens Park Rangers",
+                  "price": 1.55
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
                 }
               ]
             }
