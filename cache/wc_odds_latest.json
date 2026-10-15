@@ -1,13 +1,13 @@
 {
-  "采集时间": "2026-10-15T15:51:53.421609",
-  "比赛数": 11,
+  "采集时间": "2026-10-15T20:36:58.722663",
+  "比赛数": 27,
   "赔率数据": [
     {
-      "id": "a74e4129359ca0b7f38d00565c792c8a",
-      "sport_key": "soccer_saudi_arabia_pro_league",
-      "commence_time": "2026-10-15T13:40:00Z",
-      "home_team": "Al-Faisaly KSA FC",
-      "away_team": "Al-Kholood",
+      "id": "3ee605005bdc62da54d42a0ec3e1a930",
+      "sport_key": "soccer_uefa_europa_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Dinamo Zagreb",
+      "away_team": "Anderlecht",
       "bookmakers": [
         {
           "name": "Winamax (DE)",
@@ -16,16 +16,60 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Al-Faisaly KSA FC",
-                  "price": 1.02
+                  "name": "Anderlecht",
+                  "price": 6.25
                 },
                 {
-                  "name": "Al-Kholood",
-                  "price": 900.0
+                  "name": "Dinamo Zagreb",
+                  "price": 3.4
                 },
                 {
                   "name": "Draw",
-                  "price": 14.0
+                  "price": 1.58
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Anderlecht",
+                  "price": 5.35
+                },
+                {
+                  "name": "Dinamo Zagreb",
+                  "price": 2.95
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.88
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Anderlecht",
+                  "price": 5.4
+                },
+                {
+                  "name": "Dinamo Zagreb",
+                  "price": 2.97
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.67
                 }
               ]
             }
@@ -38,34 +82,448 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Al-Faisaly KSA FC",
-                  "price": 1.03
+                  "name": "Anderlecht",
+                  "price": 5.9
                 },
                 {
-                  "name": "Al-Kholood",
-                  "price": 900.0
+                  "name": "Dinamo Zagreb",
+                  "price": 3.35
                 },
                 {
                   "name": "Draw",
-                  "price": 13.0
+                  "price": 1.54
                 }
               ]
             }
           ]
         },
         {
-          "name": "William Hill",
+          "name": "Marathon Bet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Al-Faisaly KSA FC",
-                  "price": 1.05
+                  "name": "Anderlecht",
+                  "price": 6.1
                 },
                 {
-                  "name": "Al-Kholood",
-                  "price": 101.0
+                  "name": "Dinamo Zagreb",
+                  "price": 3.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.64
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2578ec1dbe113dc7d40bcd7e0fd1d9f",
+      "sport_key": "soccer_uefa_europa_conference_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Atalanta BC",
+      "away_team": "Pafos FC",
+      "bookmakers": [
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Atalanta BC",
+                  "price": 1.0
+                },
+                {
+                  "name": "Pafos FC",
+                  "price": 100.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 40.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Atalanta BC",
+                  "price": 1.0
+                },
+                {
+                  "name": "Pafos FC",
+                  "price": 29.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 26.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Atalanta BC",
+                  "price": 1.0
+                },
+                {
+                  "name": "Pafos FC",
+                  "price": 29.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 26.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "feda75190a774fb92164059453b037be",
+      "sport_key": "soccer_uefa_europa_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Benfica",
+      "away_team": "Celtic",
+      "bookmakers": [
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Benfica",
+                  "price": 1.0
+                },
+                {
+                  "name": "Celtic",
+                  "price": 225.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 50.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Benfica",
+                  "price": 1.0
+                },
+                {
+                  "name": "Celtic",
+                  "price": 90.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 40.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Benfica",
+                  "price": 1.01
+                },
+                {
+                  "name": "Celtic",
+                  "price": 225.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 48.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Benfica",
+                  "price": 1.0
+                },
+                {
+                  "name": "Celtic",
+                  "price": 151.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 67.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betfair",
+          "markets": []
+        }
+      ]
+    },
+    {
+      "id": "4cfd3c3636333951706a205b96dc1db3",
+      "sport_key": "soccer_uefa_europa_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "TSG Hoffenheim",
+      "away_team": "Besiktas JK",
+      "bookmakers": [
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Besiktas JK",
+                  "price": 1.28
+                },
+                {
+                  "name": "TSG Hoffenheim",
+                  "price": 14.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Besiktas JK",
+                  "price": 1.04
+                },
+                {
+                  "name": "TSG Hoffenheim",
+                  "price": 65.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 18.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Besiktas JK",
+                  "price": 1.03
+                },
+                {
+                  "name": "TSG Hoffenheim",
+                  "price": 60.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 17.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Besiktas JK",
+                  "price": 3.78
+                },
+                {
+                  "name": "TSG Hoffenheim",
+                  "price": 2.57
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.47
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Besiktas JK",
+                  "price": 1.02
+                },
+                {
+                  "name": "TSG Hoffenheim",
+                  "price": 81.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 19.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0def5b7ac0c0a816aa080774d7082c9b",
+      "sport_key": "soccer_uefa_europa_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Bournemouth",
+      "away_team": "SK Sturm Graz",
+      "bookmakers": [
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bournemouth",
+                  "price": 1.09
+                },
+                {
+                  "name": "SK Sturm Graz",
+                  "price": 60.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bournemouth",
+                  "price": 1.08
+                },
+                {
+                  "name": "SK Sturm Graz",
+                  "price": 50.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bournemouth",
+                  "price": 1.0
+                },
+                {
+                  "name": "SK Sturm Graz",
+                  "price": 130.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bournemouth",
+                  "price": 1.09
+                },
+                {
+                  "name": "SK Sturm Graz",
+                  "price": 82.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.89
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bournemouth",
+                  "price": 1.06
+                },
+                {
+                  "name": "SK Sturm Graz",
+                  "price": 67.0
                 },
                 {
                   "name": "Draw",
@@ -74,143 +532,55 @@
               ]
             }
           ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Al-Faisaly KSA FC",
-                  "price": 1.04
-                },
-                {
-                  "name": "Al-Kholood",
-                  "price": 1000.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 15.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Tipico",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Al-Faisaly KSA FC",
-                  "price": 1.01
-                },
-                {
-                  "name": "Al-Kholood",
-                  "price": 400.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 20.0
-                }
-              ]
-            }
-          ]
         }
       ]
     },
     {
-      "id": "73c2bda7c98562287112d911624d7526",
-      "sport_key": "soccer_saudi_arabia_pro_league",
-      "commence_time": "2026-10-15T14:51:00Z",
-      "home_team": "Al-Khaleej",
-      "away_team": "Al-Fayha",
+      "id": "5ff465ad69bca8753070b0d3bb7dd3d5",
+      "sport_key": "soccer_uefa_europa_conference_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Brighton and Hove Albion",
+      "away_team": "FK Kauno Žalgiris",
       "bookmakers": [
         {
-          "name": "Unibet (NL)",
+          "name": "Betsson",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Al-Fayha",
-                  "price": 3.05
+                  "name": "Brighton and Hove Albion",
+                  "price": 1.0
                 },
                 {
-                  "name": "Al-Khaleej",
-                  "price": 2.6
+                  "name": "FK Kauno Žalgiris",
+                  "price": 26.0
                 },
                 {
                   "name": "Draw",
-                  "price": 2.4
+                  "price": 26.0
                 }
               ]
             }
           ]
         },
         {
-          "name": "Unibet (SE)",
+          "name": "Nordic Bet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Al-Fayha",
-                  "price": 3.2
+                  "name": "Brighton and Hove Albion",
+                  "price": 1.0
                 },
                 {
-                  "name": "Al-Khaleej",
-                  "price": 2.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Al-Fayha",
-                  "price": 3.0
-                },
-                {
-                  "name": "Al-Khaleej",
-                  "price": 2.55
+                  "name": "FK Kauno Žalgiris",
+                  "price": 26.0
                 },
                 {
                   "name": "Draw",
-                  "price": 2.38
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Al-Fayha",
-                  "price": 2.85
-                },
-                {
-                  "name": "Al-Khaleej",
-                  "price": 2.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.25
+                  "price": 26.0
                 }
               ]
             }
@@ -223,16 +593,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Al-Fayha",
-                  "price": 3.2
+                  "name": "Brighton and Hove Albion",
+                  "price": 1.0
                 },
                 {
-                  "name": "Al-Khaleej",
-                  "price": 2.65
+                  "name": "FK Kauno Žalgiris",
+                  "price": 100.0
                 },
                 {
                   "name": "Draw",
-                  "price": 2.2
+                  "price": 40.0
                 }
               ]
             }
@@ -241,148 +611,29 @@
       ]
     },
     {
-      "id": "26f75682caf19e87d42ec5ab55019b2a",
-      "sport_key": "soccer_saudi_arabia_pro_league",
-      "commence_time": "2026-10-15T15:15:00Z",
-      "home_team": "Al-Hazem",
-      "away_team": "Al-Fateh",
-      "bookmakers": [
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Al-Fateh",
-                  "price": 2.88
-                },
-                {
-                  "name": "Al-Hazem",
-                  "price": 2.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.95
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Al-Fateh",
-                  "price": 2.8
-                },
-                {
-                  "name": "Al-Hazem",
-                  "price": 2.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Al-Fateh",
-                  "price": 2.8
-                },
-                {
-                  "name": "Al-Hazem",
-                  "price": 2.23
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.88
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Al-Fateh",
-                  "price": 3.0
-                },
-                {
-                  "name": "Al-Hazem",
-                  "price": 2.35
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Al-Fateh",
-                  "price": 2.55
-                },
-                {
-                  "name": "Al-Hazem",
-                  "price": 2.47
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.93
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "431fc65e67cd737bceb5827118d3f7eb",
+      "id": "ffb25c5623fb586a4cc3b35286f404f9",
       "sport_key": "soccer_uefa_europa_league",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "home_team": "Salzburg",
-      "away_team": "AC Milan",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Celta Vigo",
+      "away_team": "Juventus",
       "bookmakers": [
         {
-          "name": "Pinnacle",
+          "name": "Winamax (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "AC Milan",
-                  "price": 1.93
+                  "name": "Celta Vigo",
+                  "price": 6.5
                 },
                 {
-                  "name": "Salzburg",
-                  "price": 3.98
+                  "name": "Juventus",
+                  "price": 3.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.77
+                  "price": 1.5
                 }
               ]
             }
@@ -395,157 +646,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "AC Milan",
-                  "price": 1.88
+                  "name": "Celta Vigo",
+                  "price": 7.0
                 },
                 {
-                  "name": "Salzburg",
-                  "price": 3.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Codere (IT)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AC Milan",
-                  "price": 1.92
-                },
-                {
-                  "name": "Salzburg",
-                  "price": 3.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AC Milan",
-                  "price": 1.8
-                },
-                {
-                  "name": "Salzburg",
+                  "name": "Juventus",
                   "price": 3.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AC Milan",
-                  "price": 1.82
-                },
-                {
-                  "name": "Salzburg",
-                  "price": 3.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.65
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c88779b8088f864930fe423c5e0523ce",
-      "sport_key": "soccer_uefa_europa_conference_league",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "home_team": "Gent",
-      "away_team": "AGF Aarhus",
-      "bookmakers": [
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AGF Aarhus",
-                  "price": 5.75
-                },
-                {
-                  "name": "Gent",
-                  "price": 1.58
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AGF Aarhus",
-                  "price": 5.8
-                },
-                {
-                  "name": "Gent",
-                  "price": 1.66
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AGF Aarhus",
-                  "price": 5.13
-                },
-                {
-                  "name": "Gent",
-                  "price": 1.66
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.2
+                  "price": 1.52
                 }
               ]
             }
@@ -558,38 +668,60 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "AGF Aarhus",
-                  "price": 4.95
+                  "name": "Celta Vigo",
+                  "price": 6.6
                 },
                 {
-                  "name": "Gent",
-                  "price": 1.57
+                  "name": "Juventus",
+                  "price": 2.98
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 1.61
                 }
               ]
             }
           ]
         },
         {
-          "name": "William Hill",
+          "name": "Pinnacle",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "AGF Aarhus",
-                  "price": 4.6
+                  "name": "Celta Vigo",
+                  "price": 6.32
                 },
                 {
-                  "name": "Gent",
-                  "price": 1.62
+                  "name": "Juventus",
+                  "price": 3.17
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 1.71
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Celta Vigo",
+                  "price": 7.4
+                },
+                {
+                  "name": "Juventus",
+                  "price": 3.46
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.53
                 }
               ]
             }
@@ -598,29 +730,95 @@
       ]
     },
     {
-      "id": "1172b90edbecfce831c2c0356f67a84c",
-      "sport_key": "soccer_uefa_europa_conference_league",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "home_team": "PFC CSKA Sofia",
-      "away_team": "AS Monaco",
+      "id": "b03dd3e42a0894b49f11ac599d2eb3b1",
+      "sport_key": "soccer_uefa_europa_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Jagiellonia Białystok",
+      "away_team": "FC Ararat-Armenia",
       "bookmakers": [
         {
-          "name": "1xBet",
+          "name": "Betclic (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "AS Monaco",
-                  "price": 1.52
+                  "name": "FC Ararat-Armenia",
+                  "price": 45.0
                 },
                 {
-                  "name": "PFC CSKA Sofia",
-                  "price": 6.02
+                  "name": "Jagiellonia Białystok",
+                  "price": 1.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.67
+                  "price": 20.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Ararat-Armenia",
+                  "price": 170.0
+                },
+                {
+                  "name": "Jagiellonia Białystok",
+                  "price": 1.01
+                },
+                {
+                  "name": "Draw",
+                  "price": 38.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Ararat-Armenia",
+                  "price": 170.0
+                },
+                {
+                  "name": "Jagiellonia Białystok",
+                  "price": 1.01
+                },
+                {
+                  "name": "Draw",
+                  "price": 38.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Ararat-Armenia",
+                  "price": 151.0
+                },
+                {
+                  "name": "Jagiellonia Białystok",
+                  "price": 1.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 41.0
                 }
               ]
             }
@@ -633,21 +831,30 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "AS Monaco",
-                  "price": 1.58
+                  "name": "FC Ararat-Armenia",
+                  "price": 90.0
                 },
                 {
-                  "name": "PFC CSKA Sofia",
-                  "price": 6.2
+                  "name": "Jagiellonia Białystok",
+                  "price": 1.02
                 },
                 {
                   "name": "Draw",
-                  "price": 4.7
+                  "price": 50.0
                 }
               ]
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "37d98d20d681424bb0dd21364d6f4033",
+      "sport_key": "soccer_uefa_europa_conference_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "FC Copenhagen",
+      "away_team": "SC Braga",
+      "bookmakers": [
         {
           "name": "Coolbet",
           "markets": [
@@ -655,12 +862,56 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "AS Monaco",
-                  "price": 1.47
+                  "name": "FC Copenhagen",
+                  "price": 1.2
                 },
                 {
-                  "name": "PFC CSKA Sofia",
-                  "price": 6.75
+                  "name": "SC Braga",
+                  "price": 48.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Copenhagen",
+                  "price": 1.25
+                },
+                {
+                  "name": "SC Braga",
+                  "price": 36.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Copenhagen",
+                  "price": 1.22
+                },
+                {
+                  "name": "SC Braga",
+                  "price": 26.0
                 },
                 {
                   "name": "Draw",
@@ -671,58 +922,27 @@
           ]
         },
         {
-          "name": "Betclic (FR)",
+          "name": "Unibet (NL)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "AS Monaco",
-                  "price": 1.4
+                  "name": "FC Copenhagen",
+                  "price": 1.16
                 },
                 {
-                  "name": "PFC CSKA Sofia",
-                  "price": 6.0
+                  "name": "SC Braga",
+                  "price": 31.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.8
+                  "price": 5.6
                 }
               ]
             }
           ]
         },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AS Monaco",
-                  "price": 1.48
-                },
-                {
-                  "name": "PFC CSKA Sofia",
-                  "price": 4.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "571499e2d0a5fccc92b7801aa4d6c124",
-      "sport_key": "soccer_uefa_europa_league",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "home_team": "AZ Alkmaar",
-      "away_team": "Hapoel Be'er Sheva",
-      "bookmakers": [
         {
           "name": "Pinnacle",
           "markets": [
@@ -730,104 +950,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "AZ Alkmaar",
-                  "price": 1.44
+                  "name": "FC Copenhagen",
+                  "price": 1.31
                 },
                 {
-                  "name": "Hapoel Be'er Sheva",
-                  "price": 6.53
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.22
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AZ Alkmaar",
-                  "price": 1.41
-                },
-                {
-                  "name": "Hapoel Be'er Sheva",
-                  "price": 6.0
+                  "name": "SC Braga",
+                  "price": 18.19
                 },
                 {
                   "name": "Draw",
-                  "price": 5.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Codere (IT)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AZ Alkmaar",
-                  "price": 1.47
-                },
-                {
-                  "name": "Hapoel Be'er Sheva",
-                  "price": 6.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AZ Alkmaar",
-                  "price": 1.34
-                },
-                {
-                  "name": "Hapoel Be'er Sheva",
-                  "price": 5.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "AZ Alkmaar",
-                  "price": 1.38
-                },
-                {
-                  "name": "Hapoel Be'er Sheva",
-                  "price": 5.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
+                  "price": 4.11
                 }
               ]
             }
@@ -836,34 +968,12 @@
       ]
     },
     {
-      "id": "1fc1e9693b8b0af4ff26df5a394da1c1",
+      "id": "b712f6ee1a8b3f7ea8c6cad4929a2728",
       "sport_key": "soccer_uefa_europa_conference_league",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "home_team": "Hajduk Split",
-      "away_team": "Ajax",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Sint Truiden",
+      "away_team": "FC Iberia 1999",
       "bookmakers": [
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Ajax",
-                  "price": 1.67
-                },
-                {
-                  "name": "Hajduk Split",
-                  "price": 4.82
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.35
-                }
-              ]
-            }
-          ]
-        },
         {
           "name": "Betfair",
           "markets": [
@@ -871,16 +981,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Ajax",
-                  "price": 1.73
+                  "name": "FC Iberia 1999",
+                  "price": 150.0
                 },
                 {
-                  "name": "Hajduk Split",
-                  "price": 4.9
+                  "name": "Sint Truiden",
+                  "price": 1.05
                 },
                 {
                   "name": "Draw",
-                  "price": 4.4
+                  "price": 21.0
                 }
               ]
             }
@@ -893,16 +1003,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Ajax",
-                  "price": 1.65
+                  "name": "FC Iberia 1999",
+                  "price": 150.0
                 },
                 {
-                  "name": "Hajduk Split",
-                  "price": 4.8
+                  "name": "Sint Truiden",
+                  "price": 1.03
                 },
                 {
                   "name": "Draw",
-                  "price": 4.4
+                  "price": 18.25
                 }
               ]
             }
@@ -915,38 +1025,60 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Ajax",
-                  "price": 1.62
+                  "name": "FC Iberia 1999",
+                  "price": 40.0
                 },
                 {
-                  "name": "Hajduk Split",
-                  "price": 4.35
+                  "name": "Sint Truiden",
+                  "price": 1.02
                 },
                 {
                   "name": "Draw",
-                  "price": 4.15
+                  "price": 10.0
                 }
               ]
             }
           ]
         },
         {
-          "name": "Unibet (FR)",
+          "name": "888sport",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Ajax",
-                  "price": 1.54
+                  "name": "FC Iberia 1999",
+                  "price": 126.0
                 },
                 {
-                  "name": "Hajduk Split",
-                  "price": 4.2
+                  "name": "Sint Truiden",
+                  "price": 1.03
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 15.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Iberia 1999",
+                  "price": 76.0
+                },
+                {
+                  "name": "Sint Truiden",
+                  "price": 1.04
+                },
+                {
+                  "name": "Draw",
+                  "price": 10.5
                 }
               ]
             }
@@ -955,117 +1087,117 @@
       ]
     },
     {
-      "id": "c3923b733e33ae8ebd1f024cd5312d1e",
-      "sport_key": "soccer_uefa_europa_league",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "home_team": "Lech Poznań",
-      "away_team": "Bayer Leverkusen",
+      "id": "b541ed567a14bfe5addd1a9ec542708a",
+      "sport_key": "soccer_uefa_europa_conference_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Hearts",
+      "away_team": "FC Nordsjaelland",
       "bookmakers": [
         {
-          "name": "Pinnacle",
+          "name": "Coolbet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Bayer Leverkusen",
-                  "price": 1.46
+                  "name": "FC Nordsjaelland",
+                  "price": 33.0
                 },
                 {
-                  "name": "Lech Poznań",
-                  "price": 6.53
+                  "name": "Hearts",
+                  "price": 1.2
                 },
                 {
                   "name": "Draw",
-                  "price": 5.01
+                  "price": 5.25
                 }
               ]
             }
           ]
         },
         {
-          "name": "Winamax (DE)",
+          "name": "Betclic (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Bayer Leverkusen",
-                  "price": 1.42
+                  "name": "FC Nordsjaelland",
+                  "price": 19.0
                 },
                 {
-                  "name": "Lech Poznań",
-                  "price": 5.5
+                  "name": "Hearts",
+                  "price": 1.19
                 },
                 {
                   "name": "Draw",
-                  "price": 5.5
+                  "price": 4.1
                 }
               ]
             }
           ]
         },
         {
-          "name": "Codere (IT)",
+          "name": "888sport",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Bayer Leverkusen",
-                  "price": 1.48
+                  "name": "FC Nordsjaelland",
+                  "price": 23.0
                 },
                 {
-                  "name": "Lech Poznań",
-                  "price": 5.8
+                  "name": "Hearts",
+                  "price": 1.22
                 },
                 {
                   "name": "Draw",
-                  "price": 5.0
+                  "price": 4.75
                 }
               ]
             }
           ]
         },
         {
-          "name": "Unibet (FR)",
+          "name": "Marathon Bet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Bayer Leverkusen",
-                  "price": 1.42
+                  "name": "FC Nordsjaelland",
+                  "price": 22.0
                 },
                 {
-                  "name": "Lech Poznań",
+                  "name": "Hearts",
+                  "price": 1.17
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Nordsjaelland",
+                  "price": 28.0
+                },
+                {
+                  "name": "Hearts",
+                  "price": 1.29
+                },
+                {
+                  "name": "Draw",
                   "price": 5.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bayer Leverkusen",
-                  "price": 1.4
-                },
-                {
-                  "name": "Lech Poznań",
-                  "price": 5.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.3
                 }
               ]
             }
@@ -1074,130 +1206,11 @@
       ]
     },
     {
-      "id": "25ce4d73c9b993d26f00c1df2d0b820c",
-      "sport_key": "soccer_uefa_europa_league",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "home_team": "Lyon",
-      "away_team": "Crystal Palace",
-      "bookmakers": [
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Crystal Palace",
-                  "price": 2.54
-                },
-                {
-                  "name": "Lyon",
-                  "price": 2.74
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.64
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Crystal Palace",
-                  "price": 2.45
-                },
-                {
-                  "name": "Lyon",
-                  "price": 2.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Codere (IT)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Crystal Palace",
-                  "price": 2.48
-                },
-                {
-                  "name": "Lyon",
-                  "price": 2.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Crystal Palace",
-                  "price": 2.55
-                },
-                {
-                  "name": "Lyon",
-                  "price": 2.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Crystal Palace",
-                  "price": 2.35
-                },
-                {
-                  "name": "Lyon",
-                  "price": 2.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.55
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "921e7dc3692cc85772fc69fb8de17359",
+      "id": "7bf486aef9b23c3917856eb0897eba2a",
       "sport_key": "soccer_uefa_europa_conference_league",
-      "commence_time": "2026-10-15T16:45:00Z",
-      "home_team": "Riga FC",
-      "away_team": "FC Kairat",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "FC Twente Enschede",
+      "away_team": "FC Thun",
       "bookmakers": [
         {
           "name": "Coolbet",
@@ -1206,38 +1219,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "FC Kairat",
-                  "price": 3.85
+                  "name": "FC Thun",
+                  "price": 150.0
                 },
                 {
-                  "name": "Riga FC",
-                  "price": 1.98
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Kairat",
-                  "price": 4.13
-                },
-                {
-                  "name": "Riga FC",
-                  "price": 1.95
+                  "name": "FC Twente Enschede",
+                  "price": 1.02
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 24.0
                 }
               ]
             }
@@ -1250,16 +1241,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "FC Kairat",
-                  "price": 4.4
+                  "name": "FC Thun",
+                  "price": 190.0
                 },
                 {
-                  "name": "Riga FC",
-                  "price": 1.99
+                  "name": "FC Twente Enschede",
+                  "price": 1.03
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 27.0
                 }
               ]
             }
@@ -1272,38 +1263,1012 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "FC Kairat",
-                  "price": 3.9
+                  "name": "FC Thun",
+                  "price": 45.0
                 },
                 {
-                  "name": "Riga FC",
-                  "price": 1.86
+                  "name": "FC Twente Enschede",
+                  "price": 1.01
                 },
                 {
                   "name": "Draw",
-                  "price": 3.37
+                  "price": 11.0
                 }
               ]
             }
           ]
         },
         {
-          "name": "Unibet (FR)",
+          "name": "888sport",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "FC Kairat",
-                  "price": 3.8
+                  "name": "FC Thun",
+                  "price": 126.0
                 },
                 {
-                  "name": "Riga FC",
+                  "name": "FC Twente Enschede",
+                  "price": 1.03
+                },
+                {
+                  "name": "Draw",
+                  "price": 17.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Thun",
+                  "price": 111.0
+                },
+                {
+                  "name": "FC Twente Enschede",
+                  "price": 1.02
+                },
+                {
+                  "name": "Draw",
+                  "price": 14.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1425f07b2aa42fe7c1ba0cb919a1a283",
+      "sport_key": "soccer_uefa_europa_conference_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "SC Freiburg",
+      "away_team": "FK Jablonec",
+      "bookmakers": [
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FK Jablonec",
+                  "price": 400.0
+                },
+                {
+                  "name": "SC Freiburg",
+                  "price": 1.01
+                },
+                {
+                  "name": "Draw",
+                  "price": 95.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FK Jablonec",
+                  "price": 90.0
+                },
+                {
+                  "name": "SC Freiburg",
+                  "price": 1.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 40.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FK Jablonec",
+                  "price": 151.0
+                },
+                {
+                  "name": "SC Freiburg",
+                  "price": 1.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 67.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FK Jablonec",
+                  "price": 46.0
+                },
+                {
+                  "name": "SC Freiburg",
+                  "price": 1.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 19.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FK Jablonec",
+                  "price": 46.0
+                },
+                {
+                  "name": "SC Freiburg",
+                  "price": 1.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 19.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d74f2cf08612874adfb17130fd73f25",
+      "sport_key": "soccer_uefa_europa_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Ferencváros TC",
+      "away_team": "Viktoria Plzeň",
+      "bookmakers": [
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Ferencváros TC",
+                  "price": 1.04
+                },
+                {
+                  "name": "Viktoria Plzeň",
+                  "price": 100.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 15.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Ferencváros TC",
+                  "price": 1.03
+                },
+                {
+                  "name": "Viktoria Plzeň",
+                  "price": 95.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 15.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Ferencváros TC",
+                  "price": 1.11
+                },
+                {
+                  "name": "Viktoria Plzeň",
+                  "price": 26.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Ferencváros TC",
+                  "price": 1.22
+                },
+                {
+                  "name": "Viktoria Plzeň",
+                  "price": 25.22
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.16
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Ferencváros TC",
+                  "price": 1.16
+                },
+                {
+                  "name": "Viktoria Plzeň",
+                  "price": 28.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.6
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7de91b956526f0f5f519d7d50fb4f453",
+      "sport_key": "soccer_uefa_europa_conference_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "SK Brann",
+      "away_team": "Lincoln Red Imps FC",
+      "bookmakers": [
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Lincoln Red Imps FC",
+                  "price": 35.0
+                },
+                {
+                  "name": "SK Brann",
                   "price": 1.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 2.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betfair",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Lincoln Red Imps FC",
+                  "price": 32.0
+                },
+                {
+                  "name": "SK Brann",
+                  "price": 1.69
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.62
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Lincoln Red Imps FC",
+                  "price": 26.0
+                },
+                {
+                  "name": "SK Brann",
+                  "price": 1.67
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Lincoln Red Imps FC",
+                  "price": 41.0
+                },
+                {
+                  "name": "SK Brann",
+                  "price": 1.61
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.19
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Lincoln Red Imps FC",
+                  "price": 15.0
+                },
+                {
+                  "name": "SK Brann",
+                  "price": 1.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.04
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a80ca70e909bd80ff2c63b7fb9f22fa3",
+      "sport_key": "soccer_england_league1",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Mansfield Town",
+      "away_team": "Oxford United",
+      "bookmakers": [
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Mansfield Town",
+                  "price": 8.5
+                },
+                {
+                  "name": "Oxford United",
+                  "price": 1.48
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Mansfield Town",
+                  "price": 8.5
+                },
+                {
+                  "name": "Oxford United",
+                  "price": 1.57
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.85
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Mansfield Town",
+                  "price": 8.5
+                },
+                {
+                  "name": "Oxford United",
+                  "price": 1.57
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.85
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Mansfield Town",
+                  "price": 9.0
+                },
+                {
+                  "name": "Oxford United",
+                  "price": 1.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Mansfield Town",
+                  "price": 8.6
+                },
+                {
+                  "name": "Oxford United",
+                  "price": 1.52
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.92
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "74f9b907f2114c72382b930fb94c1373",
+      "sport_key": "soccer_uefa_europa_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Marseille",
+      "away_team": "Olympiakos Piraeus",
+      "bookmakers": [
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Marseille",
+                  "price": 13.92
+                },
+                {
+                  "name": "Olympiakos Piraeus",
+                  "price": 1.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Marseille",
+                  "price": 14.5
+                },
+                {
+                  "name": "Olympiakos Piraeus",
+                  "price": 1.34
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Marseille",
+                  "price": 13.5
+                },
+                {
+                  "name": "Olympiakos Piraeus",
+                  "price": 1.33
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Marseille",
+                  "price": 12.5
+                },
+                {
+                  "name": "Olympiakos Piraeus",
+                  "price": 1.29
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.68
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Marseille",
+                  "price": 14.5
+                },
+                {
+                  "name": "Olympiakos Piraeus",
+                  "price": 1.34
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3957ec8d52653fa1c852825bea985fb7",
+      "sport_key": "soccer_uefa_europa_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "NEC Nijmegen",
+      "away_team": "PFC Levski Sofia",
+      "bookmakers": [
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "NEC Nijmegen",
+                  "price": 2.77
+                },
+                {
+                  "name": "PFC Levski Sofia",
+                  "price": 6.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "NEC Nijmegen",
+                  "price": 3.0
+                },
+                {
+                  "name": "PFC Levski Sofia",
+                  "price": 6.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.58
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "NEC Nijmegen",
+                  "price": 3.1
+                },
+                {
+                  "name": "PFC Levski Sofia",
+                  "price": 7.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.62
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "NEC Nijmegen",
+                  "price": 2.88
+                },
+                {
+                  "name": "PFC Levski Sofia",
+                  "price": 6.21
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.82
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "NEC Nijmegen",
+                  "price": 3.1
+                },
+                {
+                  "name": "PFC Levski Sofia",
+                  "price": 6.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.66
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9b2bf9bed21283dcad774dd5be7ba1da",
+      "sport_key": "soccer_uefa_europa_league",
+      "commence_time": "2026-10-15T19:00:00Z",
+      "home_team": "Rennes",
+      "away_team": "OFI Crete",
+      "bookmakers": [
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "OFI Crete",
+                  "price": 15.0
+                },
+                {
+                  "name": "Rennes",
+                  "price": 2.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.66
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "OFI Crete",
+                  "price": 16.0
+                },
+                {
+                  "name": "Rennes",
+                  "price": 2.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.72
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "OFI Crete",
+                  "price": 15.0
+                },
+                {
+                  "name": "Rennes",
+                  "price": 1.97
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.84
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "OFI Crete",
+                  "price": 2.05
+                },
+                {
+                  "name": "Rennes",
+                  "price": 4.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.79
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "OFI Crete",
+                  "price": 15.0
+                },
+                {
+                  "name": "Rennes",
+                  "price": 2.24
+                },
+                {
+                  "name": "Draw",
+                  "price": 1.77
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "314b3d8f825f3886ce4a2187d693d720",
+      "sport_key": "soccer_argentina_primera_division",
+      "commence_time": "2026-10-15T23:00:00Z",
+      "home_team": "Atlético Huracán",
+      "away_team": "Gimnasia La Plata",
+      "bookmakers": [
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Atlético Huracán",
+                  "price": 2.3
+                },
+                {
+                  "name": "Gimnasia La Plata",
+                  "price": 3.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.05
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Atlético Huracán",
+                  "price": 2.25
+                },
+                {
+                  "name": "Gimnasia La Plata",
+                  "price": 2.9
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Atlético Huracán",
+                  "price": 2.15
+                },
+                {
+                  "name": "Gimnasia La Plata",
+                  "price": 3.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Atlético Huracán",
+                  "price": 2.35
+                },
+                {
+                  "name": "Gimnasia La Plata",
+                  "price": 3.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.92
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Atlético Huracán",
+                  "price": 2.35
+                },
+                {
+                  "name": "Gimnasia La Plata",
+                  "price": 3.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.92
                 }
               ]
             }
