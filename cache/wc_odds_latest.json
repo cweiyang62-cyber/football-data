@@ -1,53 +1,97 @@
 {
-  "采集时间": "2026-10-24T02:14:11.195320",
-  "比赛数": 11,
+  "采集时间": "2026-10-24T09:54:52.031470",
+  "比赛数": 10,
   "赔率数据": [
     {
-      "id": "8784c1cbcc84a1a50e3b48753441eaea",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-10-24T00:02:00Z",
-      "home_team": "Sport Recife",
-      "away_team": "Criciuma",
+      "id": "cdcc70e4016ef48fdd9feb623255d0d2",
+      "sport_key": "soccer_australia_aleague",
+      "commence_time": "2026-10-24T08:40:00Z",
+      "home_team": "Melbourne Victory",
+      "away_team": "Melbourne City",
       "bookmakers": [
         {
-          "name": "Unibet (NL)",
+          "name": "Winamax (DE)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Criciuma",
-                  "price": 13.0
+                  "name": "Melbourne City",
+                  "price": 3.2
                 },
                 {
-                  "name": "Sport Recife",
-                  "price": 17.0
+                  "name": "Melbourne Victory",
+                  "price": 2.75
                 },
                 {
                   "name": "Draw",
-                  "price": 1.01
+                  "price": 2.3
                 }
               ]
             }
           ]
         },
         {
-          "name": "Unibet (SE)",
+          "name": "Winamax (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Criciuma",
-                  "price": 14.0
+                  "name": "Melbourne City",
+                  "price": 3.1
                 },
                 {
-                  "name": "Sport Recife",
-                  "price": 18.0
+                  "name": "Melbourne Victory",
+                  "price": 2.7
                 },
                 {
                   "name": "Draw",
-                  "price": 1.04
+                  "price": 2.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Melbourne City",
+                  "price": 3.1
+                },
+                {
+                  "name": "Melbourne Victory",
+                  "price": 2.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Melbourne City",
+                  "price": 3.25
+                },
+                {
+                  "name": "Melbourne Victory",
+                  "price": 2.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.3
                 }
               ]
             }
@@ -60,38 +104,448 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Criciuma",
-                  "price": 12.5
+                  "name": "Melbourne City",
+                  "price": 3.15
                 },
                 {
-                  "name": "Sport Recife",
-                  "price": 16.0
+                  "name": "Melbourne Victory",
+                  "price": 2.75
                 },
                 {
                   "name": "Draw",
-                  "price": 1.04
+                  "price": 2.4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e0e0791995927a8af1bbef4c724cff03",
+      "sport_key": "soccer_russia_premier_league",
+      "commence_time": "2026-10-24T09:45:00Z",
+      "home_team": "FC Akron Tolyatti",
+      "away_team": "Dinamo Moscow",
+      "bookmakers": [
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Dinamo Moscow",
+                  "price": 1.64
+                },
+                {
+                  "name": "FC Akron Tolyatti",
+                  "price": 5.47
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.09
                 }
               ]
             }
           ]
         },
         {
-          "name": "Coolbet",
+          "name": "Marathon Bet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Criciuma",
-                  "price": 12.0
+                  "name": "Dinamo Moscow",
+                  "price": 1.65
                 },
                 {
-                  "name": "Sport Recife",
-                  "price": 15.0
+                  "name": "FC Akron Tolyatti",
+                  "price": 5.1
                 },
                 {
                   "name": "Draw",
-                  "price": 1.06
+                  "price": 3.94
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Dinamo Moscow",
+                  "price": 1.62
+                },
+                {
+                  "name": "FC Akron Tolyatti",
+                  "price": 5.42
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.12
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BetOnline.ag",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Dinamo Moscow",
+                  "price": 1.62
+                },
+                {
+                  "name": "FC Akron Tolyatti",
+                  "price": 5.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Dinamo Moscow",
+                  "price": 1.6
+                },
+                {
+                  "name": "FC Akron Tolyatti",
+                  "price": 4.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.9
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c0057c0d145a594f23f17da92bd6deb6",
+      "sport_key": "soccer_germany_bundesliga_women",
+      "commence_time": "2026-10-24T10:00:00Z",
+      "home_team": "VfL Wolfsburg",
+      "away_team": "1. FC Köln",
+      "bookmakers": [
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Köln",
+                  "price": 6.75
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.29
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Köln",
+                  "price": 6.75
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.29
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Köln",
+                  "price": 6.75
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.29
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Köln",
+                  "price": 8.55
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.24
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Köln",
+                  "price": 8.5
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ab75ba9f53a6c47fe587e78913948d13",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "commence_time": "2026-10-24T10:15:00Z",
+      "home_team": "Piast Gliwice",
+      "away_team": "Cracovia Kraków",
+      "bookmakers": [
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cracovia Kraków",
+                  "price": 2.63
+                },
+                {
+                  "name": "Piast Gliwice",
+                  "price": 2.55
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cracovia Kraków",
+                  "price": 2.5
+                },
+                {
+                  "name": "Piast Gliwice",
+                  "price": 2.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cracovia Kraków",
+                  "price": 2.5
+                },
+                {
+                  "name": "Piast Gliwice",
+                  "price": 2.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cracovia Kraków",
+                  "price": 2.63
+                },
+                {
+                  "name": "Piast Gliwice",
+                  "price": 2.55
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cracovia Kraków",
+                  "price": 2.65
+                },
+                {
+                  "name": "Piast Gliwice",
+                  "price": 2.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dc96970d397d25e8cf9b68ad9eacebc6",
+      "sport_key": "soccer_turkey_super_league",
+      "commence_time": "2026-10-24T10:30:00Z",
+      "home_team": "Eyüpspor",
+      "away_team": "Kasimpasa SK",
+      "bookmakers": [
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Eyüpspor",
+                  "price": 5.25
+                },
+                {
+                  "name": "Kasimpasa SK",
+                  "price": 1.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Eyüpspor",
+                  "price": 5.25
+                },
+                {
+                  "name": "Kasimpasa SK",
+                  "price": 1.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Eyüpspor",
+                  "price": 5.15
+                },
+                {
+                  "name": "Kasimpasa SK",
+                  "price": 1.65
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
                 }
               ]
             }
@@ -104,16 +558,38 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Criciuma",
-                  "price": 12.5
+                  "name": "Eyüpspor",
+                  "price": 5.11
                 },
                 {
-                  "name": "Sport Recife",
-                  "price": 14.0
+                  "name": "Kasimpasa SK",
+                  "price": 1.63
                 },
                 {
                   "name": "Draw",
-                  "price": 1.05
+                  "price": 3.69
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Eyüpspor",
+                  "price": 4.9
+                },
+                {
+                  "name": "Kasimpasa SK",
+                  "price": 1.56
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
                 }
               ]
             }
@@ -122,73 +598,452 @@
       ]
     },
     {
-      "id": "82aed2158943c15ac3e530cbdc41fa20",
-      "sport_key": "soccer_argentina_primera_division",
-      "commence_time": "2026-10-24T00:15:00Z",
-      "home_team": "CA Tigre BA",
-      "away_team": "Atlético Tucuman",
+      "id": "d4d7c809a6a215ad60d25554203db13d",
+      "sport_key": "soccer_germany_bundesliga2",
+      "commence_time": "2026-10-24T11:00:00Z",
+      "home_team": "1. FC Heidenheim",
+      "away_team": "FC Energie Cottbus",
       "bookmakers": [
         {
-          "name": "Winamax (FR)",
+          "name": "Tipico",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atlético Tucuman",
-                  "price": 1.04
+                  "name": "1. FC Heidenheim",
+                  "price": 1.62
                 },
                 {
-                  "name": "CA Tigre BA",
-                  "price": 800.0
+                  "name": "FC Energie Cottbus",
+                  "price": 4.4
                 },
                 {
                   "name": "Draw",
-                  "price": 12.5
+                  "price": 4.6
                 }
               ]
             }
           ]
         },
         {
-          "name": "Winamax (DE)",
+          "name": "Unibet (NL)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atlético Tucuman",
-                  "price": 1.03
+                  "name": "1. FC Heidenheim",
+                  "price": 1.73
                 },
                 {
-                  "name": "CA Tigre BA",
-                  "price": 400.0
+                  "name": "FC Energie Cottbus",
+                  "price": 4.0
                 },
                 {
                   "name": "Draw",
-                  "price": 11.5
+                  "price": 4.25
                 }
               ]
             }
           ]
         },
         {
-          "name": "Betclic (FR)",
+          "name": "LeoVegas (SE)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atlético Tucuman",
-                  "price": 1.01
+                  "name": "1. FC Heidenheim",
+                  "price": 1.67
                 },
                 {
-                  "name": "CA Tigre BA",
-                  "price": 100.0
+                  "name": "FC Energie Cottbus",
+                  "price": 3.8
                 },
                 {
                   "name": "Draw",
-                  "price": 12.25
+                  "price": 4.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Heidenheim",
+                  "price": 1.73
+                },
+                {
+                  "name": "FC Energie Cottbus",
+                  "price": 4.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Heidenheim",
+                  "price": 1.64
+                },
+                {
+                  "name": "FC Energie Cottbus",
+                  "price": 3.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e7b52f065c1e57d37e1900ea4b5b0454",
+      "sport_key": "soccer_germany_bundesliga2",
+      "commence_time": "2026-10-24T11:00:00Z",
+      "home_team": "1. FC Magdeburg",
+      "away_team": "Karlsruher SC",
+      "bookmakers": [
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Magdeburg",
+                  "price": 1.68
+                },
+                {
+                  "name": "Karlsruher SC",
+                  "price": 3.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Magdeburg",
+                  "price": 1.66
+                },
+                {
+                  "name": "Karlsruher SC",
+                  "price": 3.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Magdeburg",
+                  "price": 1.71
+                },
+                {
+                  "name": "Karlsruher SC",
+                  "price": 3.95
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Magdeburg",
+                  "price": 1.71
+                },
+                {
+                  "name": "Karlsruher SC",
+                  "price": 3.95
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Magdeburg",
+                  "price": 1.75
+                },
+                {
+                  "name": "Karlsruher SC",
+                  "price": 4.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4d1ed27d1857507038301436f9f3db98",
+      "sport_key": "soccer_germany_bundesliga2",
+      "commence_time": "2026-10-24T11:00:00Z",
+      "home_team": "Hertha Berlin",
+      "away_team": "Arminia Bielefeld",
+      "bookmakers": [
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Arminia Bielefeld",
+                  "price": 4.2
+                },
+                {
+                  "name": "Hertha Berlin",
+                  "price": 1.77
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Arminia Bielefeld",
+                  "price": 4.2
+                },
+                {
+                  "name": "Hertha Berlin",
+                  "price": 1.74
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Arminia Bielefeld",
+                  "price": 3.95
+                },
+                {
+                  "name": "Hertha Berlin",
+                  "price": 1.66
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Arminia Bielefeld",
+                  "price": 4.2
+                },
+                {
+                  "name": "Hertha Berlin",
+                  "price": 1.74
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Arminia Bielefeld",
+                  "price": 4.0
+                },
+                {
+                  "name": "Hertha Berlin",
+                  "price": 1.68
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.75
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b217e6ce479af105fb9e182f4192382",
+      "sport_key": "soccer_finland_veikkausliiga",
+      "commence_time": "2026-10-24T11:00:00Z",
+      "home_team": "VPS Vaasa",
+      "away_team": "FC Inter Turku",
+      "bookmakers": [
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Inter Turku",
+                  "price": 1.61
+                },
+                {
+                  "name": "VPS Vaasa",
+                  "price": 4.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Inter Turku",
+                  "price": 1.7
+                },
+                {
+                  "name": "VPS Vaasa",
+                  "price": 4.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Inter Turku",
+                  "price": 1.7
+                },
+                {
+                  "name": "VPS Vaasa",
+                  "price": 4.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Inter Turku",
+                  "price": 1.67
+                },
+                {
+                  "name": "VPS Vaasa",
+                  "price": 4.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
                 }
               ]
             }
@@ -201,157 +1056,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atlético Tucuman",
-                  "price": 1.02
+                  "name": "FC Inter Turku",
+                  "price": 1.54
                 },
                 {
-                  "name": "CA Tigre BA",
-                  "price": 100.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlético Tucuman",
-                  "price": 1.04
-                },
-                {
-                  "name": "CA Tigre BA",
-                  "price": 1000.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 13.5
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "93724e91911d1080f18a37c0d2f849ac",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-10-24T01:00:00Z",
-      "home_team": "Necaxa",
-      "away_team": "FC Juárez",
-      "bookmakers": [
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Juárez",
-                  "price": 8.5
-                },
-                {
-                  "name": "Necaxa",
-                  "price": 1.36
-                },
-                {
-                  "name": "Draw",
+                  "name": "VPS Vaasa",
                   "price": 4.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Juárez",
-                  "price": 8.5
-                },
-                {
-                  "name": "Necaxa",
-                  "price": 1.38
                 },
                 {
                   "name": "Draw",
-                  "price": 4.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Juárez",
-                  "price": 7.5
-                },
-                {
-                  "name": "Necaxa",
-                  "price": 1.24
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Juárez",
-                  "price": 8.0
-                },
-                {
-                  "name": "Necaxa",
-                  "price": 1.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Juárez",
-                  "price": 8.75
-                },
-                {
-                  "name": "Necaxa",
-                  "price": 1.26
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.05
+                  "price": 3.45
                 }
               ]
             }
@@ -360,56 +1074,12 @@
       ]
     },
     {
-      "id": "b87c8686c5331aacf51b54b25124a332",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-10-24T03:00:00Z",
-      "home_team": "Atlante FC",
-      "away_team": "Atlético San Luis",
+      "id": "3233b7448b8320329a3b66fa412f55dc",
+      "sport_key": "soccer_sweden_superettan",
+      "commence_time": "2026-10-24T11:00:00Z",
+      "home_team": "IFK Värnamo",
+      "away_team": "Sandvikens IF",
       "bookmakers": [
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlante FC",
-                  "price": 2.0
-                },
-                {
-                  "name": "Atlético San Luis",
-                  "price": 2.85
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlante FC",
-                  "price": 2.14
-                },
-                {
-                  "name": "Atlético San Luis",
-                  "price": 3.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
         {
           "name": "Unibet (SE)",
           "markets": [
@@ -417,109 +1087,12 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atlante FC",
-                  "price": 2.14
+                  "name": "IFK Värnamo",
+                  "price": 2.02
                 },
                 {
-                  "name": "Atlético San Luis",
-                  "price": 3.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlante FC",
-                  "price": 2.07
-                },
-                {
-                  "name": "Atlético San Luis",
-                  "price": 2.95
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atlante FC",
-                  "price": 2.07
-                },
-                {
-                  "name": "Atlético San Luis",
-                  "price": 3.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.28
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2e129a494260b770d4934b3f08ffc71a",
-      "sport_key": "soccer_australia_aleague",
-      "commence_time": "2026-10-24T04:00:00Z",
-      "home_team": "Newcastle Jets FC",
-      "away_team": "Macarthur FC",
-      "bookmakers": [
-        {
-          "name": "Codere (IT)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Macarthur FC",
-                  "price": 3.1
-                },
-                {
-                  "name": "Newcastle Jets FC",
-                  "price": 2.11
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Macarthur FC",
-                  "price": 2.95
-                },
-                {
-                  "name": "Newcastle Jets FC",
-                  "price": 1.96
+                  "name": "Sandvikens IF",
+                  "price": 3.3
                 },
                 {
                   "name": "Draw",
@@ -530,419 +1103,62 @@
           ]
         },
         {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Macarthur FC",
-                  "price": 2.9
-                },
-                {
-                  "name": "Newcastle Jets FC",
-                  "price": 2.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "William Hill",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Macarthur FC",
-                  "price": 3.1
-                },
-                {
-                  "name": "Newcastle Jets FC",
-                  "price": 2.05
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Macarthur FC",
-                  "price": 3.0
-                },
-                {
-                  "name": "Newcastle Jets FC",
-                  "price": 1.91
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.65
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "06d3673605160b608edcf31fb5ef3823",
-      "sport_key": "soccer_korea_kleague1",
-      "commence_time": "2026-10-24T05:00:00Z",
-      "home_team": "Bucheon FC 1995",
-      "away_team": "Gwangju FC",
-      "bookmakers": [
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bucheon FC 1995",
-                  "price": 2.04
-                },
-                {
-                  "name": "Gwangju FC",
-                  "price": 3.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "LeoVegas (SE)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Bucheon FC 1995",
+                  "name": "IFK Värnamo",
                   "price": 2.02
                 },
                 {
-                  "name": "Gwangju FC",
-                  "price": 3.2
+                  "name": "Sandvikens IF",
+                  "price": 3.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.75
                 }
               ]
             }
           ]
         },
         {
-          "name": "PMU (FR)",
+          "name": "Unibet (NL)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Bucheon FC 1995",
+                  "name": "IFK Värnamo",
                   "price": 1.95
                 },
                 {
-                  "name": "Gwangju FC",
-                  "price": 3.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bucheon FC 1995",
-                  "price": 2.04
-                },
-                {
-                  "name": "Gwangju FC",
+                  "name": "Sandvikens IF",
                   "price": 3.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.55
                 }
               ]
             }
           ]
         },
         {
-          "name": "BetOnline.ag",
+          "name": "Nordic Bet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Bucheon FC 1995",
-                  "price": 2.28
+                  "name": "IFK Värnamo",
+                  "price": 1.98
                 },
                 {
-                  "name": "Gwangju FC",
-                  "price": 3.15
-                },
-                {
-                  "name": "Draw",
+                  "name": "Sandvikens IF",
                   "price": 3.35
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f8f206a0dc5a909df1c33b6c070be638",
-      "sport_key": "soccer_korea_kleague1",
-      "commence_time": "2026-10-24T05:00:00Z",
-      "home_team": "Sangju Sangmu FC",
-      "away_team": "Daejeon Citizen",
-      "bookmakers": [
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Daejeon Citizen",
-                  "price": 1.95
-                },
-                {
-                  "name": "Sangju Sangmu FC",
-                  "price": 3.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Daejeon Citizen",
-                  "price": 1.94
-                },
-                {
-                  "name": "Sangju Sangmu FC",
-                  "price": 3.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Daejeon Citizen",
-                  "price": 1.88
-                },
-                {
-                  "name": "Sangju Sangmu FC",
-                  "price": 3.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Daejeon Citizen",
-                  "price": 1.95
-                },
-                {
-                  "name": "Sangju Sangmu FC",
-                  "price": 3.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "BetOnline.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Daejeon Citizen",
-                  "price": 1.96
-                },
-                {
-                  "name": "Sangju Sangmu FC",
-                  "price": 3.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.7
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "15421f69c30e6198dcf41b4680639567",
-      "sport_key": "soccer_korea_kleague1",
-      "commence_time": "2026-10-24T05:00:00Z",
-      "home_team": "FC Anyang",
-      "away_team": "Jeonbuk Hyundai Motors",
-      "bookmakers": [
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Anyang",
-                  "price": 3.55
-                },
-                {
-                  "name": "Jeonbuk Hyundai Motors",
-                  "price": 1.85
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Anyang",
-                  "price": 3.55
-                },
-                {
-                  "name": "Jeonbuk Hyundai Motors",
-                  "price": 1.83
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Anyang",
-                  "price": 3.45
-                },
-                {
-                  "name": "Jeonbuk Hyundai Motors",
-                  "price": 1.78
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Anyang",
-                  "price": 3.55
-                },
-                {
-                  "name": "Jeonbuk Hyundai Motors",
-                  "price": 1.85
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "BetOnline.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Anyang",
-                  "price": 3.95
-                },
-                {
-                  "name": "Jeonbuk Hyundai Motors",
-                  "price": 1.93
                 },
                 {
                   "name": "Draw",
@@ -951,359 +1167,24 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "6e8dc00b2115daf0c57be3527785d321",
-      "sport_key": "soccer_korea_kleague1",
-      "commence_time": "2026-10-24T05:00:00Z",
-      "home_team": "FC Seoul",
-      "away_team": "Gangwon FC",
-      "bookmakers": [
+        },
         {
-          "name": "Unibet (NL)",
+          "name": "Betsson",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "FC Seoul",
-                  "price": 1.83
+                  "name": "IFK Värnamo",
+                  "price": 2.02
                 },
                 {
-                  "name": "Gangwon FC",
+                  "name": "Sandvikens IF",
+                  "price": 3.41
+                },
+                {
+                  "name": "Draw",
                   "price": 3.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Seoul",
-                  "price": 1.83
-                },
-                {
-                  "name": "Gangwon FC",
-                  "price": 3.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Seoul",
-                  "price": 1.77
-                },
-                {
-                  "name": "Gangwon FC",
-                  "price": 3.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Seoul",
-                  "price": 1.83
-                },
-                {
-                  "name": "Gangwon FC",
-                  "price": 3.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "BetOnline.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Seoul",
-                  "price": 1.85
-                },
-                {
-                  "name": "Gangwon FC",
-                  "price": 4.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3e01f46f75094aabf3f27ec4df31f307",
-      "sport_key": "soccer_japan_j_league",
-      "commence_time": "2026-10-24T05:00:00Z",
-      "home_team": "Hiroshima Sanfrecce FC",
-      "away_team": "Shimizu S Pulse",
-      "bookmakers": [
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hiroshima Sanfrecce FC",
-                  "price": 1.43
-                },
-                {
-                  "name": "Shimizu S Pulse",
-                  "price": 6.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hiroshima Sanfrecce FC",
-                  "price": 1.36
-                },
-                {
-                  "name": "Shimizu S Pulse",
-                  "price": 6.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hiroshima Sanfrecce FC",
-                  "price": 1.43
-                },
-                {
-                  "name": "Shimizu S Pulse",
-                  "price": 6.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hiroshima Sanfrecce FC",
-                  "price": 1.43
-                },
-                {
-                  "name": "Shimizu S Pulse",
-                  "price": 6.25
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hiroshima Sanfrecce FC",
-                  "price": 1.29
-                },
-                {
-                  "name": "Shimizu S Pulse",
-                  "price": 6.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.55
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1e7d46ae46dedac0f506212b941d6ce8",
-      "sport_key": "soccer_korea_kleague1",
-      "commence_time": "2026-10-24T05:00:00Z",
-      "home_team": "Incheon United",
-      "away_team": "Jeju United FC",
-      "bookmakers": [
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Incheon United",
-                  "price": 2.2
-                },
-                {
-                  "name": "Jeju United FC",
-                  "price": 2.9
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Incheon United",
-                  "price": 2.2
-                },
-                {
-                  "name": "Jeju United FC",
-                  "price": 2.95
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Incheon United",
-                  "price": 2.12
-                },
-                {
-                  "name": "Jeju United FC",
-                  "price": 2.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 2.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Incheon United",
-                  "price": 2.2
-                },
-                {
-                  "name": "Jeju United FC",
-                  "price": 2.95
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "BetOnline.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Incheon United",
-                  "price": 2.32
-                },
-                {
-                  "name": "Jeju United FC",
-                  "price": 3.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.1
                 }
               ]
             }
