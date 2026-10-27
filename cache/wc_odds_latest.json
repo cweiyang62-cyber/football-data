@@ -1,126 +1,7 @@
 {
-  "采集时间": "2026-10-27T11:10:16.043092",
+  "采集时间": "2026-10-27T16:56:59.799067",
   "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "a42f82d7816ede536681c5c86da0e480",
-      "sport_key": "soccer_saudi_arabia_pro_league",
-      "commence_time": "2026-10-27T12:40:00Z",
-      "home_team": "Abha Club",
-      "away_team": "Al-Faisaly KSA FC",
-      "bookmakers": [
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Abha Club",
-                  "price": 2.72
-                },
-                {
-                  "name": "Al-Faisaly KSA FC",
-                  "price": 2.56
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Abha Club",
-                  "price": 2.55
-                },
-                {
-                  "name": "Al-Faisaly KSA FC",
-                  "price": 2.63
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.37
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Abha Club",
-                  "price": 2.32
-                },
-                {
-                  "name": "Al-Faisaly KSA FC",
-                  "price": 2.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Abha Club",
-                  "price": 2.38
-                },
-                {
-                  "name": "Al-Faisaly KSA FC",
-                  "price": 2.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Abha Club",
-                  "price": 2.38
-                },
-                {
-                  "name": "Al-Faisaly KSA FC",
-                  "price": 2.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "72aa6d55a32872d89279c98d0b8714d8",
       "sport_key": "soccer_germany_dfb_pokal",
@@ -136,11 +17,11 @@
               "outcomes": [
                 {
                   "name": "Augsburg",
-                  "price": 1.22
+                  "price": 1.25
                 },
                 {
                   "name": "SG Sonnenhof Großaspach",
-                  "price": 10.5
+                  "price": 9.0
                 },
                 {
                   "name": "Draw",
@@ -158,15 +39,15 @@
               "outcomes": [
                 {
                   "name": "Augsburg",
-                  "price": 1.23
+                  "price": 1.19
                 },
                 {
                   "name": "SG Sonnenhof Großaspach",
-                  "price": 7.5
+                  "price": 8.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 6.25
                 }
               ]
             }
@@ -180,15 +61,15 @@
               "outcomes": [
                 {
                   "name": "Augsburg",
-                  "price": 1.26
+                  "price": 1.22
                 },
                 {
                   "name": "SG Sonnenhof Großaspach",
-                  "price": 8.5
+                  "price": 9.0
                 },
                 {
                   "name": "Draw",
-                  "price": 6.5
+                  "price": 7.0
                 }
               ]
             }
@@ -206,7 +87,7 @@
                 },
                 {
                   "name": "SG Sonnenhof Großaspach",
-                  "price": 8.75
+                  "price": 6.4
                 },
                 {
                   "name": "Draw",
@@ -224,15 +105,15 @@
               "outcomes": [
                 {
                   "name": "Augsburg",
-                  "price": 1.2
+                  "price": 1.15
                 },
                 {
                   "name": "SG Sonnenhof Großaspach",
-                  "price": 8.3
+                  "price": 8.8
                 },
                 {
                   "name": "Draw",
-                  "price": 5.7
+                  "price": 6.0
                 }
               ]
             }
@@ -255,15 +136,15 @@
               "outcomes": [
                 {
                   "name": "Eintracht Frankfurt",
-                  "price": 2.0
+                  "price": 1.93
                 },
                 {
                   "name": "Hamburger SV",
-                  "price": 3.4
+                  "price": 3.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.9
                 }
               ]
             }
@@ -277,15 +158,15 @@
               "outcomes": [
                 {
                   "name": "Eintracht Frankfurt",
-                  "price": 2.0
+                  "price": 1.94
                 },
                 {
                   "name": "Hamburger SV",
-                  "price": 3.25
+                  "price": 3.35
                 },
                 {
                   "name": "Draw",
-                  "price": 3.8
+                  "price": 3.9
                 }
               ]
             }
@@ -299,15 +180,15 @@
               "outcomes": [
                 {
                   "name": "Eintracht Frankfurt",
-                  "price": 1.96
+                  "price": 1.88
                 },
                 {
                   "name": "Hamburger SV",
-                  "price": 3.1
+                  "price": 3.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.75
                 }
               ]
             }
@@ -321,15 +202,15 @@
               "outcomes": [
                 {
                   "name": "Eintracht Frankfurt",
-                  "price": 1.9
+                  "price": 1.83
                 },
                 {
                   "name": "Hamburger SV",
-                  "price": 3.1
+                  "price": 3.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.5
                 }
               ]
             }
@@ -343,15 +224,15 @@
               "outcomes": [
                 {
                   "name": "Eintracht Frankfurt",
-                  "price": 1.98
+                  "price": 1.83
                 },
                 {
                   "name": "Hamburger SV",
-                  "price": 3.13
+                  "price": 3.22
                 },
                 {
                   "name": "Draw",
-                  "price": 3.63
+                  "price": 3.53
                 }
               ]
             }
@@ -374,15 +255,15 @@
               "outcomes": [
                 {
                   "name": "FSV Mainz 05",
-                  "price": 1.55
+                  "price": 1.75
                 },
                 {
                   "name": "VfL Bochum",
-                  "price": 5.3
+                  "price": 4.2
                 },
                 {
                   "name": "Draw",
-                  "price": 4.4
+                  "price": 4.0
                 }
               ]
             }
@@ -396,15 +277,15 @@
               "outcomes": [
                 {
                   "name": "FSV Mainz 05",
-                  "price": 1.54
+                  "price": 1.78
                 },
                 {
                   "name": "VfL Bochum",
-                  "price": 5.2
+                  "price": 3.9
                 },
                 {
                   "name": "Draw",
-                  "price": 4.4
+                  "price": 4.0
                 }
               ]
             }
@@ -418,15 +299,15 @@
               "outcomes": [
                 {
                   "name": "FSV Mainz 05",
-                  "price": 1.5
+                  "price": 1.74
                 },
                 {
                   "name": "VfL Bochum",
-                  "price": 4.9
+                  "price": 3.7
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
+                  "price": 3.85
                 }
               ]
             }
@@ -440,15 +321,15 @@
               "outcomes": [
                 {
                   "name": "FSV Mainz 05",
-                  "price": 1.5
+                  "price": 1.58
                 },
                 {
                   "name": "VfL Bochum",
-                  "price": 4.7
+                  "price": 3.9
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 3.8
                 }
               ]
             }
@@ -462,15 +343,15 @@
               "outcomes": [
                 {
                   "name": "FSV Mainz 05",
-                  "price": 1.51
+                  "price": 1.75
                 },
                 {
                   "name": "VfL Bochum",
-                  "price": 5.0
+                  "price": 3.28
                 },
                 {
                   "name": "Draw",
-                  "price": 4.2
+                  "price": 3.78
                 }
               ]
             }
@@ -493,15 +374,15 @@
               "outcomes": [
                 {
                   "name": "RB Leipzig",
-                  "price": 1.15
+                  "price": 1.17
                 },
                 {
                   "name": "Rot-Weiss Essen",
-                  "price": 15.0
+                  "price": 13.0
                 },
                 {
                   "name": "Draw",
-                  "price": 8.0
+                  "price": 7.8
                 }
               ]
             }
@@ -515,15 +396,15 @@
               "outcomes": [
                 {
                   "name": "RB Leipzig",
-                  "price": 1.09
+                  "price": 1.1
                 },
                 {
                   "name": "Rot-Weiss Essen",
-                  "price": 12.0
+                  "price": 11.0
                 },
                 {
                   "name": "Draw",
-                  "price": 7.7
+                  "price": 7.0
                 }
               ]
             }
@@ -537,11 +418,11 @@
               "outcomes": [
                 {
                   "name": "RB Leipzig",
-                  "price": 1.12
+                  "price": 1.13
                 },
                 {
                   "name": "Rot-Weiss Essen",
-                  "price": 11.0
+                  "price": 10.5
                 },
                 {
                   "name": "Draw",
@@ -559,11 +440,11 @@
               "outcomes": [
                 {
                   "name": "RB Leipzig",
-                  "price": 1.14
+                  "price": 1.15
                 },
                 {
                   "name": "Rot-Weiss Essen",
-                  "price": 12.5
+                  "price": 12.0
                 },
                 {
                   "name": "Draw",
@@ -581,15 +462,15 @@
               "outcomes": [
                 {
                   "name": "RB Leipzig",
-                  "price": 1.13
+                  "price": 1.14
                 },
                 {
                   "name": "Rot-Weiss Essen",
-                  "price": 12.0
+                  "price": 9.75
                 },
                 {
                   "name": "Draw",
-                  "price": 7.5
+                  "price": 6.4
                 }
               ]
             }
@@ -612,15 +493,15 @@
               "outcomes": [
                 {
                   "name": "Lazio",
-                  "price": 2.12
+                  "price": 2.03
                 },
                 {
                   "name": "Sassuolo",
-                  "price": 3.56
+                  "price": 3.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.62
+                  "price": 3.68
                 }
               ]
             }
@@ -634,15 +515,15 @@
               "outcomes": [
                 {
                   "name": "Lazio",
-                  "price": 1.95
+                  "price": 1.9
                 },
                 {
                   "name": "Sassuolo",
-                  "price": 3.2
+                  "price": 3.3
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.4
                 }
               ]
             }
@@ -656,11 +537,11 @@
               "outcomes": [
                 {
                   "name": "Lazio",
-                  "price": 2.08
+                  "price": 1.99
                 },
                 {
                   "name": "Sassuolo",
-                  "price": 3.4
+                  "price": 3.65
                 },
                 {
                   "name": "Draw",
@@ -678,15 +559,15 @@
               "outcomes": [
                 {
                   "name": "Lazio",
-                  "price": 2.0
+                  "price": 1.91
                 },
                 {
                   "name": "Sassuolo",
-                  "price": 3.28
+                  "price": 3.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.53
+                  "price": 3.55
                 }
               ]
             }
@@ -700,11 +581,11 @@
               "outcomes": [
                 {
                   "name": "Lazio",
-                  "price": 1.98
+                  "price": 1.9
                 },
                 {
                   "name": "Sassuolo",
-                  "price": 3.15
+                  "price": 3.4
                 },
                 {
                   "name": "Draw",
@@ -731,15 +612,15 @@
               "outcomes": [
                 {
                   "name": "AIK",
-                  "price": 3.1
+                  "price": 3.35
                 },
                 {
                   "name": "IF Elfsborg",
-                  "price": 1.96
+                  "price": 1.83
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 3.55
                 }
               ]
             }
@@ -753,15 +634,15 @@
               "outcomes": [
                 {
                   "name": "AIK",
-                  "price": 3.3
+                  "price": 3.55
                 },
                 {
                   "name": "IF Elfsborg",
-                  "price": 2.06
+                  "price": 1.91
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.8
                 }
               ]
             }
@@ -775,15 +656,15 @@
               "outcomes": [
                 {
                   "name": "AIK",
-                  "price": 3.45
+                  "price": 3.75
                 },
                 {
                   "name": "IF Elfsborg",
-                  "price": 2.15
+                  "price": 1.97
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 4.0
                 }
               ]
             }
@@ -797,15 +678,15 @@
               "outcomes": [
                 {
                   "name": "AIK",
-                  "price": 3.3
+                  "price": 3.55
                 },
                 {
                   "name": "IF Elfsborg",
-                  "price": 2.06
+                  "price": 1.91
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 3.8
                 }
               ]
             }
@@ -819,15 +700,15 @@
               "outcomes": [
                 {
                   "name": "AIK",
-                  "price": 3.3
+                  "price": 3.55
                 },
                 {
                   "name": "IF Elfsborg",
-                  "price": 1.83
+                  "price": 1.74
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.65
                 }
               ]
             }
@@ -850,15 +731,15 @@
               "outcomes": [
                 {
                   "name": "Benevento",
-                  "price": 1.56
+                  "price": 1.48
                 },
                 {
                   "name": "US Catanzaro 1929",
-                  "price": 4.1
+                  "price": 4.5
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.7
                 }
               ]
             }
@@ -872,15 +753,15 @@
               "outcomes": [
                 {
                   "name": "Benevento",
-                  "price": 1.68
+                  "price": 1.6
                 },
                 {
                   "name": "US Catanzaro 1929",
-                  "price": 4.5
+                  "price": 5.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 4.0
                 }
               ]
             }
@@ -894,15 +775,15 @@
               "outcomes": [
                 {
                   "name": "Benevento",
-                  "price": 1.68
+                  "price": 1.6
                 },
                 {
                   "name": "US Catanzaro 1929",
-                  "price": 4.5
+                  "price": 5.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.85
+                  "price": 4.0
                 }
               ]
             }
@@ -916,15 +797,15 @@
               "outcomes": [
                 {
                   "name": "Benevento",
-                  "price": 1.62
+                  "price": 1.54
                 },
                 {
                   "name": "US Catanzaro 1929",
-                  "price": 4.3
+                  "price": 4.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.85
                 }
               ]
             }
@@ -938,11 +819,130 @@
               "outcomes": [
                 {
                   "name": "Benevento",
-                  "price": 1.5
+                  "price": 1.42
                 },
                 {
                   "name": "US Catanzaro 1929",
-                  "price": 4.35
+                  "price": 4.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.9
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec01b586713fc1baec5f2ac947458710",
+      "sport_key": "soccer_sweden_superettan",
+      "commence_time": "2026-10-27T18:00:00Z",
+      "home_team": "Landskrona BoIS",
+      "away_team": "Varbergs BoIS",
+      "bookmakers": [
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Landskrona BoIS",
+                  "price": 2.0
+                },
+                {
+                  "name": "Varbergs BoIS",
+                  "price": 3.29
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.07
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Landskrona BoIS",
+                  "price": 2.04
+                },
+                {
+                  "name": "Varbergs BoIS",
+                  "price": 3.26
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.74
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Landskrona BoIS",
+                  "price": 2.02
+                },
+                {
+                  "name": "Varbergs BoIS",
+                  "price": 3.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Landskrona BoIS",
+                  "price": 1.95
+                },
+                {
+                  "name": "Varbergs BoIS",
+                  "price": 3.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Landskrona BoIS",
+                  "price": 1.97
+                },
+                {
+                  "name": "Varbergs BoIS",
+                  "price": 3.31
                 },
                 {
                   "name": "Draw",
