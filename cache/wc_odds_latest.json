@@ -1,31 +1,31 @@
 {
-  "采集时间": "2026-10-31T02:58:12.312799",
+  "采集时间": "2026-10-31T11:19:32.811830",
   "比赛数": 10,
   "赔率数据": [
     {
-      "id": "8d32272737b4c421aa6c721af4bbaf11",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-10-31T01:00:00Z",
-      "home_team": "Atlético San Luis",
-      "away_team": "Atlas",
+      "id": "7ef8c62daf5d4e448691625fb8c2de1b",
+      "sport_key": "soccer_turkey_super_league",
+      "commence_time": "2026-10-31T10:30:00Z",
+      "home_team": "Erzurum BB",
+      "away_team": "Çorum FK",
       "bookmakers": [
         {
-          "name": "Unibet (SE)",
+          "name": "PMU (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atlas",
-                  "price": 1.07
+                  "name": "Erzurum BB",
+                  "price": 7.5
                 },
                 {
-                  "name": "Atlético San Luis",
-                  "price": 141.0
+                  "name": "Çorum FK",
+                  "price": 1.36
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
+                  "price": 3.35
                 }
               ]
             }
@@ -38,16 +38,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atlas",
-                  "price": 1.04
+                  "name": "Erzurum BB",
+                  "price": 7.5
                 },
                 {
-                  "name": "Atlético San Luis",
-                  "price": 81.0
+                  "name": "Çorum FK",
+                  "price": 1.36
                 },
                 {
                   "name": "Draw",
-                  "price": 8.5
+                  "price": 3.3
                 }
               ]
             }
@@ -60,60 +60,60 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atlas",
-                  "price": 1.07
+                  "name": "Erzurum BB",
+                  "price": 7.5
                 },
                 {
-                  "name": "Atlético San Luis",
-                  "price": 131.0
+                  "name": "Çorum FK",
+                  "price": 1.44
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
+                  "price": 3.5
                 }
               ]
             }
           ]
         },
         {
-          "name": "Betclic (FR)",
+          "name": "Unibet (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atlas",
-                  "price": 1.04
+                  "name": "Erzurum BB",
+                  "price": 6.5
                 },
                 {
-                  "name": "Atlético San Luis",
-                  "price": 40.0
+                  "name": "Çorum FK",
+                  "price": 1.42
                 },
                 {
                   "name": "Draw",
-                  "price": 8.0
+                  "price": 2.9
                 }
               ]
             }
           ]
         },
         {
-          "name": "Pinnacle",
+          "name": "Nordic Bet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atlas",
-                  "price": 1.26
+                  "name": "Erzurum BB",
+                  "price": 7.2
                 },
                 {
-                  "name": "Atlético San Luis",
-                  "price": 22.79
+                  "name": "Çorum FK",
+                  "price": 1.47
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 3.65
                 }
               ]
             }
@@ -122,73 +122,95 @@
       ]
     },
     {
-      "id": "5bbeb077e5f0305957083bfb1f466bb8",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-10-31T01:00:00Z",
-      "home_team": "FC Juárez",
-      "away_team": "Querétaro",
+      "id": "ddd725d18afbaf45baf4db45703281df",
+      "sport_key": "soccer_poland_ekstraklasa",
+      "commence_time": "2026-10-31T11:15:00Z",
+      "home_team": "Wisła Płock",
+      "away_team": "Piast Gliwice",
       "bookmakers": [
         {
-          "name": "Betclic (FR)",
+          "name": "Unibet (SE)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "FC Juárez",
-                  "price": 1.02
+                  "name": "Piast Gliwice",
+                  "price": 3.25
                 },
                 {
-                  "name": "Querétaro",
-                  "price": 100.0
+                  "name": "Wisła Płock",
+                  "price": 1.94
                 },
                 {
                   "name": "Draw",
-                  "price": 40.0
+                  "price": 3.5
                 }
               ]
             }
           ]
         },
         {
-          "name": "Betfair",
+          "name": "Unibet (NL)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "FC Juárez",
-                  "price": 1.03
+                  "name": "Piast Gliwice",
+                  "price": 3.35
                 },
                 {
-                  "name": "Querétaro",
-                  "price": 210.0
+                  "name": "Wisła Płock",
+                  "price": 1.89
                 },
                 {
                   "name": "Draw",
-                  "price": 28.0
+                  "price": 3.55
                 }
               ]
             }
           ]
         },
         {
-          "name": "888sport",
+          "name": "LeoVegas (SE)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "FC Juárez",
-                  "price": 1.0
+                  "name": "Piast Gliwice",
+                  "price": 3.15
                 },
                 {
-                  "name": "Querétaro",
-                  "price": 151.0
+                  "name": "Wisła Płock",
+                  "price": 1.77
                 },
                 {
                   "name": "Draw",
-                  "price": 41.0
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Piast Gliwice",
+                  "price": 3.1
+                },
+                {
+                  "name": "Wisła Płock",
+                  "price": 1.72
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
                 }
               ]
             }
@@ -201,38 +223,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "FC Juárez",
-                  "price": 1.0
+                  "name": "Piast Gliwice",
+                  "price": 3.05
                 },
                 {
-                  "name": "Querétaro",
-                  "price": 26.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 26.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Juárez",
-                  "price": 1.0
-                },
-                {
-                  "name": "Querétaro",
-                  "price": 26.0
+                  "name": "Wisła Płock",
+                  "price": 2.0
                 },
                 {
                   "name": "Draw",
-                  "price": 26.0
+                  "price": 3.4
                 }
               ]
             }
@@ -241,56 +241,12 @@
       ]
     },
     {
-      "id": "6e0006f84b338bc549341db71eb48c61",
-      "sport_key": "soccer_mexico_ligamx",
-      "commence_time": "2026-10-31T03:00:00Z",
-      "home_team": "Puebla",
-      "away_team": "Pumas",
+      "id": "4b9f1f092566a24bda67fb53a4a9abdc",
+      "sport_key": "soccer_germany_bundesliga2",
+      "commence_time": "2026-10-31T12:00:00Z",
+      "home_team": "1. FC Kaiserslautern",
+      "away_team": "Hertha Berlin",
       "bookmakers": [
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Puebla",
-                  "price": 3.05
-                },
-                {
-                  "name": "Pumas",
-                  "price": 1.88
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.25
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Puebla",
-                  "price": 3.25
-                },
-                {
-                  "name": "Pumas",
-                  "price": 2.02
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.5
-                }
-              ]
-            }
-          ]
-        },
         {
           "name": "Unibet (SE)",
           "markets": [
@@ -298,12 +254,34 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Puebla",
-                  "price": 3.25
+                  "name": "1. FC Kaiserslautern",
+                  "price": 2.8
                 },
                 {
-                  "name": "Pumas",
-                  "price": 2.02
+                  "name": "Hertha Berlin",
+                  "price": 2.28
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Kaiserslautern",
+                  "price": 2.63
+                },
+                {
+                  "name": "Hertha Berlin",
+                  "price": 2.16
                 },
                 {
                   "name": "Draw",
@@ -320,87 +298,12 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Puebla",
-                  "price": 3.15
+                  "name": "1. FC Kaiserslautern",
+                  "price": 2.65
                 },
                 {
-                  "name": "Pumas",
-                  "price": 1.94
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.35
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Puebla",
-                  "price": 3.48
-                },
-                {
-                  "name": "Pumas",
-                  "price": 1.81
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.33
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2598436b6a4f1de91ecd324f65adbb37",
-      "sport_key": "soccer_australia_aleague",
-      "commence_time": "2026-10-31T04:00:00Z",
-      "home_team": "Newcastle Jets FC",
-      "away_team": "Wellington Phoenix FC",
-      "bookmakers": [
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Newcastle Jets FC",
-                  "price": 2.3
-                },
-                {
-                  "name": "Wellington Phoenix FC",
-                  "price": 2.62
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Newcastle Jets FC",
-                  "price": 2.15
-                },
-                {
-                  "name": "Wellington Phoenix FC",
-                  "price": 2.45
+                  "name": "Hertha Berlin",
+                  "price": 2.2
                 },
                 {
                   "name": "Draw",
@@ -411,40 +314,71 @@
           ]
         },
         {
-          "name": "Winamax (DE)",
+          "name": "Unibet (NL)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Newcastle Jets FC",
-                  "price": 2.25
+                  "name": "1. FC Kaiserslautern",
+                  "price": 2.8
                 },
                 {
-                  "name": "Wellington Phoenix FC",
-                  "price": 2.55
+                  "name": "Hertha Berlin",
+                  "price": 2.28
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.7
                 }
               ]
             }
           ]
         },
         {
-          "name": "Unibet (FR)",
+          "name": "Tipico",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Newcastle Jets FC",
-                  "price": 2.1
+                  "name": "1. FC Kaiserslautern",
+                  "price": 2.75
                 },
                 {
-                  "name": "Wellington Phoenix FC",
-                  "price": 2.6
+                  "name": "Hertha Berlin",
+                  "price": 2.35
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12d828d419288eb7705807015c3547d1",
+      "sport_key": "soccer_germany_bundesliga2",
+      "commence_time": "2026-10-31T12:00:00Z",
+      "home_team": "SV Darmstadt 98",
+      "away_team": "1. FC Magdeburg",
+      "bookmakers": [
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Magdeburg",
+                  "price": 2.18
+                },
+                {
+                  "name": "SV Darmstadt 98",
+                  "price": 2.95
                 },
                 {
                   "name": "Draw",
@@ -455,18 +389,18 @@
           ]
         },
         {
-          "name": "William Hill",
+          "name": "LeoVegas (SE)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Newcastle Jets FC",
-                  "price": 2.3
+                  "name": "1. FC Magdeburg",
+                  "price": 2.1
                 },
                 {
-                  "name": "Wellington Phoenix FC",
-                  "price": 2.62
+                  "name": "SV Darmstadt 98",
+                  "price": 2.85
                 },
                 {
                   "name": "Draw",
@@ -475,55 +409,99 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "8b18ed9b1b431d4efa999b9a96104067",
-      "sport_key": "soccer_korea_kleague1",
-      "commence_time": "2026-10-31T05:00:00Z",
-      "home_team": "Jeonbuk Hyundai Motors",
-      "away_team": "Daejeon Citizen",
-      "bookmakers": [
+        },
         {
-          "name": "Pinnacle",
+          "name": "PMU (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Daejeon Citizen",
-                  "price": 2.75
+                  "name": "1. FC Magdeburg",
+                  "price": 2.07
                 },
                 {
-                  "name": "Jeonbuk Hyundai Motors",
-                  "price": 2.65
+                  "name": "SV Darmstadt 98",
+                  "price": 2.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.47
+                  "price": 3.45
                 }
               ]
             }
           ]
         },
         {
-          "name": "Marathon Bet",
+          "name": "Unibet (NL)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Daejeon Citizen",
-                  "price": 2.58
+                  "name": "1. FC Magdeburg",
+                  "price": 2.18
                 },
                 {
-                  "name": "Jeonbuk Hyundai Motors",
-                  "price": 2.57
+                  "name": "SV Darmstadt 98",
+                  "price": 2.95
                 },
                 {
                   "name": "Draw",
-                  "price": 3.35
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "1. FC Magdeburg",
+                  "price": 2.2
+                },
+                {
+                  "name": "SV Darmstadt 98",
+                  "price": 3.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e3b471ce6669eeb025235678fd3e6a0d",
+      "sport_key": "soccer_sweden_superettan",
+      "commence_time": "2026-10-31T12:00:00Z",
+      "home_team": "IFK Norrkoping",
+      "away_team": "Östersunds FK",
+      "bookmakers": [
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 2.25
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 3.01
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
                 }
               ]
             }
@@ -536,12 +514,250 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Daejeon Citizen",
-                  "price": 2.55
+                  "name": "IFK Norrkoping",
+                  "price": 2.2
                 },
                 {
-                  "name": "Jeonbuk Hyundai Motors",
-                  "price": 2.45
+                  "name": "Östersunds FK",
+                  "price": 2.95
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BetOnline.ag",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 2.24
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 2.94
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 2.25
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 3.07
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "IFK Norrkoping",
+                  "price": 2.21
+                },
+                {
+                  "name": "Östersunds FK",
+                  "price": 2.97
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.44
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faf65ee187576491d1feab23b17aadff",
+      "sport_key": "soccer_germany_bundesliga2",
+      "commence_time": "2026-10-31T12:00:00Z",
+      "home_team": "VfL Wolfsburg",
+      "away_team": "VfL Osnabrück",
+      "bookmakers": [
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "VfL Osnabrück",
+                  "price": 4.6
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.52
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "VfL Osnabrück",
+                  "price": 5.3
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.53
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "VfL Osnabrück",
+                  "price": 5.0
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.52
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.9
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "VfL Osnabrück",
+                  "price": 5.0
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.48
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "VfL Osnabrück",
+                  "price": 5.3
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.53
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.5
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fde3790b1f7bc694043acd05fc1c65f6",
+      "sport_key": "soccer_russia_premier_league",
+      "commence_time": "2026-10-31T12:15:00Z",
+      "home_team": "Rubin Kazan",
+      "away_team": "FC Fakel Voronezh",
+      "bookmakers": [
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Fakel Voronezh",
+                  "price": 4.31
+                },
+                {
+                  "name": "Rubin Kazan",
+                  "price": 2.03
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.26
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Marathon Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Fakel Voronezh",
+                  "price": 4.15
+                },
+                {
+                  "name": "Rubin Kazan",
+                  "price": 2.01
                 },
                 {
                   "name": "Draw",
@@ -552,18 +768,278 @@
           ]
         },
         {
-          "name": "Unibet (FR)",
+          "name": "1xBet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Daejeon Citizen",
-                  "price": 2.5
+                  "name": "FC Fakel Voronezh",
+                  "price": 4.25
                 },
                 {
-                  "name": "Jeonbuk Hyundai Motors",
-                  "price": 2.2
+                  "name": "Rubin Kazan",
+                  "price": 2.06
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.38
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BetOnline.ag",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Fakel Voronezh",
+                  "price": 4.1
+                },
+                {
+                  "name": "Rubin Kazan",
+                  "price": 2.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "FC Fakel Voronezh",
+                  "price": 3.7
+                },
+                {
+                  "name": "Rubin Kazan",
+                  "price": 2.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.15
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1765ba3479499dda4fa86f4598e8b18a",
+      "sport_key": "soccer_efl_champ",
+      "commence_time": "2026-10-31T12:30:00Z",
+      "home_team": "Lincoln City",
+      "away_team": "Birmingham City",
+      "bookmakers": [
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Birmingham City",
+                  "price": 2.23
+                },
+                {
+                  "name": "Lincoln City",
+                  "price": 3.15
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.3
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Birmingham City",
+                  "price": 2.3
+                },
+                {
+                  "name": "Lincoln City",
+                  "price": 3.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Birmingham City",
+                  "price": 2.14
+                },
+                {
+                  "name": "Lincoln City",
+                  "price": 2.95
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.1
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Birmingham City",
+                  "price": 2.18
+                },
+                {
+                  "name": "Lincoln City",
+                  "price": 3.05
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Birmingham City",
+                  "price": 2.1
+                },
+                {
+                  "name": "Lincoln City",
+                  "price": 2.93
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.28
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4809665c17d9dc5a2537ef9e2fe728b8",
+      "sport_key": "soccer_england_league1",
+      "commence_time": "2026-10-31T12:30:00Z",
+      "home_team": "Bradford City",
+      "away_team": "Huddersfield Town",
+      "bookmakers": [
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bradford City",
+                  "price": 2.7
+                },
+                {
+                  "name": "Huddersfield Town",
+                  "price": 2.32
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.25
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bradford City",
+                  "price": 2.8
+                },
+                {
+                  "name": "Huddersfield Town",
+                  "price": 2.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bradford City",
+                  "price": 2.8
+                },
+                {
+                  "name": "Huddersfield Town",
+                  "price": 2.4
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bradford City",
+                  "price": 2.75
+                },
+                {
+                  "name": "Huddersfield Town",
+                  "price": 2.36
                 },
                 {
                   "name": "Draw",
@@ -580,43 +1056,12 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Daejeon Citizen",
-                  "price": 2.58
+                  "name": "Bradford City",
+                  "price": 2.82
                 },
                 {
-                  "name": "Jeonbuk Hyundai Motors",
-                  "price": 2.57
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.35
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a9253ca8c9bc3380fe685b272135ad88",
-      "sport_key": "soccer_japan_j_league",
-      "commence_time": "2026-10-31T05:00:00Z",
-      "home_team": "Fagiano Okayama",
-      "away_team": "FC Tokyo",
-      "bookmakers": [
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fagiano Okayama",
-                  "price": 3.6
-                },
-                {
-                  "name": "FC Tokyo",
-                  "price": 1.74
+                  "name": "Huddersfield Town",
+                  "price": 2.4
                 },
                 {
                   "name": "Draw",
@@ -625,236 +1070,51 @@
               ]
             }
           ]
-        },
-        {
-          "name": "BetOnline.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fagiano Okayama",
-                  "price": 3.9
-                },
-                {
-                  "name": "FC Tokyo",
-                  "price": 1.94
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fagiano Okayama",
-                  "price": 3.75
-                },
-                {
-                  "name": "FC Tokyo",
-                  "price": 1.9
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fagiano Okayama",
-                  "price": 3.85
-                },
-                {
-                  "name": "FC Tokyo",
-                  "price": 1.93
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Fagiano Okayama",
-                  "price": 3.75
-                },
-                {
-                  "name": "FC Tokyo",
-                  "price": 1.9
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
         }
       ]
     },
     {
-      "id": "e0860c12488322d6c115dc17938534b6",
-      "sport_key": "soccer_japan_j_league",
-      "commence_time": "2026-10-31T05:00:00Z",
-      "home_team": "Mito HollyHock",
-      "away_team": "Hiroshima Sanfrecce FC",
+      "id": "8c8fdfd8bb0b4de9aa0c916741dc498f",
+      "sport_key": "soccer_england_league1",
+      "commence_time": "2026-10-31T12:30:00Z",
+      "home_team": "Leyton Orient",
+      "away_team": "Cambridge United",
       "bookmakers": [
         {
-          "name": "BetOnline.ag",
+          "name": "Unibet (NL)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Hiroshima Sanfrecce FC",
-                  "price": 1.38
+                  "name": "Cambridge United",
+                  "price": 2.7
                 },
                 {
-                  "name": "Mito HollyHock",
-                  "price": 7.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hiroshima Sanfrecce FC",
-                  "price": 1.38
-                },
-                {
-                  "name": "Mito HollyHock",
-                  "price": 8.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hiroshima Sanfrecce FC",
-                  "price": 1.35
-                },
-                {
-                  "name": "Mito HollyHock",
-                  "price": 7.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hiroshima Sanfrecce FC",
-                  "price": 1.27
-                },
-                {
-                  "name": "Mito HollyHock",
-                  "price": 6.8
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Hiroshima Sanfrecce FC",
-                  "price": 1.35
-                },
-                {
-                  "name": "Mito HollyHock",
-                  "price": 7.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.8
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ec810cf82e91232ce2396119b11e701e",
-      "sport_key": "soccer_japan_j_league",
-      "commence_time": "2026-10-31T05:00:00Z",
-      "home_team": "Kyoto Purple Sanga",
-      "away_team": "Shimizu S Pulse",
-      "bookmakers": [
-        {
-          "name": "BetOnline.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Kyoto Purple Sanga",
+                  "name": "Leyton Orient",
                   "price": 2.5
                 },
                 {
-                  "name": "Shimizu S Pulse",
-                  "price": 2.98
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Cambridge United",
+                  "price": 2.6
+                },
+                {
+                  "name": "Leyton Orient",
+                  "price": 2.43
                 },
                 {
                   "name": "Draw",
@@ -865,278 +1125,18 @@
           ]
         },
         {
-          "name": "Betsson",
+          "name": "Unibet (SE)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Kyoto Purple Sanga",
-                  "price": 2.42
-                },
-                {
-                  "name": "Shimizu S Pulse",
-                  "price": 2.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Kyoto Purple Sanga",
-                  "price": 2.25
-                },
-                {
-                  "name": "Shimizu S Pulse",
-                  "price": 2.6
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.1
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Kyoto Purple Sanga",
-                  "price": 2.15
-                },
-                {
-                  "name": "Shimizu S Pulse",
+                  "name": "Cambridge United",
                   "price": 2.7
                 },
                 {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Kyoto Purple Sanga",
-                  "price": 2.4
-                },
-                {
-                  "name": "Shimizu S Pulse",
-                  "price": 2.9
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "35da9f35867b19383c7de0a551765104",
-      "sport_key": "soccer_japan_j_league",
-      "commence_time": "2026-10-31T06:00:00Z",
-      "home_team": "Kashima Antlers",
-      "away_team": "Cerezo Osaka",
-      "bookmakers": [
-        {
-          "name": "BetOnline.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cerezo Osaka",
-                  "price": 4.4
-                },
-                {
-                  "name": "Kashima Antlers",
-                  "price": 1.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cerezo Osaka",
-                  "price": 4.3
-                },
-                {
-                  "name": "Kashima Antlers",
-                  "price": 1.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.85
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cerezo Osaka",
-                  "price": 4.3
-                },
-                {
-                  "name": "Kashima Antlers",
-                  "price": 1.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.85
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cerezo Osaka",
-                  "price": 4.15
-                },
-                {
-                  "name": "Kashima Antlers",
-                  "price": 1.55
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Cerezo Osaka",
-                  "price": 4.5
-                },
-                {
-                  "name": "Kashima Antlers",
-                  "price": 1.72
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "387df7ecc8128908ff3a4e1bdd5ca068",
-      "sport_key": "soccer_australia_aleague",
-      "commence_time": "2026-10-31T06:00:00Z",
-      "home_team": "Melbourne City",
-      "away_team": "Sydney FC",
-      "bookmakers": [
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Melbourne City",
-                  "price": 2.0
-                },
-                {
-                  "name": "Sydney FC",
-                  "price": 3.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Melbourne City",
-                  "price": 1.9
-                },
-                {
-                  "name": "Sydney FC",
-                  "price": 3.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Melbourne City",
-                  "price": 1.86
-                },
-                {
-                  "name": "Sydney FC",
-                  "price": 3.4
+                  "name": "Leyton Orient",
+                  "price": 2.5
                 },
                 {
                   "name": "Draw",
@@ -1147,44 +1147,44 @@
           ]
         },
         {
-          "name": "Winamax (DE)",
+          "name": "1xBet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Melbourne City",
-                  "price": 1.98
+                  "name": "Cambridge United",
+                  "price": 2.67
                 },
                 {
-                  "name": "Sydney FC",
-                  "price": 3.3
+                  "name": "Leyton Orient",
+                  "price": 2.47
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.38
                 }
               ]
             }
           ]
         },
         {
-          "name": "William Hill",
+          "name": "Codere (IT)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Melbourne City",
-                  "price": 2.0
+                  "name": "Cambridge United",
+                  "price": 2.6
                 },
                 {
-                  "name": "Sydney FC",
-                  "price": 3.3
+                  "name": "Leyton Orient",
+                  "price": 2.47
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.25
                 }
               ]
             }
