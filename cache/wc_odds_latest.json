@@ -1,75 +1,75 @@
 {
-  "采集时间": "2026-11-02T13:59:07.330991",
-  "比赛数": 9,
+  "采集时间": "2026-11-03T00:07:06.148612",
+  "比赛数": 12,
   "赔率数据": [
     {
-      "id": "f89b9247af7cc118faae54ec9f0934ee",
-      "sport_key": "soccer_spain_segunda_division",
-      "commence_time": "2026-11-02T13:00:00Z",
-      "home_team": "Tenerife",
-      "away_team": "Andorra CF",
+      "id": "502836f56485f98d79663395227c4b25",
+      "sport_key": "soccer_argentina_primera_division",
+      "commence_time": "2026-11-02T22:01:00Z",
+      "home_team": "Defensa y Justicia",
+      "away_team": "Independiente",
       "bookmakers": [
         {
-          "name": "Betsson",
+          "name": "Betclic (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Andorra CF",
-                  "price": 26.0
+                  "name": "Defensa y Justicia",
+                  "price": 8.5
                 },
                 {
-                  "name": "Tenerife",
-                  "price": 1.05
+                  "name": "Independiente",
+                  "price": 11.25
                 },
                 {
                   "name": "Draw",
-                  "price": 9.1
+                  "price": 1.09
                 }
               ]
             }
           ]
         },
         {
-          "name": "Tipico",
+          "name": "Unibet (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Andorra CF",
-                  "price": 35.0
+                  "name": "Defensa y Justicia",
+                  "price": 8.25
                 },
                 {
-                  "name": "Tenerife",
+                  "name": "Independiente",
+                  "price": 9.25
+                },
+                {
+                  "name": "Draw",
                   "price": 1.02
-                },
-                {
-                  "name": "Draw",
-                  "price": 10.0
                 }
               ]
             }
           ]
         },
         {
-          "name": "Winamax (FR)",
+          "name": "Unibet (SE)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Andorra CF",
-                  "price": 30.0
+                  "name": "Defensa y Justicia",
+                  "price": 41.0
                 },
                 {
-                  "name": "Tenerife",
-                  "price": 1.03
+                  "name": "Independiente",
+                  "price": 14.0
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
+                  "price": 1.04
                 }
               ]
             }
@@ -82,38 +82,38 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Andorra CF",
-                  "price": 30.0
+                  "name": "Defensa y Justicia",
+                  "price": 19.0
                 },
                 {
-                  "name": "Tenerife",
-                  "price": 1.05
+                  "name": "Independiente",
+                  "price": 21.0
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
+                  "price": 1.03
                 }
               ]
             }
           ]
         },
         {
-          "name": "Coolbet",
+          "name": "LeoVegas (SE)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Andorra CF",
-                  "price": 28.0
+                  "name": "Defensa y Justicia",
+                  "price": 31.0
                 },
                 {
-                  "name": "Tenerife",
-                  "price": 1.06
+                  "name": "Independiente",
+                  "price": 11.5
                 },
                 {
                   "name": "Draw",
-                  "price": 10.0
+                  "price": 1.01
                 }
               ]
             }
@@ -122,12 +122,197 @@
       ]
     },
     {
-      "id": "6427e4ec579967b3a80259bfc2a27c9f",
-      "sport_key": "soccer_russia_premier_league",
-      "commence_time": "2026-11-02T15:00:00Z",
-      "home_team": "Kryliya Sovetov",
-      "away_team": "Zenit St Petersburg",
+      "id": "5bab6fa1aa508d533a40f86e0b82605e",
+      "sport_key": "soccer_brazil_campeonato",
+      "commence_time": "2026-11-02T23:00:00Z",
+      "home_team": "Bragantino-SP",
+      "away_team": "Santos",
       "bookmakers": [
+        {
+          "name": "PMU (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bragantino-SP",
+                  "price": 1.43
+                },
+                {
+                  "name": "Santos",
+                  "price": 5.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bragantino-SP",
+                  "price": 1.47
+                },
+                {
+                  "name": "Santos",
+                  "price": 5.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bragantino-SP",
+                  "price": 1.49
+                },
+                {
+                  "name": "Santos",
+                  "price": 5.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bragantino-SP",
+                  "price": 1.55
+                },
+                {
+                  "name": "Santos",
+                  "price": 6.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.65
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Bragantino-SP",
+                  "price": 1.4
+                },
+                {
+                  "name": "Santos",
+                  "price": 5.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.1
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36706899518f639c53d5d56f4278dcbd",
+      "sport_key": "soccer_brazil_serie_b",
+      "commence_time": "2026-11-02T23:30:00Z",
+      "home_team": "Goiás",
+      "away_team": "Clube de Regatas Brasil",
+      "bookmakers": [
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Clube de Regatas Brasil",
+                  "price": 3.4
+                },
+                {
+                  "name": "Goiás",
+                  "price": 2.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.88
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nordic Bet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Clube de Regatas Brasil",
+                  "price": 3.3
+                },
+                {
+                  "name": "Goiás",
+                  "price": 2.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.88
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betsson",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Clube de Regatas Brasil",
+                  "price": 3.3
+                },
+                {
+                  "name": "Goiás",
+                  "price": 2.2
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.88
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "Pinnacle",
           "markets": [
@@ -135,38 +320,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Kryliya Sovetov",
-                  "price": 6.13
+                  "name": "Clube de Regatas Brasil",
+                  "price": 3.64
                 },
                 {
-                  "name": "Zenit St Petersburg",
-                  "price": 1.53
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.58
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Kryliya Sovetov",
-                  "price": 5.84
-                },
-                {
-                  "name": "Zenit St Petersburg",
-                  "price": 1.6
+                  "name": "Goiás",
+                  "price": 2.12
                 },
                 {
                   "name": "Draw",
-                  "price": 4.56
+                  "price": 3.12
                 }
               ]
             }
@@ -179,38 +342,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Kryliya Sovetov",
-                  "price": 5.7
+                  "name": "Clube de Regatas Brasil",
+                  "price": 3.36
                 },
                 {
-                  "name": "Zenit St Petersburg",
-                  "price": 1.56
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.45
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "BetOnline.ag",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Kryliya Sovetov",
-                  "price": 5.7
-                },
-                {
-                  "name": "Zenit St Petersburg",
-                  "price": 1.51
+                  "name": "Goiás",
+                  "price": 2.16
                 },
                 {
                   "name": "Draw",
-                  "price": 4.3
+                  "price": 2.88
                 }
               ]
             }
@@ -219,11 +360,130 @@
       ]
     },
     {
-      "id": "6891a7ee06d4118eba6fb1ea59026099",
-      "sport_key": "soccer_spain_segunda_division",
-      "commence_time": "2026-11-02T15:15:00Z",
-      "home_team": "Oviedo",
-      "away_team": "Las Palmas",
+      "id": "428dbcf68c91ee459b50c0d98f7374ce",
+      "sport_key": "soccer_chile_campeonato",
+      "commence_time": "2026-11-02T23:30:00Z",
+      "home_team": "Deportes Concepción",
+      "away_team": "Palestino",
+      "bookmakers": [
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Deportes Concepción",
+                  "price": 2.7
+                },
+                {
+                  "name": "Palestino",
+                  "price": 2.83
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.92
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Deportes Concepción",
+                  "price": 2.7
+                },
+                {
+                  "name": "Palestino",
+                  "price": 2.62
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tipico",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Deportes Concepción",
+                  "price": 2.8
+                },
+                {
+                  "name": "Palestino",
+                  "price": 2.5
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Deportes Concepción",
+                  "price": 2.45
+                },
+                {
+                  "name": "Palestino",
+                  "price": 2.63
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Deportes Concepción",
+                  "price": 2.6
+                },
+                {
+                  "name": "Palestino",
+                  "price": 2.8
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.75
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a41ed4b74cdea4bb58e2d9643eedb150",
+      "sport_key": "soccer_argentina_primera_division",
+      "commence_time": "2026-11-03T00:15:00Z",
+      "home_team": "Atlético Tucuman",
+      "away_team": "Argentinos Juniors",
       "bookmakers": [
         {
           "name": "Unibet (FR)",
@@ -232,38 +492,82 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Las Palmas",
-                  "price": 4.4
+                  "name": "Argentinos Juniors",
+                  "price": 2.25
                 },
                 {
-                  "name": "Oviedo",
-                  "price": 1.5
+                  "name": "Atlético Tucuman",
+                  "price": 2.55
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 2.65
                 }
               ]
             }
           ]
         },
         {
-          "name": "Betsson",
+          "name": "1xBet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Las Palmas",
-                  "price": 4.7
+                  "name": "Argentinos Juniors",
+                  "price": 2.75
                 },
                 {
-                  "name": "Oviedo",
-                  "price": 1.65
+                  "name": "Atlético Tucuman",
+                  "price": 2.95
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 2.95
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Argentinos Juniors",
+                  "price": 2.4
+                },
+                {
+                  "name": "Atlético Tucuman",
+                  "price": 2.6
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.8
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Argentinos Juniors",
+                  "price": 2.55
+                },
+                {
+                  "name": "Atlético Tucuman",
+                  "price": 2.75
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.95
                 }
               ]
             }
@@ -276,12 +580,43 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Las Palmas",
-                  "price": 4.7
+                  "name": "Argentinos Juniors",
+                  "price": 2.43
                 },
                 {
-                  "name": "Oviedo",
-                  "price": 1.61
+                  "name": "Atlético Tucuman",
+                  "price": 2.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 2.8
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "50df068deb2aa655cf35d4ea23848697",
+      "sport_key": "soccer_argentina_primera_division",
+      "commence_time": "2026-11-03T00:15:00Z",
+      "home_team": "Independiente Rivadavia",
+      "away_team": "Banfield",
+      "bookmakers": [
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Banfield",
+                  "price": 5.52
+                },
+                {
+                  "name": "Independiente Rivadavia",
+                  "price": 1.69
                 },
                 {
                   "name": "Draw",
@@ -292,75 +627,22 @@
           ]
         },
         {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Las Palmas",
-                  "price": 4.7
-                },
-                {
-                  "name": "Oviedo",
-                  "price": 1.65
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.65
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Las Palmas",
-                  "price": 4.85
-                },
-                {
-                  "name": "Oviedo",
-                  "price": 1.7
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.03
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "67ce5949d5197dc17df95d618bff185b",
-      "sport_key": "soccer_greece_super_league",
-      "commence_time": "2026-11-02T16:00:00Z",
-      "home_team": "Atromitos Athens",
-      "away_team": "Volos FC",
-      "bookmakers": [
-        {
           "name": "Winamax (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atromitos Athens",
-                  "price": 1.76
+                  "name": "Banfield",
+                  "price": 4.6
                 },
                 {
-                  "name": "Volos FC",
-                  "price": 3.6
+                  "name": "Independiente Rivadavia",
+                  "price": 1.52
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.6
                 }
               ]
             }
@@ -373,16 +655,91 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atromitos Athens",
-                  "price": 1.82
+                  "name": "Banfield",
+                  "price": 4.9
                 },
                 {
-                  "name": "Volos FC",
-                  "price": 3.8
+                  "name": "Independiente Rivadavia",
+                  "price": 1.58
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.85
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Banfield",
+                  "price": 4.55
+                },
+                {
+                  "name": "Independiente Rivadavia",
+                  "price": 1.45
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.35
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Banfield",
+                  "price": 4.85
+                },
+                {
+                  "name": "Independiente Rivadavia",
+                  "price": 1.53
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.58
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9b8076d3ffa027df6f6cb3189de46706",
+      "sport_key": "soccer_uefa_champs_league",
+      "commence_time": "2026-11-03T17:45:00Z",
+      "home_team": "Galatasaray",
+      "away_team": "VfB Stuttgart",
+      "bookmakers": [
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Galatasaray",
+                  "price": 2.0
+                },
+                {
+                  "name": "VfB Stuttgart",
+                  "price": 2.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 4.0
                 }
               ]
             }
@@ -395,131 +752,34 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atromitos Athens",
-                  "price": 1.84
+                  "name": "Galatasaray",
+                  "price": 2.23
                 },
                 {
-                  "name": "Volos FC",
-                  "price": 4.08
+                  "name": "VfB Stuttgart",
+                  "price": 3.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.55
+                  "price": 4.26
                 }
               ]
             }
           ]
         },
         {
-          "name": "Betsson",
+          "name": "Winamax (DE)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Atromitos Athens",
-                  "price": 1.88
+                  "name": "Galatasaray",
+                  "price": 2.05
                 },
                 {
-                  "name": "Volos FC",
-                  "price": 4.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.55
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Atromitos Athens",
-                  "price": 1.82
-                },
-                {
-                  "name": "Volos FC",
-                  "price": 4.1
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b2b864cf9a409667964017eb1152e760",
-      "sport_key": "soccer_finland_veikkausliiga",
-      "commence_time": "2026-11-02T16:00:00Z",
-      "home_team": "FC Inter Turku",
-      "away_team": "IF Gnistan",
-      "bookmakers": [
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Inter Turku",
-                  "price": 1.36
-                },
-                {
-                  "name": "IF Gnistan",
-                  "price": 6.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Inter Turku",
-                  "price": 1.38
-                },
-                {
-                  "name": "IF Gnistan",
-                  "price": 6.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "PMU (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "FC Inter Turku",
-                  "price": 1.3
-                },
-                {
-                  "name": "IF Gnistan",
-                  "price": 6.1
+                  "name": "VfB Stuttgart",
+                  "price": 2.8
                 },
                 {
                   "name": "Draw",
@@ -530,22 +790,75 @@
           ]
         },
         {
-          "name": "Unibet (SE)",
+          "name": "Marathon Bet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "FC Inter Turku",
-                  "price": 1.38
+                  "name": "Galatasaray",
+                  "price": 2.2
                 },
                 {
-                  "name": "IF Gnistan",
-                  "price": 6.5
+                  "name": "VfB Stuttgart",
+                  "price": 2.95
                 },
                 {
                   "name": "Draw",
-                  "price": 4.5
+                  "price": 4.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Betclic (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Galatasaray",
+                  "price": 2.05
+                },
+                {
+                  "name": "VfB Stuttgart",
+                  "price": 2.87
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.95
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "55e0f74a61f7d72defa7ea0c83532ea5",
+      "sport_key": "soccer_uefa_champs_league",
+      "commence_time": "2026-11-03T17:45:00Z",
+      "home_team": "Shakhtar Donetsk",
+      "away_team": "Sporting Lisbon",
+      "bookmakers": [
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Shakhtar Donetsk",
+                  "price": 3.45
+                },
+                {
+                  "name": "Sporting Lisbon",
+                  "price": 1.92
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.8
                 }
               ]
             }
@@ -558,16 +871,82 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "FC Inter Turku",
-                  "price": 1.27
+                  "name": "Shakhtar Donetsk",
+                  "price": 3.3
                 },
                 {
-                  "name": "IF Gnistan",
-                  "price": 6.2
+                  "name": "Sporting Lisbon",
+                  "price": 1.85
                 },
                 {
                   "name": "Draw",
-                  "price": 4.45
+                  "price": 3.4
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Shakhtar Donetsk",
+                  "price": 3.6
+                },
+                {
+                  "name": "Sporting Lisbon",
+                  "price": 2.02
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (FR)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Shakhtar Donetsk",
+                  "price": 3.35
+                },
+                {
+                  "name": "Sporting Lisbon",
+                  "price": 1.88
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Coolbet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Shakhtar Donetsk",
+                  "price": 3.75
+                },
+                {
+                  "name": "Sporting Lisbon",
+                  "price": 2.02
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.85
                 }
               ]
             }
@@ -576,29 +955,192 @@
       ]
     },
     {
-      "id": "11cac173c46d91f4909c91dd4210e5b8",
-      "sport_key": "soccer_finland_veikkausliiga",
-      "commence_time": "2026-11-02T16:00:00Z",
-      "home_team": "VPS Vaasa",
-      "away_team": "HJK Helsinki",
+      "id": "0f9d7f44240788cb669e5b0c5e046b87",
+      "sport_key": "soccer_spain_copa_del_rey",
+      "commence_time": "2026-11-03T18:00:00Z",
+      "home_team": "Anaitasuna",
+      "away_team": "Alavés",
       "bookmakers": [
         {
-          "name": "Unibet (FR)",
+          "name": "1xBet",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "HJK Helsinki",
-                  "price": 1.28
+                  "name": "Alavés",
+                  "price": 1.02
                 },
                 {
-                  "name": "VPS Vaasa",
-                  "price": 5.8
+                  "name": "Anaitasuna",
+                  "price": 32.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.55
+                  "price": 15.5
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Alavés",
+                  "price": 1.01
+                },
+                {
+                  "name": "Anaitasuna",
+                  "price": 25.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 15.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Alavés",
+                  "price": 1.03
+                },
+                {
+                  "name": "Anaitasuna",
+                  "price": 40.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 13.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Alavés",
+                  "price": 1.04
+                },
+                {
+                  "name": "Anaitasuna",
+                  "price": 36.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 15.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "William Hill",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Alavés",
+                  "price": 1.04
+                },
+                {
+                  "name": "Anaitasuna",
+                  "price": 36.0
+                },
+                {
+                  "name": "Draw",
+                  "price": 15.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f7363863fa63e9c319bfde5390986826",
+      "sport_key": "soccer_spain_copa_del_rey",
+      "commence_time": "2026-11-03T18:00:00Z",
+      "home_team": "CD Pamplona",
+      "away_team": "SD Eibar",
+      "bookmakers": [
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "CD Pamplona",
+                  "price": 9.69
+                },
+                {
+                  "name": "SD Eibar",
+                  "price": 1.21
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.15
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "CD Pamplona",
+                  "price": 11.1
+                },
+                {
+                  "name": "SD Eibar",
+                  "price": 1.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.55
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "CD Pamplona",
+                  "price": 10.5
+                },
+                {
+                  "name": "SD Eibar",
+                  "price": 1.19
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.0
                 }
               ]
             }
@@ -611,16 +1153,69 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "HJK Helsinki",
-                  "price": 1.33
+                  "name": "CD Pamplona",
+                  "price": 10.5
                 },
                 {
-                  "name": "VPS Vaasa",
-                  "price": 6.5
+                  "name": "SD Eibar",
+                  "price": 1.22
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 5.2
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "CD Pamplona",
+                  "price": 10.5
+                },
+                {
+                  "name": "SD Eibar",
+                  "price": 1.22
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.2
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "815fdc608bcf774718dd7722624817c7",
+      "sport_key": "soccer_sweden_allsvenskan",
+      "commence_time": "2026-11-03T18:00:00Z",
+      "home_team": "IK Sirius",
+      "away_team": "Halmstads BK",
+      "bookmakers": [
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Halmstads BK",
+                  "price": 9.5
+                },
+                {
+                  "name": "IK Sirius",
+                  "price": 1.25
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.0
                 }
               ]
             }
@@ -633,16 +1228,38 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "HJK Helsinki",
-                  "price": 1.35
+                  "name": "Halmstads BK",
+                  "price": 9.5
                 },
                 {
-                  "name": "VPS Vaasa",
-                  "price": 6.75
+                  "name": "IK Sirius",
+                  "price": 1.25
                 },
                 {
                   "name": "Draw",
-                  "price": 4.7
+                  "price": 6.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Halmstads BK",
+                  "price": 10.5
+                },
+                {
+                  "name": "IK Sirius",
+                  "price": 1.28
+                },
+                {
+                  "name": "Draw",
+                  "price": 6.25
                 }
               ]
             }
@@ -655,52 +1272,21 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "HJK Helsinki",
-                  "price": 1.28
+                  "name": "Halmstads BK",
+                  "price": 8.5
                 },
                 {
-                  "name": "VPS Vaasa",
-                  "price": 6.4
+                  "name": "IK Sirius",
+                  "price": 1.21
                 },
                 {
                   "name": "Draw",
-                  "price": 4.5
+                  "price": 5.5
                 }
               ]
             }
           ]
         },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "HJK Helsinki",
-                  "price": 1.35
-                },
-                {
-                  "name": "VPS Vaasa",
-                  "price": 6.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.7
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "10a70d197a090f08183739878151539d",
-      "sport_key": "soccer_turkey_super_league",
-      "commence_time": "2026-11-02T17:00:00Z",
-      "home_team": "Genclerbirligi SK",
-      "away_team": "Alanyaspor",
-      "bookmakers": [
         {
           "name": "Betclic (FR)",
           "markets": [
@@ -708,104 +1294,16 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Alanyaspor",
-                  "price": 2.53
+                  "name": "Halmstads BK",
+                  "price": 7.5
                 },
                 {
-                  "name": "Genclerbirligi SK",
-                  "price": 2.47
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Alanyaspor",
-                  "price": 2.6
-                },
-                {
-                  "name": "Genclerbirligi SK",
-                  "price": 2.6
+                  "name": "IK Sirius",
+                  "price": 1.24
                 },
                 {
                   "name": "Draw",
-                  "price": 3.23
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Alanyaspor",
-                  "price": 2.45
-                },
-                {
-                  "name": "Genclerbirligi SK",
-                  "price": 2.45
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Alanyaspor",
-                  "price": 2.5
-                },
-                {
-                  "name": "Genclerbirligi SK",
-                  "price": 2.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Alanyaspor",
-                  "price": 2.55
-                },
-                {
-                  "name": "Genclerbirligi SK",
-                  "price": 2.35
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
+                  "price": 5.5
                 }
               ]
             }
@@ -814,51 +1312,29 @@
       ]
     },
     {
-      "id": "0871e9eea24dc24cb6cd42ea2e49aa66",
-      "sport_key": "soccer_poland_ekstraklasa",
-      "commence_time": "2026-11-02T17:00:00Z",
-      "home_team": "Zagłębie Lubin",
-      "away_team": "Korona Kielce",
+      "id": "9469c1977185a1acd0154cc0a3b93331",
+      "sport_key": "soccer_efl_champ",
+      "commence_time": "2026-11-03T19:45:00Z",
+      "home_team": "Blackburn Rovers",
+      "away_team": "Stoke City",
       "bookmakers": [
         {
-          "name": "Unibet (FR)",
+          "name": "PMU (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Korona Kielce",
-                  "price": 2.6
+                  "name": "Blackburn Rovers",
+                  "price": 2.35
                 },
                 {
-                  "name": "Zagłębie Lubin",
-                  "price": 2.2
+                  "name": "Stoke City",
+                  "price": 2.6
                 },
                 {
                   "name": "Draw",
                   "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Korona Kielce",
-                  "price": 2.6
-                },
-                {
-                  "name": "Zagłębie Lubin",
-                  "price": 2.4
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.3
                 }
               ]
             }
@@ -871,157 +1347,38 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Korona Kielce",
-                  "price": 2.55
-                },
-                {
-                  "name": "Zagłębie Lubin",
-                  "price": 2.63
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Korona Kielce",
-                  "price": 2.65
-                },
-                {
-                  "name": "Zagłębie Lubin",
+                  "name": "Blackburn Rovers",
                   "price": 2.45
                 },
                 {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Korona Kielce",
-                  "price": 2.55
-                },
-                {
-                  "name": "Zagłębie Lubin",
-                  "price": 2.63
+                  "name": "Stoke City",
+                  "price": 2.75
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f6451120fb797175fd17d4fea64a9409",
-      "sport_key": "soccer_poland_ekstraklasa",
-      "commence_time": "2026-11-02T17:00:00Z",
-      "home_team": "Radomiak Radom",
-      "away_team": "Śląsk Wrocław",
-      "bookmakers": [
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Radomiak Radom",
-                  "price": 1.95
-                },
-                {
-                  "name": "Śląsk Wrocław",
-                  "price": 3.46
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (NL)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Radomiak Radom",
-                  "price": 2.0
-                },
-                {
-                  "name": "Śląsk Wrocław",
                   "price": 3.3
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.7
                 }
               ]
             }
           ]
         },
         {
-          "name": "Winamax (FR)",
+          "name": "Unibet (FR)",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Radomiak Radom",
-                  "price": 1.84
+                  "name": "Blackburn Rovers",
+                  "price": 2.4
                 },
                 {
-                  "name": "Śląsk Wrocław",
-                  "price": 3.2
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Radomiak Radom",
-                  "price": 1.92
-                },
-                {
-                  "name": "Śląsk Wrocław",
-                  "price": 3.45
+                  "name": "Stoke City",
+                  "price": 2.2
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 2.95
                 }
               ]
             }
@@ -1034,16 +1391,38 @@
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Radomiak Radom",
-                  "price": 1.91
+                  "name": "Blackburn Rovers",
+                  "price": 2.55
                 },
                 {
-                  "name": "Śląsk Wrocław",
-                  "price": 3.1
+                  "name": "Stoke City",
+                  "price": 2.85
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Blackburn Rovers",
+                  "price": 2.4
+                },
+                {
+                  "name": "Stoke City",
+                  "price": 2.7
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.2
                 }
               ]
             }
