@@ -1,483 +1,7 @@
 {
-  "采集时间": "2026-11-05T22:57:54.615333",
-  "比赛数": 11,
+  "采集时间": "2026-11-06T03:54:48.690764",
+  "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "68f644784f86f60e3602791054c87c24",
-      "sport_key": "soccer_argentina_primera_division",
-      "commence_time": "2026-11-05T22:15:00Z",
-      "home_team": "Gimnasia La Plata",
-      "away_team": "Belgrano de Cordoba",
-      "bookmakers": [
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Belgrano de Cordoba",
-                  "price": 5.98
-                },
-                {
-                  "name": "Gimnasia La Plata",
-                  "price": 1.56
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.74
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Belgrano de Cordoba",
-                  "price": 21.0
-                },
-                {
-                  "name": "Gimnasia La Plata",
-                  "price": 1.07
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Belgrano de Cordoba",
-                  "price": 21.0
-                },
-                {
-                  "name": "Gimnasia La Plata",
-                  "price": 1.07
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.6
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Belgrano de Cordoba",
-                  "price": 21.0
-                },
-                {
-                  "name": "Gimnasia La Plata",
-                  "price": 1.04
-                },
-                {
-                  "name": "Draw",
-                  "price": 8.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Unibet (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Belgrano de Cordoba",
-                  "price": 21.0
-                },
-                {
-                  "name": "Gimnasia La Plata",
-                  "price": 1.09
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "99bd48882f1301fc2dda49a01906add1",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-11-05T22:30:00Z",
-      "home_team": "Botafogo-SP",
-      "away_team": "Londrina",
-      "bookmakers": [
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 1.24
-                },
-                {
-                  "name": "Londrina",
-                  "price": 13.97
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.36
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 1.22
-                },
-                {
-                  "name": "Londrina",
-                  "price": 12.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Marathon Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 1.17
-                },
-                {
-                  "name": "Londrina",
-                  "price": 12.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.7
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 1.25
-                },
-                {
-                  "name": "Londrina",
-                  "price": 11.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Botafogo-SP",
-                  "price": 1.2
-                },
-                {
-                  "name": "Londrina",
-                  "price": 12.5
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.35
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5070809b922fa7079c68e5ed111cbbd7",
-      "sport_key": "soccer_brazil_campeonato",
-      "commence_time": "2026-11-05T22:30:00Z",
-      "home_team": "Palmeiras",
-      "away_team": "Remo",
-      "bookmakers": [
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Palmeiras",
-                  "price": 1.01
-                },
-                {
-                  "name": "Remo",
-                  "price": 81.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 26.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Palmeiras",
-                  "price": 1.01
-                },
-                {
-                  "name": "Remo",
-                  "price": 55.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 23.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Palmeiras",
-                  "price": 1.01
-                },
-                {
-                  "name": "Remo",
-                  "price": 55.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 22.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Palmeiras",
-                  "price": 1.0
-                },
-                {
-                  "name": "Remo",
-                  "price": 60.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 40.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Palmeiras",
-                  "price": 1.0
-                },
-                {
-                  "name": "Remo",
-                  "price": 36.0
-                },
-                {
-                  "name": "Draw",
-                  "price": 21.0
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "754fd36ffe7b5a7fcd922576da8b0c8a",
-      "sport_key": "soccer_brazil_campeonato",
-      "commence_time": "2026-11-06T00:30:00Z",
-      "home_team": "Cruzeiro",
-      "away_team": "Bahia",
-      "bookmakers": [
-        {
-          "name": "Unibet (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bahia",
-                  "price": 3.6
-                },
-                {
-                  "name": "Cruzeiro",
-                  "price": 1.56
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "William Hill",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bahia",
-                  "price": 4.0
-                },
-                {
-                  "name": "Cruzeiro",
-                  "price": 1.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bahia",
-                  "price": 4.0
-                },
-                {
-                  "name": "Cruzeiro",
-                  "price": 1.75
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (DE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bahia",
-                  "price": 3.9
-                },
-                {
-                  "name": "Cruzeiro",
-                  "price": 1.72
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.9
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Bahia",
-                  "price": 3.65
-                },
-                {
-                  "name": "Cruzeiro",
-                  "price": 1.66
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.7
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "53b2ad715a00ea769556e3f7a4583ecd",
       "sport_key": "soccer_australia_aleague",
@@ -493,15 +17,15 @@
               "outcomes": [
                 {
                   "name": "Central Coast Mariners",
-                  "price": 5.0
+                  "price": 4.7
                 },
                 {
                   "name": "Sydney FC",
-                  "price": 1.42
+                  "price": 1.46
                 },
                 {
                   "name": "Draw",
-                  "price": 4.1
+                  "price": 4.0
                 }
               ]
             }
@@ -515,15 +39,15 @@
               "outcomes": [
                 {
                   "name": "Central Coast Mariners",
-                  "price": 5.4
+                  "price": 5.1
                 },
                 {
                   "name": "Sydney FC",
-                  "price": 1.46
+                  "price": 1.5
                 },
                 {
                   "name": "Draw",
-                  "price": 4.4
+                  "price": 4.3
                 }
               ]
             }
@@ -559,15 +83,15 @@
               "outcomes": [
                 {
                   "name": "Central Coast Mariners",
-                  "price": 4.9
+                  "price": 4.65
                 },
                 {
                   "name": "Sydney FC",
-                  "price": 1.35
+                  "price": 1.38
                 },
                 {
                   "name": "Draw",
-                  "price": 3.75
+                  "price": 3.7
                 }
               ]
             }
@@ -612,15 +136,15 @@
               "outcomes": [
                 {
                   "name": "Lokomotiv Moscow",
-                  "price": 2.18
+                  "price": 2.23
                 },
                 {
                   "name": "Rubin Kazan",
-                  "price": 3.34
+                  "price": 3.25
                 },
                 {
                   "name": "Draw",
-                  "price": 3.59
+                  "price": 3.58
                 }
               ]
             }
@@ -634,11 +158,11 @@
               "outcomes": [
                 {
                   "name": "Lokomotiv Moscow",
-                  "price": 2.14
+                  "price": 2.18
                 },
                 {
                   "name": "Rubin Kazan",
-                  "price": 3.25
+                  "price": 3.15
                 },
                 {
                   "name": "Draw",
@@ -656,15 +180,15 @@
               "outcomes": [
                 {
                   "name": "Lokomotiv Moscow",
-                  "price": 2.17
+                  "price": 2.26
                 },
                 {
                   "name": "Rubin Kazan",
-                  "price": 3.61
+                  "price": 3.42
                 },
                 {
                   "name": "Draw",
-                  "price": 3.59
+                  "price": 3.56
                 }
               ]
             }
@@ -678,15 +202,15 @@
               "outcomes": [
                 {
                   "name": "Lokomotiv Moscow",
-                  "price": 2.12
+                  "price": 2.2
                 },
                 {
                   "name": "Rubin Kazan",
-                  "price": 3.52
+                  "price": 3.34
                 },
                 {
                   "name": "Draw",
-                  "price": 3.5
+                  "price": 3.48
                 }
               ]
             }
@@ -1154,15 +678,15 @@
               "outcomes": [
                 {
                   "name": "Dynamo Dresden",
-                  "price": 1.85
+                  "price": 1.9
                 },
                 {
                   "name": "Greuther Fürth",
-                  "price": 3.8
+                  "price": 3.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.9
+                  "price": 3.8
                 }
               ]
             }
@@ -1282,6 +806,125 @@
                 {
                   "name": "Draw",
                   "price": 3.9
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0a7f9982f6107e0ea4a99c3c61e31085",
+      "sport_key": "soccer_germany_bundesliga_women",
+      "commence_time": "2026-11-06T17:30:00Z",
+      "home_team": "Eintracht Frankfurt",
+      "away_team": "VfL Wolfsburg",
+      "bookmakers": [
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Eintracht Frankfurt",
+                  "price": 2.85
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 2.02
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (NL)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Eintracht Frankfurt",
+                  "price": 2.85
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 2.02
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LeoVegas (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Eintracht Frankfurt",
+                  "price": 2.85
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 2.02
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "1xBet",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Eintracht Frankfurt",
+                  "price": 3.21
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.89
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.72
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "888sport",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Eintracht Frankfurt",
+                  "price": 3.3
+                },
+                {
+                  "name": "VfL Wolfsburg",
+                  "price": 1.85
+                },
+                {
+                  "name": "Draw",
+                  "price": 3.4
                 }
               ]
             }
