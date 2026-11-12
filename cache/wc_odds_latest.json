@@ -1,126 +1,7 @@
 {
-  "采集时间": "2026-11-11T23:46:28.589698",
-  "比赛数": 9,
+  "采集时间": "2026-11-12T04:38:08.054535",
+  "比赛数": 8,
   "赔率数据": [
-    {
-      "id": "075f48d309299e100000f045773227db",
-      "sport_key": "soccer_brazil_serie_b",
-      "commence_time": "2026-11-11T22:00:00Z",
-      "home_team": "Londrina",
-      "away_team": "Nautico PE",
-      "bookmakers": [
-        {
-          "name": "Pinnacle",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Londrina",
-                  "price": 19.12
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 1.28
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.29
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Coolbet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Londrina",
-                  "price": 33.0
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 1.18
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.5
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Marathon Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Londrina",
-                  "price": 28.0
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 1.13
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.4
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "888sport",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Londrina",
-                  "price": 36.0
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 1.17
-                },
-                {
-                  "name": "Draw",
-                  "price": 5.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nordic Bet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Londrina",
-                  "price": 30.0
-                },
-                {
-                  "name": "Nautico PE",
-                  "price": 1.18
-                },
-                {
-                  "name": "Draw",
-                  "price": 4.6
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "c25477408b57267248b491fa5eab2572",
       "sport_key": "soccer_uefa_nations_league",
@@ -158,7 +39,7 @@
               "outcomes": [
                 {
                   "name": "Armenia",
-                  "price": 2.54
+                  "price": 2.52
                 },
                 {
                   "name": "Cyprus",
@@ -180,15 +61,15 @@
               "outcomes": [
                 {
                   "name": "Armenia",
-                  "price": 2.2
+                  "price": 2.3
                 },
                 {
                   "name": "Cyprus",
-                  "price": 2.8
+                  "price": 2.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 3.1
                 }
               ]
             }
@@ -224,15 +105,15 @@
               "outcomes": [
                 {
                   "name": "Armenia",
-                  "price": 2.25
+                  "price": 2.4
                 },
                 {
                   "name": "Cyprus",
-                  "price": 2.95
+                  "price": 2.8
                 },
                 {
                   "name": "Draw",
-                  "price": 3.3
+                  "price": 3.25
                 }
               ]
             }
@@ -277,7 +158,7 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.82
+                  "price": 1.88
                 },
                 {
                   "name": "Turkey",
@@ -285,7 +166,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.05
+                  "price": 3.85
                 }
               ]
             }
@@ -299,7 +180,7 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.82
+                  "price": 1.88
                 },
                 {
                   "name": "Turkey",
@@ -307,7 +188,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 4.05
+                  "price": 3.85
                 }
               ]
             }
@@ -321,11 +202,11 @@
               "outcomes": [
                 {
                   "name": "Belgium",
-                  "price": 1.74
+                  "price": 1.78
                 },
                 {
                   "name": "Turkey",
-                  "price": 3.7
+                  "price": 3.58
                 },
                 {
                   "name": "Draw",
@@ -378,11 +259,11 @@
                 },
                 {
                   "name": "CD Puertollano",
-                  "price": 5.31
+                  "price": 5.3
                 },
                 {
                   "name": "Draw",
-                  "price": 4.07
+                  "price": 4.02
                 }
               ]
             }
@@ -396,11 +277,11 @@
               "outcomes": [
                 {
                   "name": "Albacete",
-                  "price": 1.49
+                  "price": 1.52
                 },
                 {
                   "name": "CD Puertollano",
-                  "price": 5.1
+                  "price": 5.0
                 },
                 {
                   "name": "Draw",
@@ -418,11 +299,11 @@
               "outcomes": [
                 {
                   "name": "Albacete",
-                  "price": 1.54
+                  "price": 1.56
                 },
                 {
                   "name": "CD Puertollano",
-                  "price": 5.6
+                  "price": 5.4
                 },
                 {
                   "name": "Draw",
@@ -449,15 +330,15 @@
               "outcomes": [
                 {
                   "name": "Arsenal",
-                  "price": 11.05
+                  "price": 9.36
                 },
                 {
                   "name": "Barcelona",
-                  "price": 1.17
+                  "price": 1.22
                 },
                 {
                   "name": "Draw",
-                  "price": 7.28
+                  "price": 6.58
                 }
               ]
             }
@@ -471,15 +352,15 @@
               "outcomes": [
                 {
                   "name": "Arsenal",
-                  "price": 11.5
+                  "price": 9.2
                 },
                 {
                   "name": "Barcelona",
-                  "price": 1.14
+                  "price": 1.19
                 },
                 {
                   "name": "Draw",
-                  "price": 7.0
+                  "price": 6.4
                 }
               ]
             }
@@ -493,15 +374,15 @@
               "outcomes": [
                 {
                   "name": "Arsenal",
-                  "price": 10.7
+                  "price": 10.2
                 },
                 {
                   "name": "Barcelona",
-                  "price": 1.13
+                  "price": 1.17
                 },
                 {
                   "name": "Draw",
-                  "price": 7.1
+                  "price": 6.6
                 }
               ]
             }
@@ -515,15 +396,15 @@
               "outcomes": [
                 {
                   "name": "Arsenal",
-                  "price": 10.0
+                  "price": 9.5
                 },
                 {
                   "name": "Barcelona",
-                  "price": 1.18
+                  "price": 1.2
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 5.5
                 }
               ]
             }
@@ -537,15 +418,15 @@
               "outcomes": [
                 {
                   "name": "Arsenal",
-                  "price": 10.0
+                  "price": 9.0
                 },
                 {
                   "name": "Barcelona",
-                  "price": 1.17
+                  "price": 1.2
                 },
                 {
                   "name": "Draw",
-                  "price": 6.0
+                  "price": 5.5
                 }
               ]
             }
@@ -561,6 +442,28 @@
       "away_team": "Real Betis",
       "bookmakers": [
         {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "CDA Navalcarnero",
+                  "price": 10.95
+                },
+                {
+                  "name": "Real Betis",
+                  "price": 1.1
+                },
+                {
+                  "name": "Draw",
+                  "price": 8.51
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "888sport",
           "markets": [
             {
@@ -568,7 +471,7 @@
               "outcomes": [
                 {
                   "name": "CDA Navalcarnero",
-                  "price": 13.0
+                  "price": 15.0
                 },
                 {
                   "name": "Real Betis",
@@ -612,11 +515,11 @@
               "outcomes": [
                 {
                   "name": "CDA Navalcarnero",
-                  "price": 13.0
+                  "price": 15.0
                 },
                 {
                   "name": "Real Betis",
-                  "price": 1.15
+                  "price": 1.14
                 },
                 {
                   "name": "Draw",
@@ -634,7 +537,7 @@
               "outcomes": [
                 {
                   "name": "CDA Navalcarnero",
-                  "price": 15.0
+                  "price": 14.0
                 },
                 {
                   "name": "Real Betis",
@@ -643,28 +546,6 @@
                 {
                   "name": "Draw",
                   "price": 7.8
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "LeoVegas (SE)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "CDA Navalcarnero",
-                  "price": 16.0
-                },
-                {
-                  "name": "Real Betis",
-                  "price": 1.08
-                },
-                {
-                  "name": "Draw",
-                  "price": 9.5
                 }
               ]
             }
@@ -739,7 +620,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 9.0
+                  "price": 9.5
                 }
               ]
             }
@@ -850,11 +731,11 @@
               "outcomes": [
                 {
                   "name": "Albania",
-                  "price": 2.06
+                  "price": 2.1
                 },
                 {
                   "name": "Finland",
-                  "price": 4.5
+                  "price": 4.4
                 },
                 {
                   "name": "Draw",
@@ -872,15 +753,15 @@
               "outcomes": [
                 {
                   "name": "Albania",
-                  "price": 1.92
+                  "price": 2.02
                 },
                 {
                   "name": "Finland",
-                  "price": 4.1
+                  "price": 3.95
                 },
                 {
                   "name": "Draw",
-                  "price": 3.1
+                  "price": 3.0
                 }
               ]
             }
@@ -894,15 +775,15 @@
               "outcomes": [
                 {
                   "name": "Albania",
-                  "price": 1.86
+                  "price": 1.91
                 },
                 {
                   "name": "Finland",
-                  "price": 3.9
+                  "price": 4.05
                 },
                 {
                   "name": "Draw",
-                  "price": 3.15
+                  "price": 2.95
                 }
               ]
             }
@@ -947,7 +828,7 @@
               "outcomes": [
                 {
                   "name": "Belarus",
-                  "price": 1.1
+                  "price": 1.11
                 },
                 {
                   "name": "San Marino",
@@ -955,7 +836,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 8.0
+                  "price": 7.5
                 }
               ]
             }
@@ -969,7 +850,7 @@
               "outcomes": [
                 {
                   "name": "Belarus",
-                  "price": 1.1
+                  "price": 1.11
                 },
                 {
                   "name": "San Marino",
@@ -977,7 +858,7 @@
                 },
                 {
                   "name": "Draw",
-                  "price": 8.0
+                  "price": 7.5
                 }
               ]
             }
@@ -991,15 +872,15 @@
               "outcomes": [
                 {
                   "name": "Belarus",
-                  "price": 1.14
+                  "price": 1.15
                 },
                 {
                   "name": "San Marino",
-                  "price": 25.0
+                  "price": 26.0
                 },
                 {
                   "name": "Draw",
-                  "price": 10.0
+                  "price": 9.8
                 }
               ]
             }
