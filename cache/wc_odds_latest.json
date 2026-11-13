@@ -1,5 +1,5 @@
 {
-  "采集时间": "2026-11-13T03:51:11.187954",
+  "采集时间": "2026-11-13T13:31:11.388890",
   "比赛数": 8,
   "赔率数据": [
     {
@@ -17,11 +17,11 @@
               "outcomes": [
                 {
                   "name": "Kazakhstan",
-                  "price": 2.75
+                  "price": 2.8
                 },
                 {
                   "name": "Moldova",
-                  "price": 2.45
+                  "price": 2.35
                 },
                 {
                   "name": "Draw",
@@ -39,11 +39,11 @@
               "outcomes": [
                 {
                   "name": "Kazakhstan",
-                  "price": 2.98
+                  "price": 3.2
                 },
                 {
                   "name": "Moldova",
-                  "price": 2.82
+                  "price": 2.64
                 },
                 {
                   "name": "Draw",
@@ -61,15 +61,15 @@
               "outcomes": [
                 {
                   "name": "Kazakhstan",
-                  "price": 2.91
+                  "price": 3.07
                 },
                 {
                   "name": "Moldova",
-                  "price": 2.75
+                  "price": 2.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.08
+                  "price": 3.05
                 }
               ]
             }
@@ -83,11 +83,11 @@
               "outcomes": [
                 {
                   "name": "Kazakhstan",
-                  "price": 2.85
+                  "price": 2.95
                 },
                 {
                   "name": "Moldova",
-                  "price": 2.55
+                  "price": 2.52
                 },
                 {
                   "name": "Draw",
@@ -105,11 +105,11 @@
               "outcomes": [
                 {
                   "name": "Kazakhstan",
-                  "price": 2.85
+                  "price": 2.95
                 },
                 {
                   "name": "Moldova",
-                  "price": 2.55
+                  "price": 2.52
                 },
                 {
                   "name": "Draw",
@@ -195,7 +195,7 @@
           ]
         },
         {
-          "name": "888sport",
+          "name": "William Hill",
           "markets": [
             {
               "key": "h2h",
@@ -217,22 +217,22 @@
           ]
         },
         {
-          "name": "William Hill",
+          "name": "Tipico",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "FSV Mainz 05",
-                  "price": 4.0
+                  "price": 4.2
                 },
                 {
                   "name": "Hamburger SV",
-                  "price": 1.67
+                  "price": 1.6
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.9
                 }
               ]
             }
@@ -255,15 +255,15 @@
               "outcomes": [
                 {
                   "name": "Dijon",
-                  "price": 1.52
+                  "price": 1.61
                 },
                 {
                   "name": "Orléans",
-                  "price": 5.15
+                  "price": 4.58
                 },
                 {
                   "name": "Draw",
-                  "price": 4.28
+                  "price": 4.07
                 }
               ]
             }
@@ -299,15 +299,15 @@
               "outcomes": [
                 {
                   "name": "Dijon",
-                  "price": 1.53
+                  "price": 1.67
                 },
                 {
                   "name": "Orléans",
-                  "price": 6.0
+                  "price": 5.1
                 },
                 {
                   "name": "Draw",
-                  "price": 4.4
+                  "price": 4.3
                 }
               ]
             }
@@ -336,22 +336,141 @@
           ]
         },
         {
-          "name": "888sport",
+          "name": "William Hill",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
                   "name": "Dijon",
-                  "price": 1.53
+                  "price": 1.62
                 },
                 {
                   "name": "Orléans",
-                  "price": 5.0
+                  "price": 4.6
                 },
                 {
                   "name": "Draw",
-                  "price": 4.0
+                  "price": 3.9
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b6c0e4f145eae6cb513751d795ba6c0a",
+      "sport_key": "soccer_france_coupe_de_france",
+      "commence_time": "2026-11-13T19:00:00Z",
+      "home_team": "US St Philbert de Grandlieu",
+      "away_team": "VFC La Roche-sur-Yon",
+      "bookmakers": [
+        {
+          "name": "Pinnacle",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "US St Philbert de Grandlieu",
+                  "price": 6.9
+                },
+                {
+                  "name": "VFC La Roche-sur-Yon",
+                  "price": 1.27
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.45
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Codere (IT)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "US St Philbert de Grandlieu",
+                  "price": 8.2
+                },
+                {
+                  "name": "VFC La Roche-sur-Yon",
+                  "price": 1.31
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.6
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "William Hill",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "US St Philbert de Grandlieu",
+                  "price": 8.5
+                },
+                {
+                  "name": "VFC La Roche-sur-Yon",
+                  "price": 1.3
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Winamax (DE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "US St Philbert de Grandlieu",
+                  "price": 7.25
+                },
+                {
+                  "name": "VFC La Roche-sur-Yon",
+                  "price": 1.28
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.7
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Unibet (SE)",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "US St Philbert de Grandlieu",
+                  "price": 10.5
+                },
+                {
+                  "name": "VFC La Roche-sur-Yon",
+                  "price": 1.22
+                },
+                {
+                  "name": "Draw",
+                  "price": 5.8
                 }
               ]
             }
@@ -462,11 +581,11 @@
               "outcomes": [
                 {
                   "name": "Burgos CF",
-                  "price": 2.7
+                  "price": 2.65
                 },
                 {
                   "name": "Leganés",
-                  "price": 2.05
+                  "price": 2.1
                 },
                 {
                   "name": "Draw",
@@ -493,15 +612,15 @@
               "outcomes": [
                 {
                   "name": "Andorra",
-                  "price": 1.75
+                  "price": 1.7
                 },
                 {
                   "name": "Gibraltar",
-                  "price": 6.27
+                  "price": 6.82
                 },
                 {
                   "name": "Draw",
-                  "price": 3.34
+                  "price": 3.38
                 }
               ]
             }
@@ -515,15 +634,15 @@
               "outcomes": [
                 {
                   "name": "Andorra",
-                  "price": 1.77
+                  "price": 1.72
                 },
                 {
                   "name": "Gibraltar",
-                  "price": 5.75
+                  "price": 6.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.05
+                  "price": 3.1
                 }
               ]
             }
@@ -537,15 +656,15 @@
               "outcomes": [
                 {
                   "name": "Andorra",
-                  "price": 1.67
+                  "price": 1.63
                 },
                 {
                   "name": "Gibraltar",
-                  "price": 5.3
+                  "price": 5.5
                 },
                 {
                   "name": "Draw",
-                  "price": 2.85
+                  "price": 2.9
                 }
               ]
             }
@@ -559,15 +678,15 @@
               "outcomes": [
                 {
                   "name": "Andorra",
-                  "price": 1.77
+                  "price": 1.72
                 },
                 {
                   "name": "Gibraltar",
-                  "price": 5.75
+                  "price": 6.0
                 },
                 {
                   "name": "Draw",
-                  "price": 3.05
+                  "price": 3.1
                 }
               ]
             }
@@ -585,7 +704,7 @@
                 },
                 {
                   "name": "Gibraltar",
-                  "price": 5.5
+                  "price": 5.9
                 },
                 {
                   "name": "Draw",
@@ -612,15 +731,15 @@
               "outcomes": [
                 {
                   "name": "Azerbaijan",
-                  "price": 1.3
+                  "price": 1.23
                 },
                 {
                   "name": "Liechtenstein",
-                  "price": 12.5
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 5.3
                 }
               ]
             }
@@ -634,15 +753,15 @@
               "outcomes": [
                 {
                   "name": "Azerbaijan",
-                  "price": 1.32
+                  "price": 1.23
                 },
                 {
                   "name": "Liechtenstein",
-                  "price": 13.6
+                  "price": 19.0
                 },
                 {
                   "name": "Draw",
-                  "price": 5.06
+                  "price": 6.12
                 }
               ]
             }
@@ -656,15 +775,15 @@
               "outcomes": [
                 {
                   "name": "Azerbaijan",
-                  "price": 1.3
+                  "price": 1.23
                 },
                 {
                   "name": "Liechtenstein",
-                  "price": 12.5
+                  "price": 15.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.6
+                  "price": 5.3
                 }
               ]
             }
@@ -678,15 +797,15 @@
               "outcomes": [
                 {
                   "name": "Azerbaijan",
-                  "price": 1.23
+                  "price": 1.17
                 },
                 {
                   "name": "Liechtenstein",
-                  "price": 11.0
+                  "price": 14.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.25
+                  "price": 4.9
                 }
               ]
             }
@@ -700,15 +819,15 @@
               "outcomes": [
                 {
                   "name": "Azerbaijan",
-                  "price": 1.22
+                  "price": 1.16
                 },
                 {
                   "name": "Liechtenstein",
-                  "price": 11.5
+                  "price": 18.0
                 },
                 {
                   "name": "Draw",
-                  "price": 4.9
+                  "price": 5.4
                 }
               ]
             }
@@ -731,15 +850,15 @@
               "outcomes": [
                 {
                   "name": "Bulgaria",
-                  "price": 4.0
+                  "price": 4.2
                 },
                 {
                   "name": "Iceland",
-                  "price": 1.72
+                  "price": 1.64
                 },
                 {
                   "name": "Draw",
-                  "price": 3.4
+                  "price": 3.55
                 }
               ]
             }
@@ -753,15 +872,15 @@
               "outcomes": [
                 {
                   "name": "Bulgaria",
-                  "price": 4.7
+                  "price": 5.5
                 },
                 {
                   "name": "Iceland",
-                  "price": 1.9
+                  "price": 1.76
                 },
                 {
                   "name": "Draw",
-                  "price": 3.65
+                  "price": 3.9
                 }
               ]
             }
@@ -775,15 +894,15 @@
               "outcomes": [
                 {
                   "name": "Bulgaria",
-                  "price": 4.38
+                  "price": 4.96
                 },
                 {
                   "name": "Iceland",
-                  "price": 1.9
+                  "price": 1.78
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
+                  "price": 3.74
                 }
               ]
             }
@@ -797,15 +916,15 @@
               "outcomes": [
                 {
                   "name": "Bulgaria",
-                  "price": 4.25
+                  "price": 4.9
                 },
                 {
                   "name": "Iceland",
-                  "price": 1.78
+                  "price": 1.65
                 },
                 {
                   "name": "Draw",
-                  "price": 3.45
+                  "price": 3.6
                 }
               ]
             }
@@ -819,134 +938,15 @@
               "outcomes": [
                 {
                   "name": "Bulgaria",
-                  "price": 4.3
+                  "price": 4.5
                 },
                 {
                   "name": "Iceland",
-                  "price": 1.78
+                  "price": 1.7
                 },
                 {
                   "name": "Draw",
-                  "price": 3.6
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "eef1c96c424e42b66f49b7ec3bef1a5c",
-      "sport_key": "soccer_uefa_nations_league",
-      "commence_time": "2026-11-13T19:45:00Z",
-      "home_team": "Luxembourg",
-      "away_team": "Estonia",
-      "bookmakers": [
-        {
-          "name": "Betfair",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Estonia",
-                  "price": 3.5
-                },
-                {
-                  "name": "Luxembourg",
-                  "price": 2.42
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.2
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betsson",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Estonia",
-                  "price": 3.2
-                },
-                {
-                  "name": "Luxembourg",
-                  "price": 2.32
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Winamax (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Estonia",
-                  "price": 3.05
-                },
-                {
-                  "name": "Luxembourg",
-                  "price": 2.15
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.0
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "1xBet",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Estonia",
-                  "price": 3.42
-                },
-                {
-                  "name": "Luxembourg",
-                  "price": 2.34
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.21
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Betclic (FR)",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Estonia",
-                  "price": 3.1
-                },
-                {
-                  "name": "Luxembourg",
-                  "price": 2.17
-                },
-                {
-                  "name": "Draw",
-                  "price": 3.05
+                  "price": 3.75
                 }
               ]
             }
